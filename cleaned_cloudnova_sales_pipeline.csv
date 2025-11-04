@@ -1,0 +1,1001 @@
+Opportunity_ID,Deal_Name,Account_Name,Sales_Rep,Region,Lead_Source,Stage,Amount_USD,Close_Date,Created_Date,Days_in_Stage,Product_Tier,Competitor_Mentioned,Loss_Reason,Is_Outlier,Sales_Cycle_Duration,Month_Created,Month_Closed,Quarter_Created,Quarter_Closed
+OPP-10926,Deal for SynergyCorp,SynergyCorp,Charlie Brown,APAC,Referral,Closed Won,4438.77,2025-03-29,2024-11-08,123,Basic,No,NaN,False,141,2024-11,2025-03,2024Q4,2025Q1
+OPP-10630,Deal for Prime Ventures,Prime Ventures,Alice Johnson,North America,Partner,Closed Lost,2170.2,2024-12-11,2024-08-12,107,Enterprise,Yes,Budget,False,121,2024-08,2024-12,2024Q3,2024Q4
+OPP-10682,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Social Media,Closed Won,10254.29,2024-11-15,2024-07-17,102,Enterprise,No,NaN,False,121,2024-07,2024-11,2024Q3,2024Q4
+OPP-10514,Deal for Catalyst Group,Catalyst Group,Bob Williams,North America,Social Media,Closed Lost,4089.44,2024-11-17,2024-10-14,34,Enterprise,No,No Need,False,34,2024-10,2024-11,2024Q4,2024Q4
+OPP-10365,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,EMEA,Social Media,Closed Lost,2883.2,2025-01-30,2024-11-09,66,Enterprise,No,Competitor,False,82,2024-11,2025-01,2024Q4,2025Q1
+OPP-10655,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Event,Closed Lost,6050.06,2025-03-03,2025-01-28,34,Pro,Yes,Competitor,False,34,2025-01,2025-03,2025Q1,2025Q1
+OPP-10656,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Website,Closed Lost,2778.9,2024-10-11,2024-08-07,65,Basic,No,Internal Prioritization,False,65,2024-08,2024-10,2024Q3,2024Q4
+OPP-10529,Deal for Velocity Systems,Velocity Systems,Charlie Brown,North America,Partner,Closed Lost,12102.03,2024-12-19,2024-08-30,111,Enterprise,Yes,Timing,False,111,2024-08,2024-12,2024Q3,2024Q4
+OPP-10321,Deal for Zenith Global,Zenith Global,Eve Davis,EMEA,Partner,Closed Lost,2850.5,2025-07-22,2025-05-23,40,Basic,No,Budget,False,60,2025-05,2025-07,2025Q2,2025Q3
+OPP-10070,Deal for GlobalTech,GlobalTech,Diana Miller,EMEA,Partner,Closed Lost,3811.19,2025-04-28,2025-01-13,91,Pro,No,No Need,False,105,2025-01,2025-04,2025Q1,2025Q2
+OPP-10890,Deal for Zenith Global,Zenith Global,Eve Davis,APAC,Website,Closed Lost,3112.78,2024-11-06,2024-10-02,35,Pro,Yes,No Need,False,35,2024-10,2024-11,2024Q4,2024Q4
+OPP-10371,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Cold Call,Closed Lost,2609.33,2025-07-20,2025-05-11,70,Pro,No,Price,False,70,2025-05,2025-07,2025Q2,2025Q3
+OPP-10767,Deal for OmniCorp,OmniCorp,Bob Williams,APAC,Referral,Closed Won,4048.24,2025-05-29,2024-11-30,162,Basic,No,NaN,False,180,2024-11,2025-05,2024Q4,2025Q2
+OPP-10456,Deal for Catalyst Group,Catalyst Group,Diana Miller,APAC,Partner,Closed Lost,4975.95,2025-06-13,2025-03-25,80,Enterprise,Yes,Features,False,80,2025-03,2025-06,2025Q1,2025Q2
+OPP-10247,Deal for Veridian Corp,Veridian Corp,Charlie Brown,EMEA,Cold Call,Closed Lost,2448.59,2025-06-28,2025-03-26,86,Basic,Yes,Competitor,False,94,2025-03,2025-06,2025Q1,2025Q2
+OPP-10611,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Cold Call,Closed Lost,12756.32,2025-03-06,2024-10-23,114,Enterprise,Yes,Competitor,False,134,2024-10,2025-03,2024Q4,2025Q1
+OPP-10705,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,APAC,Referral,Closed Lost,2632.85,2025-06-17,2025-01-25,125,Enterprise,No,Timing,False,143,2025-01,2025-06,2025Q1,2025Q2
+OPP-10979,Deal for Prime Ventures,Prime Ventures,Charlie Brown,North America,Website,Closed Lost,9570.19,2024-09-07,2024-08-03,20,Enterprise,No,Competitor,False,35,2024-08,2024-09,2024Q3,2024Q3
+OPP-10298,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Event,Closed Lost,3119.28,2025-05-10,2025-03-06,53,Basic,Yes,Timing,False,65,2025-03,2025-05,2025Q1,2025Q2
+OPP-10101,Deal for InnovateCo,InnovateCo,Charlie Brown,EMEA,Partner,Closed Lost,6496.39,2024-10-19,2024-08-10,70,Pro,Yes,Features,False,70,2024-08,2024-10,2024Q3,2024Q4
+OPP-10960,Deal for InnovateCo,InnovateCo,Charlie Brown,APAC,Event,Closed Lost,8521.54,2024-09-06,2024-06-23,59,Enterprise,No,Features,False,75,2024-06,2024-09,2024Q2,2024Q3
+OPP-10605,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,North America,Referral,Closed Lost,7787.22,2025-07-08,2025-02-26,132,Enterprise,No,Price,False,132,2025-02,2025-07,2025Q1,2025Q3
+OPP-10213,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Partner,Closed Lost,1190.34,2025-05-13,2024-12-27,131,Basic,Yes,Budget,False,137,2024-12,2025-05,2024Q4,2025Q2
+OPP-10237,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Event,Closed Lost,11468.04,2025-03-04,2024-10-24,131,Enterprise,No,Timing,False,131,2024-10,2025-03,2024Q4,2025Q1
+OPP-10593,Deal for InnovateCo,InnovateCo,Alice Johnson,North America,Partner,Closed Lost,5907.06,2025-05-24,2025-01-02,142,Pro,Yes,Competitor,False,142,2025-01,2025-05,2025Q1,2025Q2
+OPP-10281,Deal for Catalyst Group,Catalyst Group,Eve Davis,North America,Partner,Closed Lost,4325.16,2025-07-23,2025-04-30,76,Enterprise,Yes,Competitor,False,84,2025-04,2025-07,2025Q2,2025Q3
+OPP-10377,Deal for Catalyst Group,Catalyst Group,Diana Miller,EMEA,Website,Closed Lost,3438.15,2025-01-30,2024-12-10,51,Basic,Yes,No Need,False,51,2024-12,2025-01,2024Q4,2025Q1
+OPP-10286,Deal for Apex Solutions,Apex Solutions,Eve Davis,APAC,Website,Closed Lost,4287.36,2025-05-11,2025-01-21,97,Basic,Yes,Competitor,False,110,2025-01,2025-05,2025Q1,2025Q2
+OPP-10388,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,North America,Partner,Closed Lost,9671.07,2024-12-17,2024-08-11,116,Enterprise,Yes,Internal Prioritization,False,128,2024-08,2024-12,2024Q3,2024Q4
+OPP-10883,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,APAC,Cold Call,Closed Lost,11186.25,2024-09-23,2024-06-23,92,Enterprise,Yes,Internal Prioritization,False,92,2024-06,2024-09,2024Q2,2024Q3
+OPP-10717,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Cold Call,Closed Lost,2510.13,2025-01-07,2024-09-30,80,Basic,No,No Need,False,99,2024-09,2025-01,2024Q3,2025Q1
+OPP-10793,Deal for Horizon Digital,Horizon Digital,Bob Williams,APAC,Website,Closed Lost,1343.56,2025-05-10,2024-12-20,129,Basic,No,Features,False,141,2024-12,2025-05,2024Q4,2025Q2
+OPP-10096,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Website,Closed Lost,4847.72,2025-06-03,2025-01-08,136,Enterprise,Yes,Internal Prioritization,False,146,2025-01,2025-06,2025Q1,2025Q2
+OPP-10244,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,North America,Referral,Closed Lost,1623.33,2025-07-12,2025-04-22,64,Pro,No,Timing,False,81,2025-04,2025-07,2025Q2,2025Q3
+OPP-10746,Deal for Veridian Corp,Veridian Corp,Alice Johnson,EMEA,Referral,Closed Lost,17478.08,2024-12-03,2024-08-25,100,Enterprise,Yes,Internal Prioritization,True,100,2024-08,2024-12,2024Q3,2024Q4
+OPP-10076,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Cold Call,Closed Lost,3276.78,2024-10-01,2024-06-20,84,Basic,Yes,Budget,False,103,2024-06,2024-10,2024Q2,2024Q4
+OPP-10933,Deal for InnovateCo,InnovateCo,Eve Davis,EMEA,Website,Closed Lost,5992.24,2025-01-05,2024-11-19,40,Enterprise,No,Competitor,False,47,2024-11,2025-01,2024Q4,2025Q1
+OPP-10209,Deal for Veridian Corp,Veridian Corp,Charlie Brown,APAC,Partner,Closed Lost,8009.21,2025-08-18,2025-05-09,92,Enterprise,Yes,Timing,False,101,2025-05,2025-08,2025Q2,2025Q3
+OPP-10259,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Event,Closed Lost,1779.47,2024-12-13,2024-07-23,136,Enterprise,Yes,No Need,False,143,2024-07,2024-12,2024Q3,2024Q4
+OPP-10158,Deal for InnovateCo,InnovateCo,Diana Miller,APAC,Cold Call,Closed Lost,6936.11,2024-08-19,2024-07-01,38,Enterprise,No,Timing,False,49,2024-07,2024-08,2024Q3,2024Q3
+OPP-10495,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Event,Closed Lost,6235.67,2025-01-02,2024-09-24,100,Enterprise,No,No Need,False,100,2024-09,2025-01,2024Q3,2025Q1
+OPP-10526,Deal for Prime Ventures,Prime Ventures,Alice Johnson,North America,Event,Closed Lost,8694.5,2025-06-03,2025-02-18,95,Enterprise,No,Budget,False,105,2025-02,2025-06,2025Q1,2025Q2
+OPP-10331,Deal for Prime Ventures,Prime Ventures,Charlie Brown,North America,Website,Closed Won,4147.64,2025-05-05,2024-11-13,162,Pro,Yes,NaN,False,173,2024-11,2025-05,2024Q4,2025Q2
+OPP-10952,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,North America,Website,Closed Lost,3718.78,2024-11-11,2024-07-25,109,Basic,Yes,Price,False,109,2024-07,2024-11,2024Q3,2024Q4
+OPP-10314,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,APAC,Social Media,Closed Lost,2782.41,2024-10-12,2024-07-25,69,Basic,No,Price,False,79,2024-07,2024-10,2024Q3,2024Q4
+OPP-10294,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,EMEA,Event,Closed Lost,2130.76,2025-03-20,2024-12-21,89,Basic,No,Internal Prioritization,False,89,2024-12,2025-03,2024Q4,2025Q1
+OPP-10381,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Social Media,Closed Lost,3666.04,2025-01-24,2024-11-14,54,Pro,No,Timing,False,71,2024-11,2025-01,2024Q4,2025Q1
+OPP-10920,Deal for InnovateCo,InnovateCo,Diana Miller,APAC,Cold Call,Closed Lost,6672.09,2024-10-24,2024-08-15,59,Enterprise,Yes,Timing,False,70,2024-08,2024-10,2024Q3,2024Q4
+OPP-10803,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Cold Call,Closed Won,2525.05,2025-04-01,2024-09-27,172,Basic,No,NaN,False,186,2024-09,2025-04,2024Q3,2025Q2
+OPP-10954,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Referral,Closed Lost,9323.0,2025-07-10,2025-03-20,93,Enterprise,Yes,No Need,False,112,2025-03,2025-07,2025Q1,2025Q3
+OPP-10621,Deal for Prime Ventures,Prime Ventures,Charlie Brown,APAC,Website,Closed Lost,821.36,2025-06-05,2025-01-27,114,Basic,No,Budget,False,129,2025-01,2025-06,2025Q1,2025Q2
+OPP-10718,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,North America,Cold Call,Closed Lost,7809.19,2025-02-01,2024-11-20,73,Pro,No,Internal Prioritization,False,73,2024-11,2025-02,2024Q4,2025Q1
+OPP-10059,Deal for Catalyst Group,Catalyst Group,Bob Williams,APAC,Referral,Closed Lost,5119.07,2024-12-03,2024-07-20,118,Pro,No,No Need,False,136,2024-07,2024-12,2024Q3,2024Q4
+OPP-10625,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Referral,Closed Lost,7213.21,2025-04-19,2025-03-19,21,Pro,Yes,Features,False,31,2025-03,2025-04,2025Q1,2025Q2
+OPP-10558,Deal for Horizon Digital,Horizon Digital,Alice Johnson,North America,Website,Closed Lost,9471.04,2024-11-07,2024-07-21,109,Enterprise,Yes,Timing,False,109,2024-07,2024-11,2024Q3,2024Q4
+OPP-10783,Deal for Quantum Labs,Quantum Labs,Diana Miller,EMEA,Referral,Closed Lost,2776.83,2024-07-16,2024-06-09,17,Pro,No,Competitor,False,37,2024-06,2024-07,2024Q2,2024Q3
+OPP-10380,Deal for Velocity Systems,Velocity Systems,Charlie Brown,North America,Social Media,Closed Lost,1438.87,2025-02-04,2024-12-28,38,Basic,Yes,Internal Prioritization,False,38,2024-12,2025-02,2024Q4,2025Q1
+OPP-10054,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,North America,Social Media,Closed Lost,1229.55,2025-03-04,2024-10-30,125,Pro,No,No Need,False,125,2024-10,2025-03,2024Q4,2025Q1
+OPP-10023,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Event,Closed Lost,8829.41,2024-10-31,2024-06-13,135,Enterprise,Yes,Internal Prioritization,False,140,2024-06,2024-10,2024Q2,2024Q4
+OPP-10030,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Referral,Closed Lost,12777.9,2025-04-28,2025-03-04,55,Enterprise,Yes,Internal Prioritization,False,55,2025-03,2025-04,2025Q1,2025Q2
+OPP-10876,Deal for Horizon Digital,Horizon Digital,Diana Miller,EMEA,Referral,Closed Lost,9571.54,2024-12-20,2024-09-14,91,Enterprise,Yes,Competitor,False,97,2024-09,2024-12,2024Q3,2024Q4
+OPP-10429,Deal for Catalyst Group,Catalyst Group,Eve Davis,EMEA,Website,Closed Lost,2462.41,2024-12-10,2024-08-02,130,Basic,No,No Need,False,130,2024-08,2024-12,2024Q3,2024Q4
+OPP-10010,Deal for Veridian Corp,Veridian Corp,Diana Miller,EMEA,Referral,Closed Lost,3263.45,2024-12-21,2024-10-03,66,Basic,Yes,No Need,False,79,2024-10,2024-12,2024Q4,2024Q4
+OPP-10816,Deal for Prime Ventures,Prime Ventures,Diana Miller,North America,Partner,Closed Lost,1298.33,2025-08-13,2025-03-26,125,Basic,Yes,No Need,False,140,2025-03,2025-08,2025Q1,2025Q3
+OPP-10809,Deal for InnovateCo,InnovateCo,Charlie Brown,North America,Referral,Closed Lost,786.4,2024-12-20,2024-06-16,181,Basic,Yes,Competitor,False,187,2024-06,2024-12,2024Q2,2024Q4
+OPP-10482,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,APAC,Cold Call,Closed Lost,13636.97,2025-03-30,2025-02-28,20,Enterprise,No,Price,False,30,2025-02,2025-03,2025Q1,2025Q1
+OPP-10445,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Event,Closed Lost,6652.7,2024-09-02,2024-07-03,61,Pro,Yes,Price,False,61,2024-07,2024-09,2024Q3,2024Q3
+OPP-10199,Deal for Veridian Corp,Veridian Corp,Diana Miller,North America,Referral,Closed Lost,9663.64,2024-09-21,2024-08-21,20,Enterprise,No,Competitor,False,31,2024-08,2024-09,2024Q3,2024Q3
+OPP-10500,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Social Media,Closed Lost,5477.12,2025-05-07,2025-01-24,98,Enterprise,No,No Need,False,103,2025-01,2025-05,2025Q1,2025Q2
+OPP-10773,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Event,Closed Lost,9392.21,2024-10-19,2024-06-19,113,Pro,No,Competitor,False,122,2024-06,2024-10,2024Q2,2024Q4
+OPP-10107,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Social Media,Closed Lost,3309.7,2024-11-07,2024-07-11,119,Pro,No,Competitor,False,119,2024-07,2024-11,2024Q3,2024Q4
+OPP-10218,Deal for Quantum Labs,Quantum Labs,Alice Johnson,EMEA,Event,Closed Lost,3934.99,2025-05-23,2025-03-05,73,Basic,Yes,No Need,False,79,2025-03,2025-05,2025Q1,2025Q2
+OPP-10420,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,North America,Event,Closed Lost,3604.52,2024-11-15,2024-08-10,88,Pro,Yes,No Need,False,97,2024-08,2024-11,2024Q3,2024Q4
+OPP-10174,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,North America,Partner,Closed Lost,7484.75,2024-12-08,2024-08-28,102,Pro,No,Features,False,102,2024-08,2024-12,2024Q3,2024Q4
+OPP-10720,Deal for GlobalTech,GlobalTech,Bob Williams,EMEA,Partner,Closed Lost,3803.87,2025-05-22,2025-02-14,88,Basic,Yes,Timing,False,97,2025-02,2025-05,2025Q1,2025Q2
+OPP-10519,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,APAC,Event,Closed Lost,4135.21,2025-07-18,2025-05-25,54,Basic,No,Internal Prioritization,False,54,2025-05,2025-07,2025Q2,2025Q3
+OPP-10453,Deal for Prime Ventures,Prime Ventures,Eve Davis,EMEA,Social Media,Closed Lost,1345.05,2025-07-02,2025-02-25,115,Basic,Yes,Timing,False,127,2025-02,2025-07,2025Q1,2025Q3
+OPP-10929,Deal for OmniCorp,OmniCorp,Alice Johnson,North America,Social Media,Closed Lost,4685.25,2024-09-30,2024-07-09,70,Basic,No,Features,False,83,2024-07,2024-09,2024Q3,2024Q3
+OPP-10039,Deal for Zenith Global,Zenith Global,Alice Johnson,North America,Partner,Closed Lost,4970.19,2025-04-29,2025-02-07,73,Pro,No,No Need,False,81,2025-02,2025-04,2025Q1,2025Q2
+OPP-10551,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,North America,Cold Call,Closed Lost,6998.96,2024-10-31,2024-06-05,140,Pro,Yes,No Need,False,148,2024-06,2024-10,2024Q2,2024Q4
+OPP-10819,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,APAC,Referral,Closed Lost,7510.61,2025-07-01,2025-04-07,65,Pro,No,Timing,False,85,2025-04,2025-07,2025Q2,2025Q3
+OPP-10351,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,North America,Website,Closed Lost,5074.64,2025-05-15,2025-01-03,113,Pro,No,Budget,False,132,2025-01,2025-05,2025Q1,2025Q2
+OPP-10066,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Partner,Closed Lost,3389.65,2024-11-19,2024-07-20,122,Basic,No,Price,False,122,2024-07,2024-11,2024Q3,2024Q4
+OPP-10277,Deal for OmniCorp,OmniCorp,Eve Davis,APAC,Partner,Closed Lost,2728.92,2025-02-28,2024-10-20,124,Enterprise,Yes,No Need,False,131,2024-10,2025-02,2024Q4,2025Q1
+OPP-10067,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,North America,Referral,Closed Lost,3817.82,2025-08-08,2025-03-23,126,Enterprise,No,Timing,False,138,2025-03,2025-08,2025Q1,2025Q3
+OPP-10906,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,EMEA,Event,Closed Lost,4309.95,2025-08-10,2025-03-28,122,Basic,Yes,Timing,False,135,2025-03,2025-08,2025Q1,2025Q3
+OPP-10914,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Cold Call,Closed Lost,2369.28,2024-10-19,2024-09-17,32,Enterprise,Yes,Timing,False,32,2024-09,2024-10,2024Q3,2024Q4
+OPP-10944,Deal for Catalyst Group,Catalyst Group,Bob Williams,APAC,Social Media,Closed Won,2789.36,2024-12-09,2024-06-25,151,Pro,Yes,NaN,False,167,2024-06,2024-12,2024Q2,2024Q4
+OPP-10296,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,APAC,Partner,Closed Lost,6296.38,2025-06-06,2025-02-24,102,Enterprise,Yes,Internal Prioritization,False,102,2025-02,2025-06,2025Q1,2025Q2
+OPP-10618,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Event,Closed Lost,1820.97,2025-04-28,2025-02-01,86,Basic,Yes,Features,False,86,2025-02,2025-04,2025Q1,2025Q2
+OPP-10598,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Event,Closed Lost,1505.63,2024-12-16,2024-07-25,138,Basic,Yes,Budget,False,144,2024-07,2024-12,2024Q3,2024Q4
+OPP-10904,Deal for Apex Solutions,Apex Solutions,Bob Williams,EMEA,Social Media,Closed Lost,1302.38,2024-10-29,2024-09-19,40,Pro,Yes,Internal Prioritization,False,40,2024-09,2024-10,2024Q3,2024Q4
+OPP-10848,Deal for Apex Solutions,Apex Solutions,Diana Miller,North America,Social Media,Closed Lost,11924.27,2025-06-02,2025-01-06,131,Enterprise,Yes,Internal Prioritization,False,147,2025-01,2025-06,2025Q1,2025Q2
+OPP-10423,Deal for Zenith Global,Zenith Global,Charlie Brown,North America,Cold Call,Closed Lost,10718.21,2025-02-25,2024-11-08,109,Enterprise,Yes,Internal Prioritization,False,109,2024-11,2025-02,2024Q4,2025Q1
+OPP-10757,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,APAC,Cold Call,Closed Lost,4466.03,2024-11-18,2024-09-05,74,Basic,Yes,No Need,False,74,2024-09,2024-11,2024Q3,2024Q4
+OPP-10312,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Website,Closed Lost,2599.7,2025-05-13,2025-01-25,99,Enterprise,No,Competitor,False,108,2025-01,2025-05,2025Q1,2025Q2
+OPP-10184,Deal for GlobalTech,GlobalTech,Charlie Brown,APAC,Event,Closed Lost,10196.9,2025-09-07,2025-05-09,104,Enterprise,Yes,Price,False,121,2025-05,2025-09,2025Q2,2025Q3
+OPP-10332,Deal for GlobalTech,GlobalTech,Charlie Brown,EMEA,Website,Closed Lost,5503.02,2025-05-23,2025-03-20,64,Pro,Yes,Features,False,64,2025-03,2025-05,2025Q1,2025Q2
+OPP-10088,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,APAC,Referral,Closed Lost,7174.89,2025-02-10,2024-10-08,107,Pro,No,No Need,False,125,2024-10,2025-02,2024Q4,2025Q1
+OPP-10063,Deal for SynergyCorp,SynergyCorp,Bob Williams,APAC,Website,Closed Lost,9109.73,2025-07-01,2025-02-13,138,Enterprise,No,No Need,False,138,2025-02,2025-07,2025Q1,2025Q3
+OPP-10830,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,APAC,Event,Closed Won,4711.2,2025-04-28,2025-02-11,71,Pro,Yes,NaN,False,76,2025-02,2025-04,2025Q1,2025Q2
+OPP-10576,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,North America,Partner,Closed Lost,2445.89,2025-03-10,2024-10-17,144,Pro,Yes,No Need,False,144,2024-10,2025-03,2024Q4,2025Q1
+OPP-10215,Deal for Prime Ventures,Prime Ventures,Bob Williams,North America,Event,Closed Lost,7922.31,2025-01-24,2024-08-28,134,Enterprise,No,Timing,False,149,2024-08,2025-01,2024Q3,2025Q1
+OPP-10604,Deal for Horizon Digital,Horizon Digital,Alice Johnson,North America,Website,Closed Lost,2040.1,2025-07-21,2025-05-09,73,Basic,Yes,Features,False,73,2025-05,2025-07,2025Q2,2025Q3
+OPP-10548,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Cold Call,Closed Lost,1118.74,2025-05-10,2025-02-11,78,Basic,No,Competitor,False,88,2025-02,2025-05,2025Q1,2025Q2
+OPP-10290,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,North America,Referral,Closed Lost,1471.12,2025-08-09,2025-04-23,108,Basic,Yes,Features,False,108,2025-04,2025-08,2025Q2,2025Q3
+OPP-10787,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Website,Closed Lost,3830.34,2025-06-30,2025-02-06,125,Pro,Yes,Budget,False,144,2025-02,2025-06,2025Q1,2025Q2
+OPP-10887,Deal for Quantum Labs,Quantum Labs,Charlie Brown,APAC,Partner,Closed Lost,11620.81,2024-10-21,2024-08-25,57,Enterprise,No,No Need,False,57,2024-08,2024-10,2024Q3,2024Q4
+OPP-10964,Deal for SynergyCorp,SynergyCorp,Eve Davis,APAC,Social Media,Closed Lost,967.99,2024-09-02,2024-07-29,35,Basic,Yes,Price,False,35,2024-07,2024-09,2024Q3,2024Q3
+OPP-10942,Deal for Horizon Digital,Horizon Digital,Charlie Brown,North America,Referral,Closed Lost,8664.92,2025-10-03,2025-05-18,125,Enterprise,Yes,Timing,False,138,2025-05,2025-10,2025Q2,2025Q4
+OPP-10741,Deal for Horizon Digital,Horizon Digital,Diana Miller,APAC,Referral,Closed Lost,5056.11,2025-04-01,2025-02-27,33,Enterprise,Yes,Budget,False,33,2025-02,2025-04,2025Q1,2025Q2
+OPP-10978,Deal for Apex Solutions,Apex Solutions,Charlie Brown,EMEA,Event,Closed Lost,1768.66,2025-05-23,2025-01-12,126,Pro,Yes,Price,False,131,2025-01,2025-05,2025Q1,2025Q2
+OPP-10694,Deal for Catalyst Group,Catalyst Group,Charlie Brown,EMEA,Partner,Closed Lost,6222.27,2024-08-01,2024-06-01,48,Pro,No,Competitor,False,61,2024-06,2024-08,2024Q2,2024Q3
+OPP-10990,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Social Media,Closed Lost,3341.5,2025-03-15,2024-12-21,71,Basic,No,Price,False,84,2024-12,2025-03,2024Q4,2025Q1
+OPP-10309,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Referral,Closed Lost,1618.7,2025-01-10,2024-11-07,64,Basic,No,Features,False,64,2024-11,2025-01,2024Q4,2025Q1
+OPP-10086,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Referral,Closed Lost,13036.19,2025-01-21,2024-11-30,37,Enterprise,Yes,Internal Prioritization,False,52,2024-11,2025-01,2024Q4,2025Q1
+OPP-10728,Deal for Horizon Digital,Horizon Digital,Diana Miller,APAC,Partner,Closed Lost,1743.88,2025-04-21,2025-03-17,18,Enterprise,No,Competitor,False,35,2025-03,2025-04,2025Q1,2025Q2
+OPP-10516,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,EMEA,Website,Closed Lost,2312.79,2024-11-05,2024-09-02,44,Pro,No,Price,False,64,2024-09,2024-11,2024Q3,2024Q4
+OPP-10310,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Referral,Closed Lost,8099.88,2025-04-19,2025-03-14,16,Enterprise,No,Price,False,36,2025-03,2025-04,2025Q1,2025Q2
+OPP-10536,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,North America,Partner,Closed Won,2139.08,2025-08-15,2025-01-31,179,Pro,No,NaN,False,196,2025-01,2025-08,2025Q1,2025Q3
+OPP-10136,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,EMEA,Event,Closed Lost,9538.5,2025-08-03,2025-04-14,94,Pro,No,Timing,False,111,2025-04,2025-08,2025Q2,2025Q3
+OPP-10921,Deal for SynergyCorp,SynergyCorp,Charlie Brown,EMEA,Partner,Closed Lost,3487.78,2025-06-22,2024-09-07,46,Basic,Yes,No Need,False,288,2024-09,2025-06,2024Q3,2025Q2
+OPP-10465,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Event,Closed Lost,6987.85,2025-03-29,2024-11-16,116,Pro,Yes,Internal Prioritization,False,133,2024-11,2025-03,2024Q4,2025Q1
+OPP-10845,Deal for SynergyCorp,SynergyCorp,Bob Williams,North America,Event,Closed Lost,3646.72,2024-12-15,2024-09-23,83,Basic,Yes,Timing,False,83,2024-09,2024-12,2024Q3,2024Q4
+OPP-10261,Deal for BrightSpark,BrightSpark,Eve Davis,North America,Partner,Closed Lost,10563.59,2025-08-26,2025-05-24,89,Enterprise,No,Competitor,False,94,2025-05,2025-08,2025Q2,2025Q3
+OPP-10486,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Website,Closed Lost,4243.93,2024-11-03,2024-06-30,113,Basic,No,Internal Prioritization,False,126,2024-06,2024-11,2024Q2,2024Q4
+OPP-10168,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Cold Call,Closed Lost,4393.48,2025-05-27,2025-04-05,39,Basic,Yes,Price,False,52,2025-04,2025-05,2025Q2,2025Q2
+OPP-10828,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,APAC,Partner,Closed Lost,3021.67,2025-06-22,2024-08-17,137,Pro,Yes,Features,False,309,2024-08,2025-06,2024Q3,2025Q2
+OPP-10447,Deal for GlobalTech,GlobalTech,Bob Williams,APAC,Social Media,Closed Lost,7511.95,2025-04-16,2024-12-28,109,Enterprise,Yes,Price,False,109,2024-12,2025-04,2024Q4,2025Q2
+OPP-10139,Deal for Quantum Labs,Quantum Labs,Eve Davis,APAC,Social Media,Closed Lost,7190.63,2025-04-11,2025-02-21,49,Enterprise,Yes,Competitor,False,49,2025-02,2025-04,2025Q1,2025Q2
+OPP-10739,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,EMEA,Social Media,Closed Lost,2696.62,2024-12-16,2024-10-20,57,Basic,No,Budget,False,57,2024-10,2024-12,2024Q4,2024Q4
+OPP-10664,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Cold Call,Closed Lost,7697.64,2025-02-22,2024-10-03,142,Enterprise,No,Features,False,142,2024-10,2025-02,2024Q4,2025Q1
+OPP-10853,Deal for BrightSpark,BrightSpark,Eve Davis,APAC,Partner,Closed Lost,9626.33,2024-10-21,2024-08-02,61,Pro,Yes,Internal Prioritization,False,80,2024-08,2024-10,2024Q3,2024Q4
+OPP-10440,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Partner,Closed Lost,11973.16,2024-10-14,2024-06-05,112,Enterprise,No,Budget,False,131,2024-06,2024-10,2024Q2,2024Q4
+OPP-10212,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,EMEA,Cold Call,Closed Lost,10563.82,2024-08-02,2024-06-28,19,Enterprise,No,Features,False,35,2024-06,2024-08,2024Q2,2024Q3
+OPP-10531,Deal for Apex Solutions,Apex Solutions,Alice Johnson,EMEA,Referral,Closed Lost,3144.51,2025-01-12,2024-10-23,62,Basic,No,Price,False,81,2024-10,2025-01,2024Q4,2025Q1
+OPP-10055,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,EMEA,Referral,Closed Lost,10584.7,2025-02-18,2024-09-26,145,Enterprise,Yes,Budget,False,145,2024-09,2025-02,2024Q3,2025Q1
+OPP-10120,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Referral,Closed Lost,6446.02,2025-04-03,2024-11-12,142,Enterprise,Yes,Budget,False,142,2024-11,2025-04,2024Q4,2025Q2
+OPP-10528,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,North America,Partner,Closed Lost,3600.36,2025-08-13,2025-04-25,95,Basic,Yes,Internal Prioritization,False,110,2025-04,2025-08,2025Q2,2025Q3
+OPP-10025,Deal for Velocity Systems,Velocity Systems,Eve Davis,APAC,Partner,Closed Lost,9959.33,2025-04-19,2025-01-13,83,Pro,No,No Need,False,96,2025-01,2025-04,2025Q1,2025Q2
+OPP-10072,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,North America,Event,Closed Lost,7270.01,2025-08-20,2025-05-09,103,Enterprise,Yes,No Need,False,103,2025-05,2025-08,2025Q2,2025Q3
+OPP-10044,Deal for InnovateCo,InnovateCo,Eve Davis,APAC,Website,Closed Lost,10255.92,2024-12-25,2024-09-26,70,Enterprise,No,Competitor,False,90,2024-09,2024-12,2024Q3,2024Q4
+OPP-10249,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Website,Closed Lost,6326.06,2025-04-06,2025-02-02,58,Pro,Yes,Features,False,63,2025-02,2025-04,2025Q1,2025Q2
+OPP-10394,Deal for Horizon Digital,Horizon Digital,Charlie Brown,EMEA,Social Media,Closed Lost,2957.81,2025-04-24,2025-03-08,47,Basic,Yes,Price,False,47,2025-03,2025-04,2025Q1,2025Q2
+OPP-10912,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Referral,Closed Lost,6114.55,2025-04-29,2025-01-07,112,Pro,Yes,Features,False,112,2025-01,2025-04,2025Q1,2025Q2
+OPP-10898,Deal for OmniCorp,OmniCorp,Charlie Brown,APAC,Social Media,Closed Lost,5864.81,2024-07-11,2024-06-03,27,Pro,Yes,No Need,False,38,2024-06,2024-07,2024Q2,2024Q3
+OPP-10745,Deal for Zenith Global,Zenith Global,Bob Williams,APAC,Referral,Closed Lost,7747.7,2025-08-05,2025-05-28,69,Pro,Yes,Competitor,False,69,2025-05,2025-08,2025Q2,2025Q3
+OPP-10198,Deal for OmniCorp,OmniCorp,Diana Miller,North America,Partner,Closed Won,2784.02,2024-11-14,2024-07-07,115,Basic,No,NaN,False,130,2024-07,2024-11,2024Q3,2024Q4
+OPP-10814,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Event,Closed Lost,2456.46,2025-05-04,2025-02-08,69,Enterprise,Yes,Price,False,85,2025-02,2025-05,2025Q1,2025Q2
+OPP-10355,Deal for Velocity Systems,Velocity Systems,Bob Williams,North America,Referral,Closed Lost,5120.19,2025-07-02,2025-05-29,23,Basic,Yes,Budget,False,34,2025-05,2025-07,2025Q2,2025Q3
+OPP-10323,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,APAC,Social Media,Closed Lost,11354.21,2025-08-07,2025-05-09,90,Enterprise,No,No Need,False,90,2025-05,2025-08,2025Q2,2025Q3
+OPP-10874,Deal for SynergyCorp,SynergyCorp,Eve Davis,North America,Social Media,Closed Lost,3301.49,2025-01-04,2024-09-03,123,Basic,Yes,Price,False,123,2024-09,2025-01,2024Q3,2025Q1
+OPP-10825,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Partner,Closed Lost,2291.13,2025-05-12,2025-02-09,92,Pro,No,Timing,False,92,2025-02,2025-05,2025Q1,2025Q2
+OPP-10235,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Referral,Closed Won,3087.77,2025-09-18,2025-04-06,145,Pro,Yes,NaN,False,165,2025-04,2025-09,2025Q2,2025Q3
+OPP-10578,Deal for Veridian Corp,Veridian Corp,Eve Davis,EMEA,Cold Call,Closed Lost,11785.83,2025-04-25,2025-02-26,58,Enterprise,No,Competitor,False,58,2025-02,2025-04,2025Q1,2025Q2
+OPP-10945,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,EMEA,Cold Call,Closed Lost,4367.56,2025-01-20,2024-09-30,112,Basic,Yes,Internal Prioritization,False,112,2024-09,2025-01,2024Q3,2025Q1
+OPP-10939,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,APAC,Website,Closed Lost,1456.42,2025-01-29,2024-11-17,73,Basic,Yes,Internal Prioritization,False,73,2024-11,2025-01,2024Q4,2025Q1
+OPP-10903,Deal for Veridian Corp,Veridian Corp,Alice Johnson,EMEA,Social Media,Closed Lost,3450.07,2025-07-23,2025-05-29,49,Basic,Yes,Features,False,55,2025-05,2025-07,2025Q2,2025Q3
+OPP-10299,Deal for Quantum Labs,Quantum Labs,Bob Williams,North America,Social Media,Closed Lost,1876.64,2024-11-10,2024-09-03,68,Pro,Yes,Competitor,False,68,2024-09,2024-11,2024Q3,2024Q4
+OPP-10060,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,North America,Event,Closed Lost,7304.96,2025-10-02,2025-05-20,127,Pro,Yes,No Need,False,135,2025-05,2025-10,2025Q2,2025Q4
+OPP-10327,Deal for Catalyst Group,Catalyst Group,Diana Miller,North America,Social Media,Closed Won,3169.36,2025-06-18,2024-12-29,151,Pro,Yes,NaN,False,171,2024-12,2025-06,2024Q4,2025Q2
+OPP-10527,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Referral,Closed Lost,5184.05,2025-07-24,2025-02-24,144,Pro,No,Competitor,False,150,2025-02,2025-07,2025Q1,2025Q3
+OPP-10599,Deal for OmniCorp,OmniCorp,Diana Miller,APAC,Event,Closed Lost,9276.12,2024-12-19,2024-08-11,111,Pro,Yes,Features,False,130,2024-08,2024-12,2024Q3,2024Q4
+OPP-10541,Deal for BrightSpark,BrightSpark,Eve Davis,APAC,Cold Call,Closed Lost,10738.08,2025-03-06,2025-01-19,29,Enterprise,No,Budget,False,46,2025-01,2025-03,2025Q1,2025Q1
+OPP-10649,Deal for Zenith Global,Zenith Global,Alice Johnson,North America,Cold Call,Closed Lost,5773.8,2025-03-05,2024-11-24,101,Pro,No,Timing,False,101,2024-11,2025-03,2024Q4,2025Q1
+OPP-10770,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Social Media,Closed Lost,3597.3,2024-12-23,2024-09-09,105,Basic,No,No Need,False,105,2024-09,2024-12,2024Q3,2024Q4
+OPP-10596,Deal for Quantum Labs,Quantum Labs,Alice Johnson,North America,Partner,Closed Lost,1356.77,2024-09-29,2024-07-05,86,Basic,Yes,No Need,False,86,2024-07,2024-09,2024Q3,2024Q3
+OPP-10542,Deal for Quantum Labs,Quantum Labs,Eve Davis,APAC,Website,Closed Lost,8430.41,2024-10-24,2024-09-03,51,Enterprise,No,Price,False,51,2024-09,2024-10,2024Q3,2024Q4
+OPP-10781,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,APAC,Referral,Closed Lost,2700.03,2025-01-22,2024-09-06,138,Basic,No,No Need,False,138,2024-09,2025-01,2024Q3,2025Q1
+OPP-10305,Deal for Horizon Digital,Horizon Digital,Charlie Brown,EMEA,Event,Closed Lost,11748.66,2025-05-13,2025-03-02,61,Enterprise,Yes,Internal Prioritization,False,72,2025-03,2025-05,2025Q1,2025Q2
+OPP-10318,Deal for Velocity Systems,Velocity Systems,Alice Johnson,APAC,Partner,Closed Lost,7154.54,2025-04-25,2025-03-26,30,Pro,Yes,Budget,False,30,2025-03,2025-04,2025Q1,2025Q2
+OPP-10481,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Partner,Closed Lost,1847.19,2024-11-29,2024-10-09,40,Enterprise,Yes,Internal Prioritization,False,51,2024-10,2024-11,2024Q4,2024Q4
+OPP-10493,Deal for Veridian Corp,Veridian Corp,Diana Miller,North America,Partner,Closed Lost,2710.17,2024-09-11,2024-07-25,39,Pro,No,Budget,False,48,2024-07,2024-09,2024Q3,2024Q3
+OPP-10265,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,EMEA,Event,Closed Lost,5305.24,2024-11-26,2024-09-01,86,Basic,Yes,Features,False,86,2024-09,2024-11,2024Q3,2024Q4
+OPP-10110,Deal for Velocity Systems,Velocity Systems,Alice Johnson,North America,Cold Call,Closed Lost,13108.12,2025-02-03,2024-10-27,99,Enterprise,Yes,Timing,False,99,2024-10,2025-02,2024Q4,2025Q1
+OPP-10468,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,APAC,Social Media,Closed Lost,4291.89,2024-11-03,2024-08-09,86,Pro,No,Features,False,86,2024-08,2024-11,2024Q3,2024Q4
+OPP-10736,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Cold Call,Closed Lost,2202.56,2025-01-11,2024-09-29,104,Basic,Yes,Features,False,104,2024-09,2025-01,2024Q3,2025Q1
+OPP-10525,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,APAC,Cold Call,Closed Lost,6396.78,2024-10-08,2024-06-12,118,Enterprise,Yes,Features,False,118,2024-06,2024-10,2024Q2,2024Q4
+OPP-10256,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Website,Closed Lost,4458.63,2025-05-30,2025-03-13,59,Pro,Yes,Timing,False,78,2025-03,2025-05,2025Q1,2025Q2
+OPP-10260,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,North America,Partner,Closed Lost,620.51,2025-07-15,2025-04-17,89,Basic,Yes,Internal Prioritization,False,89,2025-04,2025-07,2025Q2,2025Q3
+OPP-10544,Deal for InnovateCo,InnovateCo,Alice Johnson,APAC,Partner,Closed Lost,653.23,2025-01-18,2024-10-16,80,Basic,No,Features,False,94,2024-10,2025-01,2024Q4,2025Q1
+OPP-10405,Deal for Prime Ventures,Prime Ventures,Charlie Brown,APAC,Social Media,Closed Lost,5167.81,2025-05-31,2025-01-19,121,Basic,No,Budget,False,132,2025-01,2025-05,2025Q1,2025Q2
+OPP-10428,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,North America,Partner,Closed Lost,2147.73,2025-05-22,2025-03-14,63,Pro,Yes,Competitor,False,69,2025-03,2025-05,2025Q1,2025Q2
+OPP-10628,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,North America,Referral,Closed Lost,3466.91,2025-05-03,2025-03-29,25,Basic,No,Internal Prioritization,False,35,2025-03,2025-05,2025Q1,2025Q2
+OPP-10501,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,EMEA,Social Media,Closed Lost,4699.24,2024-10-03,2024-09-01,15,Enterprise,No,No Need,False,32,2024-09,2024-10,2024Q3,2024Q4
+OPP-10432,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Event,Closed Lost,3668.84,2025-05-23,2025-03-19,65,Enterprise,Yes,Internal Prioritization,False,65,2025-03,2025-05,2025Q1,2025Q2
+OPP-10731,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Social Media,Closed Lost,3554.62,2025-02-06,2024-11-28,70,Basic,No,Timing,False,70,2024-11,2025-02,2024Q4,2025Q1
+OPP-10137,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,APAC,Referral,Closed Lost,7019.86,2024-07-31,2024-06-14,47,Pro,No,Budget,False,47,2024-06,2024-07,2024Q2,2024Q3
+OPP-10357,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,APAC,Social Media,Closed Lost,10766.36,2025-06-27,2025-02-15,132,Pro,No,Timing,False,132,2025-02,2025-06,2025Q1,2025Q2
+OPP-10928,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,EMEA,Cold Call,Closed Lost,2717.26,2024-11-20,2024-07-19,115,Basic,Yes,Internal Prioritization,False,124,2024-07,2024-11,2024Q3,2024Q4
+OPP-10221,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Cold Call,Closed Lost,1793.49,2025-06-06,2025-04-17,43,Pro,No,No Need,False,50,2025-04,2025-06,2025Q2,2025Q2
+OPP-10753,Deal for Horizon Digital,Horizon Digital,Charlie Brown,EMEA,Social Media,Closed Lost,3999.28,2024-12-14,2024-09-13,92,Basic,No,Competitor,False,92,2024-09,2024-12,2024Q3,2024Q4
+OPP-10594,Deal for SynergyCorp,SynergyCorp,Alice Johnson,EMEA,Partner,Closed Lost,1599.96,2025-09-05,2025-05-10,104,Pro,Yes,Competitor,False,118,2025-05,2025-09,2025Q2,2025Q3
+OPP-10557,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Website,Closed Lost,2113.96,2025-05-03,2025-01-05,104,Basic,No,Budget,False,118,2025-01,2025-05,2025Q1,2025Q2
+OPP-10363,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Cold Call,Closed Lost,3387.19,2024-07-10,2024-06-02,18,Enterprise,No,Timing,False,38,2024-06,2024-07,2024Q2,2024Q3
+OPP-10523,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,North America,Website,Closed Lost,812.94,2025-08-01,2025-03-27,113,Basic,Yes,Features,False,127,2025-03,2025-08,2025Q1,2025Q3
+OPP-10208,Deal for Zenith Global,Zenith Global,Diana Miller,North America,Event,Closed Lost,1667.35,2025-05-30,2025-02-03,116,Pro,Yes,Timing,False,116,2025-02,2025-05,2025Q1,2025Q2
+OPP-10778,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Referral,Closed Lost,6431.06,2024-12-10,2024-09-04,81,Pro,No,Price,False,97,2024-09,2024-12,2024Q3,2024Q4
+OPP-10334,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Event,Closed Lost,2112.39,2025-05-08,2025-03-01,68,Pro,Yes,Budget,False,68,2025-03,2025-05,2025Q1,2025Q2
+OPP-10210,Deal for Apex Solutions,Apex Solutions,Diana Miller,North America,Website,Closed Lost,3763.8,2025-03-08,2025-01-27,23,Pro,No,No Need,False,40,2025-01,2025-03,2025Q1,2025Q1
+OPP-10350,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Website,Closed Lost,4235.37,2025-09-16,2025-05-12,116,Pro,No,Features,False,127,2025-05,2025-09,2025Q2,2025Q3
+OPP-10078,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Cold Call,Closed Lost,12870.74,2025-03-11,2024-10-23,130,Enterprise,Yes,Timing,False,139,2024-10,2025-03,2024Q4,2025Q1
+OPP-10029,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,APAC,Social Media,Closed Lost,2898.04,2025-05-04,2024-12-19,123,Basic,Yes,No Need,False,136,2024-12,2025-05,2024Q4,2025Q2
+OPP-10280,Deal for GlobalTech,GlobalTech,Diana Miller,APAC,Partner,Closed Lost,4119.92,2025-02-03,2024-12-19,28,Enterprise,Yes,Internal Prioritization,False,46,2024-12,2025-02,2024Q4,2025Q1
+OPP-10507,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,North America,Event,Closed Lost,1408.68,2024-11-17,2024-07-21,111,Basic,Yes,Timing,False,119,2024-07,2024-11,2024Q3,2024Q4
+OPP-10652,Deal for Elite Dynamics,Elite Dynamics,Charlie Brown,APAC,Website,Closed Lost,16962.91,2025-07-10,2025-02-23,137,Enterprise,Yes,No Need,True,137,2025-02,2025-07,2025Q1,2025Q3
+OPP-10946,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,North America,Event,Closed Lost,7333.64,2024-12-05,2024-06-19,154,Pro,Yes,No Need,False,169,2024-06,2024-12,2024Q2,2024Q4
+OPP-10289,Deal for Apex Solutions,Apex Solutions,Eve Davis,APAC,Social Media,Closed Lost,2222.15,2024-11-24,2024-07-05,142,Basic,Yes,No Need,False,142,2024-07,2024-11,2024Q3,2024Q4
+OPP-10165,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,APAC,Referral,Closed Lost,11474.87,2024-09-03,2024-07-24,41,Pro,No,Price,False,41,2024-07,2024-09,2024Q3,2024Q3
+OPP-10761,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Social Media,Closed Lost,3055.01,2025-06-27,2025-04-12,57,Basic,No,Features,False,76,2025-04,2025-06,2025Q2,2025Q2
+OPP-10497,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,APAC,Referral,Closed Lost,3105.48,2025-03-17,2025-01-21,55,Pro,No,Budget,False,55,2025-01,2025-03,2025Q1,2025Q1
+OPP-10462,Deal for Prime Ventures,Prime Ventures,Eve Davis,EMEA,Cold Call,Closed Lost,7447.88,2025-02-18,2024-12-24,39,Enterprise,Yes,No Need,False,56,2024-12,2025-02,2024Q4,2025Q1
+OPP-10065,Deal for GlobalTech,GlobalTech,Alice Johnson,APAC,Social Media,Closed Lost,8440.09,2025-09-20,2025-05-26,101,Enterprise,Yes,No Need,False,117,2025-05,2025-09,2025Q2,2025Q3
+OPP-10141,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,North America,Event,Closed Lost,4268.94,2025-03-25,2025-01-05,60,Enterprise,Yes,Price,False,79,2025-01,2025-03,2025Q1,2025Q1
+OPP-10275,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,APAC,Cold Call,Closed Lost,8060.87,2025-03-01,2024-12-29,62,Enterprise,Yes,Competitor,False,62,2024-12,2025-03,2024Q4,2025Q1
+OPP-10951,Deal for Pioneer Systems,Pioneer Systems,Eve Davis,APAC,Partner,Closed Lost,7521.18,2025-01-09,2024-10-24,61,Pro,No,Timing,False,77,2024-10,2025-01,2024Q4,2025Q1
+OPP-10582,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Event,Closed Lost,4379.95,2025-05-26,2025-04-14,28,Basic,Yes,Features,False,42,2025-04,2025-05,2025Q2,2025Q2
+OPP-10464,Deal for Apex Solutions,Apex Solutions,Diana Miller,North America,Website,Closed Lost,2194.65,2025-06-20,2024-12-28,161,Basic,No,Price,False,174,2024-12,2025-06,2024Q4,2025Q2
+OPP-10668,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,North America,Cold Call,Closed Lost,4613.27,2024-09-10,2024-07-20,40,Basic,No,Internal Prioritization,False,52,2024-07,2024-09,2024Q3,2024Q3
+OPP-10319,Deal for SynergyCorp,SynergyCorp,Alice Johnson,North America,Event,Closed Lost,10782.44,2025-01-07,2024-10-23,59,Enterprise,No,Internal Prioritization,False,76,2024-10,2025-01,2024Q4,2025Q1
+OPP-10715,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,North America,Referral,Closed Lost,10604.6,2025-07-19,2025-03-20,121,Enterprise,Yes,No Need,False,121,2025-03,2025-07,2025Q1,2025Q3
+OPP-10306,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Cold Call,Closed Lost,5867.66,2024-12-20,2024-08-16,126,Pro,Yes,Competitor,False,126,2024-08,2024-12,2024Q3,2024Q4
+OPP-10307,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Referral,Closed Lost,7796.81,2025-05-07,2024-12-29,113,Pro,No,Features,False,129,2024-12,2025-05,2024Q4,2025Q2
+OPP-10824,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,APAC,Cold Call,Closed Lost,2907.51,2025-06-06,2025-03-18,80,Basic,No,Price,False,80,2025-03,2025-06,2025Q1,2025Q2
+OPP-10333,Deal for Veridian Corp,Veridian Corp,Diana Miller,EMEA,Event,Closed Lost,4696.68,2025-05-11,2025-02-19,66,Pro,Yes,Price,False,81,2025-02,2025-05,2025Q1,2025Q2
+OPP-10049,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,EMEA,Event,Closed Lost,8800.27,2025-04-25,2025-03-10,26,Pro,Yes,Timing,False,46,2025-03,2025-04,2025Q1,2025Q2
+OPP-10730,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Website,Closed Lost,7685.14,2025-02-12,2024-10-06,112,Pro,No,Internal Prioritization,False,129,2024-10,2025-02,2024Q4,2025Q1
+OPP-10002,Deal for Veridian Corp,Veridian Corp,Eve Davis,EMEA,Partner,Closed Lost,629.35,2025-09-04,2025-04-18,139,Basic,Yes,Features,False,139,2025-04,2025-09,2025Q2,2025Q3
+OPP-10785,Deal for Horizon Digital,Horizon Digital,Alice Johnson,APAC,Referral,Closed Lost,5795.55,2025-09-02,2025-04-10,133,Enterprise,No,Competitor,False,145,2025-04,2025-09,2025Q2,2025Q3
+OPP-10352,Deal for OmniCorp,OmniCorp,Bob Williams,EMEA,Website,Closed Lost,4156.38,2024-10-05,2024-07-04,85,Basic,No,Features,False,93,2024-07,2024-10,2024Q3,2024Q4
+OPP-10908,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Event,Closed Lost,6923.29,2024-12-30,2024-09-27,83,Pro,Yes,Features,False,94,2024-09,2024-12,2024Q3,2024Q4
+OPP-10538,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,EMEA,Referral,Closed Lost,5399.69,2024-09-25,2024-08-11,45,Enterprise,No,Budget,False,45,2024-08,2024-09,2024Q3,2024Q3
+OPP-10346,Deal for Horizon Digital,Horizon Digital,Eve Davis,APAC,Referral,Closed Lost,4337.59,2024-12-10,2024-08-27,93,Basic,No,Features,False,105,2024-08,2024-12,2024Q3,2024Q4
+OPP-10999,Deal for Veridian Corp,Veridian Corp,Alice Johnson,APAC,Event,Closed Lost,6928.15,2024-12-08,2024-09-01,86,Pro,Yes,Internal Prioritization,False,98,2024-09,2024-12,2024Q3,2024Q4
+OPP-10483,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,APAC,Event,Closed Lost,2364.34,2025-06-28,2025-05-02,38,Basic,Yes,Features,False,57,2025-05,2025-06,2025Q2,2025Q2
+OPP-10660,Deal for GlobalTech,GlobalTech,Eve Davis,EMEA,Cold Call,Closed Lost,13648.28,2025-01-24,2024-11-29,47,Enterprise,No,Budget,False,56,2024-11,2025-01,2024Q4,2025Q1
+OPP-10033,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,North America,Event,Closed Lost,4631.5,2025-05-11,2025-02-15,85,Pro,Yes,Features,False,85,2025-02,2025-05,2025Q1,2025Q2
+OPP-10031,Deal for Catalyst Group,Catalyst Group,Eve Davis,North America,Event,Closed Lost,10278.03,2024-09-17,2024-07-29,50,Enterprise,No,Competitor,False,50,2024-07,2024-09,2024Q3,2024Q3
+OPP-10231,Deal for Catalyst Group,Catalyst Group,Charlie Brown,EMEA,Partner,Closed Lost,2835.63,2025-01-17,2024-12-01,47,Basic,Yes,Timing,False,47,2024-12,2025-01,2024Q4,2025Q1
+OPP-10751,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,EMEA,Referral,Closed Lost,2010.6,2024-08-07,2024-07-08,30,Enterprise,Yes,Features,False,30,2024-07,2024-08,2024Q3,2024Q3
+OPP-10192,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Referral,Closed Lost,7724.89,2025-10-13,2025-05-16,150,Enterprise,Yes,Competitor,False,150,2025-05,2025-10,2025Q2,2025Q4
+OPP-10513,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Event,Closed Lost,4548.52,2024-11-12,2024-06-27,138,Basic,No,Internal Prioritization,False,138,2024-06,2024-11,2024Q2,2024Q4
+OPP-10003,Deal for Catalyst Group,Catalyst Group,Bob Williams,EMEA,Cold Call,Closed Lost,3926.77,2025-01-24,2024-12-04,51,Basic,No,Timing,False,51,2024-12,2025-01,2024Q4,2025Q1
+OPP-10204,Deal for InnovateCo,InnovateCo,Bob Williams,APAC,Event,Closed Lost,1094.99,2025-06-05,2025-02-10,115,Pro,Yes,No Need,False,115,2025-02,2025-06,2025Q1,2025Q2
+OPP-10433,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,North America,Partner,Closed Lost,5664.01,2025-07-01,2025-03-24,90,Enterprise,No,Competitor,False,99,2025-03,2025-07,2025Q1,2025Q3
+OPP-10806,Deal for Velocity Systems,Velocity Systems,Alice Johnson,APAC,Website,Closed Lost,5038.34,2025-07-01,2025-03-06,117,Enterprise,Yes,Budget,False,117,2025-03,2025-07,2025Q1,2025Q3
+OPP-10983,Deal for GlobalTech,GlobalTech,Eve Davis,North America,Website,Closed Lost,645.05,2025-05-16,2025-01-22,114,Basic,No,Budget,False,114,2025-01,2025-05,2025Q1,2025Q2
+OPP-10109,Deal for Zenith Global,Zenith Global,Bob Williams,EMEA,Cold Call,Closed Lost,7665.34,2025-04-21,2025-01-31,74,Pro,Yes,Internal Prioritization,False,80,2025-01,2025-04,2025Q1,2025Q2
+OPP-10940,Deal for OmniCorp,OmniCorp,Diana Miller,APAC,Event,Closed Lost,2351.94,2025-04-22,2024-12-19,115,Basic,Yes,Timing,False,124,2024-12,2025-04,2024Q4,2025Q2
+OPP-10077,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,North America,Cold Call,Closed Lost,7222.81,2024-09-26,2024-07-02,86,Enterprise,Yes,Timing,False,86,2024-07,2024-09,2024Q3,2024Q3
+OPP-10084,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Partner,Closed Lost,518.92,2024-10-10,2024-08-11,52,Basic,Yes,Competitor,False,60,2024-08,2024-10,2024Q3,2024Q4
+OPP-10588,Deal for BrightSpark,BrightSpark,Bob Williams,EMEA,Social Media,Closed Lost,4369.73,2025-04-11,2025-02-25,30,Pro,No,No Need,False,45,2025-02,2025-04,2025Q1,2025Q2
+OPP-10082,Deal for Horizon Digital,Horizon Digital,Eve Davis,North America,Social Media,Closed Lost,5911.25,2025-05-06,2024-12-08,130,Enterprise,Yes,Price,False,149,2024-12,2025-05,2024Q4,2025Q2
+OPP-10254,Deal for Zenith Global,Zenith Global,Diana Miller,North America,Partner,Closed Lost,4531.64,2024-12-13,2024-10-22,32,Basic,Yes,No Need,False,52,2024-10,2024-12,2024Q4,2024Q4
+OPP-10922,Deal for Zenith Global,Zenith Global,Eve Davis,EMEA,Event,Closed Lost,1222.29,2025-05-23,2025-01-09,127,Basic,Yes,Timing,False,134,2025-01,2025-05,2025Q1,2025Q2
+OPP-10408,Deal for InnovateCo,InnovateCo,Diana Miller,APAC,Referral,Closed Lost,14217.47,2025-02-26,2024-11-22,82,Enterprise,Yes,No Need,False,96,2024-11,2025-02,2024Q4,2025Q1
+OPP-10653,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,APAC,Event,Closed Lost,4474.81,2025-07-30,2025-05-17,74,Enterprise,No,Budget,False,74,2025-05,2025-07,2025Q2,2025Q3
+OPP-10521,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Event,Closed Lost,3131.46,2024-11-03,2024-09-22,29,Basic,No,No Need,False,42,2024-09,2024-11,2024Q3,2024Q4
+OPP-10918,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,North America,Event,Closed Won,5043.4,2025-02-22,2024-09-23,140,Pro,Yes,NaN,False,152,2024-09,2025-02,2024Q3,2025Q1
+OPP-10436,Deal for SynergyCorp,SynergyCorp,Bob Williams,EMEA,Partner,Closed Lost,1850.52,2025-04-29,2025-03-12,48,Pro,No,Competitor,False,48,2025-03,2025-04,2025Q1,2025Q2
+OPP-10005,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,North America,Cold Call,Closed Won,3912.51,2025-10-22,2025-04-26,161,Basic,Yes,NaN,False,179,2025-04,2025-10,2025Q2,2025Q4
+OPP-10404,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,EMEA,Website,Closed Lost,4711.85,2025-07-01,2025-05-13,49,Pro,Yes,Price,False,49,2025-05,2025-07,2025Q2,2025Q3
+OPP-10467,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Event,Closed Won,12406.68,2025-06-04,2024-07-05,92,Enterprise,Yes,NaN,False,334,2024-07,2025-06,2024Q3,2025Q2
+OPP-10097,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Partner,Closed Won,7638.96,2024-11-29,2024-07-12,121,Pro,Yes,NaN,False,140,2024-07,2024-11,2024Q3,2024Q4
+OPP-10559,Deal for Veridian Corp,Veridian Corp,Charlie Brown,EMEA,Referral,Closed Lost,2522.3,2024-08-30,2024-06-17,74,Basic,No,Internal Prioritization,False,74,2024-06,2024-08,2024Q2,2024Q3
+OPP-10359,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,APAC,Event,Closed Lost,2011.03,2025-07-28,2025-05-13,76,Basic,No,No Need,False,76,2025-05,2025-07,2025Q2,2025Q3
+OPP-10872,Deal for InnovateCo,InnovateCo,Bob Williams,North America,Social Media,Closed Lost,11919.61,2025-01-01,2024-09-20,103,Enterprise,Yes,Internal Prioritization,False,103,2024-09,2025-01,2024Q3,2025Q1
+OPP-10266,Deal for Catalyst Group,Catalyst Group,Eve Davis,APAC,Referral,Closed Lost,6596.89,2025-06-26,2024-07-19,49,Pro,No,Budget,False,342,2024-07,2025-06,2024Q3,2025Q2
+OPP-10677,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Cold Call,Closed Lost,1668.02,2025-04-20,2024-12-30,92,Pro,No,Timing,False,111,2024-12,2025-04,2024Q4,2025Q2
+OPP-10382,Deal for Prime Ventures,Prime Ventures,Charlie Brown,EMEA,Partner,Closed Lost,3448.79,2024-12-04,2024-09-14,67,Enterprise,No,Internal Prioritization,False,81,2024-09,2024-12,2024Q3,2024Q4
+OPP-10693,Deal for Quantum Labs,Quantum Labs,Diana Miller,EMEA,Website,Closed Lost,6115.49,2025-05-18,2025-03-25,35,Enterprise,Yes,Timing,False,54,2025-03,2025-05,2025Q1,2025Q2
+OPP-10411,Deal for Apex Solutions,Apex Solutions,Alice Johnson,APAC,Partner,Closed Lost,3958.5,2024-10-14,2024-09-03,24,Pro,Yes,Features,False,41,2024-09,2024-10,2024Q3,2024Q4
+OPP-10885,Deal for Velocity Systems,Velocity Systems,Alice Johnson,APAC,Cold Call,Closed Lost,3753.86,2025-05-14,2025-03-20,55,Basic,Yes,Internal Prioritization,False,55,2025-03,2025-05,2025Q1,2025Q2
+OPP-10118,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,EMEA,Social Media,Closed Lost,9803.95,2024-09-03,2024-06-12,77,Enterprise,No,Timing,False,83,2024-06,2024-09,2024Q2,2024Q3
+OPP-10430,Deal for Horizon Digital,Horizon Digital,Eve Davis,APAC,Event,Closed Lost,2554.2,2024-12-03,2024-08-10,115,Pro,No,Timing,False,115,2024-08,2024-12,2024Q3,2024Q4
+OPP-10250,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,APAC,Referral,Closed Lost,4841.43,2025-01-22,2024-11-23,40,Pro,No,Budget,False,60,2024-11,2025-01,2024Q4,2025Q1
+OPP-10342,Deal for Catalyst Group,Catalyst Group,Bob Williams,EMEA,Website,Closed Lost,4387.43,2025-09-07,2025-04-17,128,Basic,Yes,Internal Prioritization,False,143,2025-04,2025-09,2025Q2,2025Q3
+OPP-10009,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Partner,Closed Won,2667.67,2025-08-11,2025-05-10,80,Pro,Yes,NaN,False,93,2025-05,2025-08,2025Q2,2025Q3
+OPP-10196,Deal for Horizon Digital,Horizon Digital,Charlie Brown,APAC,Cold Call,Closed Lost,1800.73,2025-05-11,2025-01-30,101,Basic,Yes,Internal Prioritization,False,101,2025-01,2025-05,2025Q1,2025Q2
+OPP-10879,Deal for GlobalTech,GlobalTech,Bob Williams,EMEA,Cold Call,Closed Lost,3958.63,2024-11-30,2024-07-25,113,Basic,Yes,Timing,False,128,2024-07,2024-11,2024Q3,2024Q4
+OPP-10081,Deal for Quantum Labs,Quantum Labs,Charlie Brown,EMEA,Referral,Closed Lost,4705.12,2025-02-10,2024-10-01,122,Pro,No,Timing,False,132,2024-10,2025-02,2024Q4,2025Q1
+OPP-10911,Deal for Zenith Global,Zenith Global,Diana Miller,EMEA,Partner,Closed Lost,2403.83,2025-04-09,2024-12-02,120,Basic,Yes,Features,False,128,2024-12,2025-04,2024Q4,2025Q2
+OPP-10478,Deal for BrightSpark,BrightSpark,Diana Miller,North America,Event,Closed Lost,2019.31,2025-06-09,2025-04-09,41,Basic,No,Price,False,61,2025-04,2025-06,2025Q2,2025Q2
+OPP-10696,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,North America,Referral,Closed Lost,2559.45,2024-10-21,2024-09-02,38,Basic,No,Competitor,False,49,2024-09,2024-10,2024Q3,2024Q4
+OPP-10239,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,APAC,Referral,Closed Lost,15105.37,2024-10-10,2024-07-18,78,Enterprise,Yes,Features,False,84,2024-07,2024-10,2024Q3,2024Q4
+OPP-10292,Deal for Prime Ventures,Prime Ventures,Bob Williams,North America,Referral,Closed Lost,8245.72,2024-12-01,2024-09-12,63,Pro,No,Timing,False,80,2024-09,2024-12,2024Q3,2024Q4
+OPP-10211,Deal for GlobalTech,GlobalTech,Diana Miller,EMEA,Website,Closed Lost,1856.33,2025-05-23,2025-02-11,87,Pro,Yes,Features,False,101,2025-02,2025-05,2025Q1,2025Q2
+OPP-10721,Deal for Quantum Labs,Quantum Labs,Bob Williams,EMEA,Referral,Closed Lost,3839.08,2025-07-03,2025-02-27,126,Basic,Yes,Budget,False,126,2025-02,2025-07,2025Q1,2025Q3
+OPP-10361,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Partner,Closed Lost,1420.45,2025-02-06,2024-12-30,38,Basic,Yes,Timing,False,38,2024-12,2025-02,2024Q4,2025Q1
+OPP-10451,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Event,Closed Lost,566.34,2024-10-10,2024-07-29,60,Basic,No,Internal Prioritization,False,73,2024-07,2024-10,2024Q3,2024Q4
+OPP-10227,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Cold Call,Closed Lost,4848.92,2025-03-13,2024-11-02,122,Pro,No,Internal Prioritization,False,131,2024-11,2025-03,2024Q4,2025Q1
+OPP-10362,Deal for BrightSpark,BrightSpark,Diana Miller,North America,Partner,Closed Lost,3164.59,2024-12-25,2024-10-18,54,Pro,Yes,No Need,False,68,2024-10,2024-12,2024Q4,2024Q4
+OPP-10800,Deal for Horizon Digital,Horizon Digital,Alice Johnson,EMEA,Referral,Closed Lost,793.29,2025-07-19,2025-05-16,64,Basic,Yes,Competitor,False,64,2025-05,2025-07,2025Q2,2025Q3
+OPP-10657,Deal for InnovateCo,InnovateCo,Charlie Brown,APAC,Referral,Closed Lost,9963.27,2025-07-10,2025-05-11,42,Enterprise,No,Competitor,False,60,2025-05,2025-07,2025Q2,2025Q3
+OPP-10707,Deal for Prime Ventures,Prime Ventures,Charlie Brown,North America,Event,Closed Lost,8360.5,2024-11-29,2024-09-12,70,Pro,Yes,Price,False,78,2024-09,2024-11,2024Q3,2024Q4
+OPP-10644,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Cold Call,Closed Lost,1997.35,2025-03-02,2024-12-28,64,Basic,Yes,Budget,False,64,2024-12,2025-03,2024Q4,2025Q1
+OPP-10581,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Website,Closed Lost,12825.72,2025-04-21,2025-01-08,103,Enterprise,Yes,Competitor,False,103,2025-01,2025-04,2025Q1,2025Q2
+OPP-10936,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,APAC,Event,Closed Lost,5381.64,2024-12-23,2024-08-31,107,Pro,No,No Need,False,114,2024-08,2024-12,2024Q3,2024Q4
+OPP-10370,Deal for GlobalTech,GlobalTech,Alice Johnson,APAC,Referral,Closed Lost,12611.54,2025-08-09,2025-03-24,127,Enterprise,Yes,Budget,False,138,2025-03,2025-08,2025Q1,2025Q3
+OPP-10007,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,EMEA,Referral,Closed Lost,9542.06,2025-01-30,2024-09-10,142,Enterprise,Yes,Internal Prioritization,False,142,2024-09,2025-01,2024Q3,2025Q1
+OPP-10155,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Social Media,Closed Lost,8951.8,2024-11-25,2024-08-11,94,Pro,No,Budget,False,106,2024-08,2024-11,2024Q3,2024Q4
+OPP-10543,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Cold Call,Closed Lost,1715.0,2024-10-03,2024-07-26,64,Enterprise,No,Features,False,69,2024-07,2024-10,2024Q3,2024Q4
+OPP-10442,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,EMEA,Partner,Closed Lost,3335.8,2025-04-06,2024-12-20,107,Enterprise,No,Timing,False,107,2024-12,2025-04,2024Q4,2025Q2
+OPP-10820,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Cold Call,Closed Lost,5816.35,2024-11-12,2024-08-14,76,Pro,No,Timing,False,90,2024-08,2024-11,2024Q3,2024Q4
+OPP-10398,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Cold Call,Closed Lost,4344.0,2024-12-10,2024-08-14,109,Basic,No,No Need,False,118,2024-08,2024-12,2024Q3,2024Q4
+OPP-10959,Deal for SynergyCorp,SynergyCorp,Eve Davis,North America,Referral,Closed Lost,4575.56,2025-07-13,2025-03-13,105,Basic,Yes,Internal Prioritization,False,122,2025-03,2025-07,2025Q1,2025Q3
+OPP-10568,Deal for Zenith Global,Zenith Global,Charlie Brown,North America,Referral,Closed Lost,1691.6,2024-09-17,2024-06-16,74,Basic,Yes,No Need,False,93,2024-06,2024-09,2024Q2,2024Q3
+OPP-10591,Deal for Velocity Systems,Velocity Systems,Bob Williams,APAC,Referral,Closed Lost,2940.27,2025-01-31,2024-10-17,93,Pro,Yes,Competitor,False,106,2024-10,2025-01,2024Q4,2025Q1
+OPP-10580,Deal for Quantum Labs,Quantum Labs,Bob Williams,EMEA,Website,Closed Won,3531.34,2025-05-07,2025-01-22,87,Pro,No,NaN,False,105,2025-01,2025-05,2025Q1,2025Q2
+OPP-10938,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,APAC,Social Media,Closed Lost,665.75,2025-05-12,2024-12-22,141,Basic,No,Competitor,False,141,2024-12,2025-05,2024Q4,2025Q2
+OPP-10695,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Event,Closed Lost,4537.42,2025-02-23,2025-01-12,24,Basic,No,Internal Prioritization,False,42,2025-01,2025-02,2025Q1,2025Q1
+OPP-10866,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,North America,Referral,Closed Lost,3134.32,2025-03-11,2024-11-09,122,Basic,Yes,Internal Prioritization,False,122,2024-11,2025-03,2024Q4,2025Q1
+OPP-10532,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Event,Closed Lost,1603.04,2024-07-20,2024-06-07,38,Pro,Yes,Timing,False,43,2024-06,2024-07,2024Q2,2024Q3
+OPP-10585,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,EMEA,Social Media,Closed Lost,6283.47,2025-04-12,2024-11-19,130,Pro,No,Timing,False,144,2024-11,2025-04,2024Q4,2025Q2
+OPP-10711,Deal for InnovateCo,InnovateCo,Bob Williams,North America,Social Media,Closed Lost,1738.19,2025-07-04,2025-02-21,124,Pro,Yes,Budget,False,133,2025-02,2025-07,2025Q1,2025Q3
+OPP-10450,Deal for Catalyst Group,Catalyst Group,Diana Miller,APAC,Social Media,Closed Won,6332.07,2025-07-21,2025-05-21,44,Pro,No,NaN,False,61,2025-05,2025-07,2025Q2,2025Q3
+OPP-10855,Deal for Horizon Digital,Horizon Digital,Charlie Brown,APAC,Cold Call,Closed Lost,2152.26,2025-10-17,2025-05-31,124,Pro,Yes,Budget,False,139,2025-05,2025-10,2025Q2,2025Q4
+OPP-10228,Deal for Horizon Digital,Horizon Digital,Charlie Brown,North America,Partner,Closed Won,2537.3,2025-01-12,2024-10-31,62,Enterprise,Yes,NaN,False,73,2024-10,2025-01,2024Q4,2025Q1
+OPP-10590,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,North America,Referral,Closed Lost,1363.88,2024-09-10,2024-06-08,80,Pro,Yes,Budget,False,94,2024-06,2024-09,2024Q2,2024Q3
+OPP-10732,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Cold Call,Closed Lost,9224.68,2025-02-10,2024-10-14,105,Pro,No,Budget,False,119,2024-10,2025-02,2024Q4,2025Q1
+OPP-10079,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Social Media,Closed Lost,6752.67,2025-08-10,2025-05-10,77,Enterprise,No,Features,False,92,2025-05,2025-08,2025Q2,2025Q3
+OPP-10148,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,APAC,Partner,Closed Lost,3200.94,2025-09-29,2025-05-19,133,Enterprise,No,Price,False,133,2025-05,2025-09,2025Q2,2025Q3
+OPP-10302,Deal for Horizon Digital,Horizon Digital,Diana Miller,APAC,Social Media,Closed Lost,8275.96,2024-10-16,2024-07-15,84,Enterprise,No,Timing,False,93,2024-07,2024-10,2024Q3,2024Q4
+OPP-10915,Deal for Velocity Systems,Velocity Systems,Alice Johnson,EMEA,Cold Call,Closed Lost,15334.51,2025-07-07,2025-03-25,104,Enterprise,Yes,Internal Prioritization,False,104,2025-03,2025-07,2025Q1,2025Q3
+OPP-10328,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Partner,Closed Lost,14015.33,2025-07-02,2025-02-27,106,Enterprise,No,Features,False,125,2025-02,2025-07,2025Q1,2025Q3
+OPP-10927,Deal for Veridian Corp,Veridian Corp,Diana Miller,North America,Referral,Closed Lost,890.55,2025-02-03,2024-11-24,61,Basic,No,Price,False,71,2024-11,2025-02,2024Q4,2025Q1
+OPP-10344,Deal for Zenith Global,Zenith Global,Bob Williams,North America,Event,Closed Lost,2176.28,2025-03-08,2024-12-10,88,Enterprise,No,Features,False,88,2024-12,2025-03,2024Q4,2025Q1
+OPP-10545,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Event,Closed Lost,9190.32,2024-12-23,2024-08-06,119,Enterprise,Yes,Price,False,139,2024-08,2024-12,2024Q3,2024Q4
+OPP-10506,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,APAC,Cold Call,Closed Lost,6172.57,2025-08-28,2025-04-21,113,Enterprise,Yes,Competitor,False,129,2025-04,2025-08,2025Q2,2025Q3
+OPP-10133,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Event,Closed Lost,7467.82,2025-06-12,2025-04-06,60,Pro,Yes,Internal Prioritization,False,67,2025-04,2025-06,2025Q2,2025Q2
+OPP-10552,Deal for Elite Dynamics,Elite Dynamics,Charlie Brown,APAC,Event,Closed Lost,996.04,2025-01-19,2024-11-10,61,Basic,No,Timing,False,70,2024-11,2025-01,2024Q4,2025Q1
+OPP-10311,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Social Media,Closed Lost,9083.5,2025-09-19,2025-05-27,115,Enterprise,No,Internal Prioritization,False,115,2025-05,2025-09,2025Q2,2025Q3
+OPP-10998,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Social Media,Closed Lost,5722.16,2024-11-11,2024-10-06,21,Enterprise,No,Price,False,36,2024-10,2024-11,2024Q4,2024Q4
+OPP-10567,Deal for Horizon Digital,Horizon Digital,Alice Johnson,EMEA,Cold Call,Closed Lost,2659.99,2024-10-22,2024-06-17,122,Pro,Yes,Features,False,127,2024-06,2024-10,2024Q2,2024Q4
+OPP-10000,Deal for Horizon Digital,Horizon Digital,Charlie Brown,North America,Referral,Closed Lost,4101.28,2024-08-02,2024-06-13,45,Basic,Yes,Budget,False,50,2024-06,2024-08,2024Q2,2024Q3
+OPP-10316,Deal for GlobalTech,GlobalTech,Bob Williams,EMEA,Event,Closed Lost,3723.03,2025-05-08,2025-01-14,109,Basic,Yes,Features,False,114,2025-01,2025-05,2025Q1,2025Q2
+OPP-10710,Deal for GlobalTech,GlobalTech,Charlie Brown,North America,Social Media,Closed Lost,3581.55,2025-09-21,2025-04-30,144,Basic,No,Competitor,False,144,2025-04,2025-09,2025Q2,2025Q3
+OPP-10549,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,North America,Partner,Closed Lost,3906.7,2025-06-09,2025-01-13,147,Pro,Yes,Budget,False,147,2025-01,2025-06,2025Q1,2025Q2
+OPP-10617,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,North America,Partner,Closed Lost,3077.56,2025-06-14,2025-03-20,73,Pro,No,No Need,False,86,2025-03,2025-06,2025Q1,2025Q2
+OPP-10534,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Referral,Closed Won,1132.46,2025-04-30,2024-12-14,119,Basic,Yes,NaN,False,137,2024-12,2025-04,2024Q4,2025Q2
+OPP-10479,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Social Media,Closed Lost,5710.96,2025-02-25,2024-12-25,51,Pro,No,Internal Prioritization,False,62,2024-12,2025-02,2024Q4,2025Q1
+OPP-10777,Deal for Zenith Global,Zenith Global,Diana Miller,North America,Partner,Closed Lost,1135.19,2024-10-13,2024-07-02,103,Basic,Yes,Features,False,103,2024-07,2024-10,2024Q3,2024Q4
+OPP-10172,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,APAC,Cold Call,Closed Lost,4203.88,2024-10-17,2024-06-10,124,Pro,No,Competitor,False,129,2024-06,2024-10,2024Q2,2024Q4
+OPP-10125,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Website,Closed Lost,10934.79,2025-04-17,2025-02-18,52,Enterprise,No,Budget,False,58,2025-02,2025-04,2025Q1,2025Q2
+OPP-10424,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,North America,Cold Call,Closed Lost,2790.03,2025-06-18,2025-04-29,35,Basic,Yes,Price,False,50,2025-04,2025-06,2025Q2,2025Q2
+OPP-10422,Deal for Apex Solutions,Apex Solutions,Diana Miller,North America,Social Media,Closed Lost,11263.55,2024-09-23,2024-07-02,83,Enterprise,Yes,No Need,False,83,2024-07,2024-09,2024Q3,2024Q3
+OPP-10554,Deal for Apex Solutions,Apex Solutions,Diana Miller,EMEA,Event,Closed Won,14167.91,2025-05-09,2024-11-26,155,Enterprise,Yes,NaN,False,164,2024-11,2025-05,2024Q4,2025Q2
+OPP-10907,Deal for BrightSpark,BrightSpark,Eve Davis,APAC,Referral,Closed Lost,6087.5,2024-09-21,2024-06-02,103,Pro,No,Internal Prioritization,False,111,2024-06,2024-09,2024Q2,2024Q3
+OPP-10090,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Social Media,Closed Lost,7176.07,2025-06-11,2025-04-24,48,Enterprise,No,Internal Prioritization,False,48,2025-04,2025-06,2025Q2,2025Q2
+OPP-10943,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,EMEA,Referral,Closed Lost,1972.41,2025-06-23,2025-05-15,39,Basic,Yes,Internal Prioritization,False,39,2025-05,2025-06,2025Q2,2025Q2
+OPP-10181,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Partner,Closed Lost,10708.34,2025-06-01,2025-03-08,85,Enterprise,No,Features,False,85,2025-03,2025-06,2025Q1,2025Q2
+OPP-10274,Deal for BrightSpark,BrightSpark,Bob Williams,North America,Partner,Closed Lost,7011.59,2024-12-16,2024-07-24,145,Pro,No,Competitor,False,145,2024-07,2024-12,2024Q3,2024Q4
+OPP-10899,Deal for GlobalTech,GlobalTech,Diana Miller,APAC,Social Media,Closed Won,6026.27,2025-10-29,2025-05-23,152,Pro,Yes,NaN,False,159,2025-05,2025-10,2025Q2,2025Q4
+OPP-10069,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Social Media,Closed Lost,3417.95,2024-08-24,2024-07-06,42,Basic,Yes,Features,False,49,2024-07,2024-08,2024Q3,2024Q3
+OPP-10291,Deal for InnovateCo,InnovateCo,Diana Miller,North America,Partner,Closed Lost,10552.02,2024-08-11,2024-07-11,13,Enterprise,No,Competitor,False,31,2024-07,2024-08,2024Q3,2024Q3
+OPP-10131,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,North America,Referral,Closed Lost,2011.74,2025-06-07,2024-07-19,102,Basic,No,Budget,False,323,2024-07,2025-06,2024Q3,2025Q2
+OPP-10300,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Cold Call,Closed Lost,15995.58,2024-10-11,2024-08-31,41,Enterprise,Yes,Internal Prioritization,True,41,2024-08,2024-10,2024Q3,2024Q4
+OPP-10583,Deal for Catalyst Group,Catalyst Group,Bob Williams,North America,Cold Call,Closed Lost,3497.97,2025-03-26,2024-11-04,132,Enterprise,Yes,Price,False,142,2024-11,2025-03,2024Q4,2025Q1
+OPP-10326,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Referral,Closed Lost,9856.9,2024-07-26,2024-06-08,33,Enterprise,Yes,Timing,False,48,2024-06,2024-07,2024Q2,2024Q3
+OPP-10144,Deal for Quantum Labs,Quantum Labs,Bob Williams,EMEA,Social Media,Closed Lost,2037.02,2024-10-30,2024-07-30,82,Basic,No,Competitor,False,92,2024-07,2024-10,2024Q3,2024Q4
+OPP-10425,Deal for Quantum Labs,Quantum Labs,Diana Miller,APAC,Website,Closed Lost,11625.43,2025-02-07,2024-11-03,87,Enterprise,Yes,Budget,False,96,2024-11,2025-02,2024Q4,2025Q1
+OPP-10584,Deal for InnovateCo,InnovateCo,Diana Miller,APAC,Website,Closed Lost,4297.42,2025-01-18,2024-11-28,39,Pro,Yes,Internal Prioritization,False,51,2024-11,2025-01,2024Q4,2025Q1
+OPP-10135,Deal for GlobalTech,GlobalTech,Bob Williams,APAC,Partner,Closed Won,1146.04,2025-06-13,2025-03-14,67,Basic,No,NaN,False,91,2025-03,2025-06,2025Q1,2025Q2
+OPP-10666,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,North America,Website,Closed Lost,8077.77,2024-10-13,2024-08-06,57,Pro,Yes,Competitor,False,68,2024-08,2024-10,2024Q3,2024Q4
+OPP-10164,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,EMEA,Website,Closed Lost,3621.88,2024-09-16,2024-08-17,30,Basic,No,Internal Prioritization,False,30,2024-08,2024-09,2024Q3,2024Q3
+OPP-10028,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,EMEA,Referral,Closed Lost,5132.01,2025-08-20,2025-04-05,137,Pro,No,No Need,False,137,2025-04,2025-08,2025Q2,2025Q3
+OPP-10934,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,APAC,Partner,Closed Lost,4906.31,2024-10-06,2024-06-21,92,Enterprise,No,Budget,False,107,2024-06,2024-10,2024Q2,2024Q4
+OPP-10193,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,EMEA,Cold Call,Closed Lost,1875.0,2025-03-26,2024-12-10,90,Basic,No,Timing,False,106,2024-12,2025-03,2024Q4,2025Q1
+OPP-10994,Deal for Pioneer Systems,Pioneer Systems,Eve Davis,North America,Event,Closed Lost,8676.61,2025-06-13,2025-03-12,93,Pro,Yes,Features,False,93,2025-03,2025-06,2025Q1,2025Q2
+OPP-10749,Deal for Velocity Systems,Velocity Systems,Alice Johnson,APAC,Website,Closed Lost,1947.89,2024-12-01,2024-10-26,30,Basic,Yes,Competitor,False,36,2024-10,2024-12,2024Q4,2024Q4
+OPP-10169,Deal for Veridian Corp,Veridian Corp,Bob Williams,North America,Event,Closed Lost,863.05,2025-08-06,2025-03-09,134,Basic,Yes,Budget,False,150,2025-03,2025-08,2025Q1,2025Q3
+OPP-10490,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Referral,Closed Lost,2929.7,2025-06-07,2025-01-30,128,Enterprise,No,Timing,False,128,2025-01,2025-06,2025Q1,2025Q2
+OPP-10140,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Referral,Closed Won,4552.39,2024-11-13,2024-07-14,114,Pro,No,NaN,False,122,2024-07,2024-11,2024Q3,2024Q4
+OPP-10173,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,North America,Website,Closed Lost,1914.37,2025-05-24,2025-03-27,58,Basic,Yes,Timing,False,58,2025-03,2025-05,2025Q1,2025Q2
+OPP-10006,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Partner,Closed Lost,1951.68,2024-07-19,2024-06-06,33,Pro,No,Internal Prioritization,False,43,2024-06,2024-07,2024Q2,2024Q3
+OPP-10802,Deal for Quantum Labs,Quantum Labs,Alice Johnson,APAC,Cold Call,Closed Lost,4050.89,2025-02-28,2024-10-15,136,Basic,Yes,Internal Prioritization,False,136,2024-10,2025-02,2024Q4,2025Q1
+OPP-10635,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Social Media,Closed Lost,7911.34,2025-03-08,2024-11-11,117,Pro,Yes,Features,False,117,2024-11,2025-03,2024Q4,2025Q1
+OPP-10073,Deal for BrightSpark,BrightSpark,Diana Miller,North America,Cold Call,Closed Won,4956.74,2025-02-04,2024-07-29,183,Basic,No,NaN,False,190,2024-07,2025-02,2024Q3,2025Q1
+OPP-10687,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Social Media,Closed Lost,3189.19,2025-06-12,2025-01-12,99,Enterprise,Yes,Competitor,False,151,2025-01,2025-06,2025Q1,2025Q2
+OPP-10980,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Event,Closed Lost,10724.4,2025-01-17,2024-10-31,70,Enterprise,No,Timing,False,78,2024-10,2025-01,2024Q4,2025Q1
+OPP-10238,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Social Media,Closed Lost,5270.42,2025-01-28,2024-10-14,86,Pro,No,Price,False,106,2024-10,2025-01,2024Q4,2025Q1
+OPP-10145,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Event,Closed Lost,4941.86,2024-09-18,2024-06-28,82,Basic,Yes,Budget,False,82,2024-06,2024-09,2024Q2,2024Q3
+OPP-10796,Deal for SynergyCorp,SynergyCorp,Alice Johnson,APAC,Referral,Closed Lost,4544.21,2025-05-08,2024-12-16,131,Basic,No,Internal Prioritization,False,143,2024-12,2025-05,2024Q4,2025Q2
+OPP-10234,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Partner,Closed Lost,3256.1,2024-12-27,2024-10-13,63,Basic,No,Internal Prioritization,False,75,2024-10,2024-12,2024Q4,2024Q4
+OPP-10220,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Social Media,Closed Lost,3006.92,2025-06-14,2025-03-07,94,Basic,No,Price,False,99,2025-03,2025-06,2025Q1,2025Q2
+OPP-10477,Deal for OmniCorp,OmniCorp,Alice Johnson,North America,Partner,Closed Lost,3898.79,2024-10-19,2024-08-04,69,Enterprise,Yes,No Need,False,76,2024-08,2024-10,2024Q3,2024Q4
+OPP-10836,Deal for Horizon Digital,Horizon Digital,Charlie Brown,APAC,Partner,Closed Lost,11756.37,2025-04-19,2025-02-22,47,Enterprise,No,Price,False,56,2025-02,2025-04,2025Q1,2025Q2
+OPP-10132,Deal for Veridian Corp,Veridian Corp,Diana Miller,North America,Cold Call,Closed Lost,3476.47,2025-08-13,2025-05-31,67,Basic,Yes,Price,False,74,2025-05,2025-08,2025Q2,2025Q3
+OPP-10995,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Social Media,Closed Lost,1288.02,2025-07-28,2025-04-29,90,Pro,No,Internal Prioritization,False,90,2025-04,2025-07,2025Q2,2025Q3
+OPP-10841,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,North America,Referral,Closed Lost,6778.47,2025-05-21,2025-03-17,58,Pro,No,No Need,False,65,2025-03,2025-05,2025Q1,2025Q2
+OPP-10185,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Website,Closed Lost,8271.25,2025-06-28,2025-05-13,46,Pro,Yes,Price,False,46,2025-05,2025-06,2025Q2,2025Q2
+OPP-10041,Deal for Veridian Corp,Veridian Corp,Charlie Brown,APAC,Partner,Closed Lost,4207.3,2025-05-05,2025-01-06,105,Basic,Yes,Internal Prioritization,False,119,2025-01,2025-05,2025Q1,2025Q2
+OPP-10996,Deal for OmniCorp,OmniCorp,Eve Davis,North America,Social Media,Closed Lost,7001.22,2024-10-01,2024-07-04,89,Pro,Yes,Internal Prioritization,False,89,2024-07,2024-10,2024Q3,2024Q4
+OPP-10108,Deal for Veridian Corp,Veridian Corp,Alice Johnson,APAC,Partner,Closed Lost,710.68,2025-02-28,2024-10-03,143,Basic,Yes,Features,False,148,2024-10,2025-02,2024Q4,2025Q1
+OPP-10869,Deal for GlobalTech,GlobalTech,Charlie Brown,EMEA,Website,Closed Lost,2594.41,2025-02-05,2024-10-14,100,Basic,Yes,Competitor,False,114,2024-10,2025-02,2024Q4,2025Q1
+OPP-10056,Deal for BrightSpark,BrightSpark,Charlie Brown,APAC,Referral,Closed Lost,1903.64,2025-05-25,2025-03-24,49,Basic,No,Internal Prioritization,False,62,2025-03,2025-05,2025Q1,2025Q2
+OPP-10530,Deal for Quantum Labs,Quantum Labs,Bob Williams,APAC,Social Media,Closed Lost,5475.46,2024-12-07,2024-10-16,42,Pro,Yes,Features,False,52,2024-10,2024-12,2024Q4,2024Q4
+OPP-10870,Deal for OmniCorp,OmniCorp,Diana Miller,North America,Social Media,Closed Lost,6555.85,2025-02-20,2024-11-07,105,Pro,No,Price,False,105,2024-11,2025-02,2024Q4,2025Q1
+OPP-10603,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,EMEA,Referral,Closed Lost,4127.45,2025-10-04,2025-05-24,115,Enterprise,Yes,Internal Prioritization,False,133,2025-05,2025-10,2025Q2,2025Q4
+OPP-10864,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,APAC,Event,Closed Lost,1430.2,2025-02-15,2025-01-08,38,Basic,Yes,Budget,False,38,2025-01,2025-02,2025Q1,2025Q1
+OPP-10024,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Website,Closed Lost,11782.74,2025-09-15,2025-05-23,115,Enterprise,Yes,Timing,False,115,2025-05,2025-09,2025Q2,2025Q3
+OPP-10650,Deal for Veridian Corp,Veridian Corp,Bob Williams,EMEA,Referral,Closed Lost,2159.44,2024-09-02,2024-07-23,29,Pro,Yes,Internal Prioritization,False,41,2024-07,2024-09,2024Q3,2024Q3
+OPP-10448,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,EMEA,Partner,Closed Lost,998.73,2025-03-22,2025-01-19,53,Basic,Yes,Competitor,False,62,2025-01,2025-03,2025Q1,2025Q1
+OPP-10533,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,EMEA,Partner,Closed Won,3734.69,2025-02-09,2024-09-12,145,Pro,Yes,NaN,False,150,2024-09,2025-02,2024Q3,2025Q1
+OPP-10622,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,APAC,Website,Closed Lost,7967.86,2025-02-15,2024-09-19,149,Enterprise,Yes,Features,False,149,2024-09,2025-02,2024Q3,2025Q1
+OPP-10752,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,North America,Cold Call,Closed Lost,2498.3,2024-11-22,2024-08-30,84,Pro,Yes,Budget,False,84,2024-08,2024-11,2024Q3,2024Q4
+OPP-10930,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Referral,Closed Lost,9012.29,2025-07-09,2025-05-18,52,Pro,Yes,Timing,False,52,2025-05,2025-07,2025Q2,2025Q3
+OPP-10338,Deal for Prime Ventures,Prime Ventures,Alice Johnson,APAC,Partner,Closed Lost,6927.26,2025-02-27,2024-11-14,105,Enterprise,Yes,Features,False,105,2024-11,2025-02,2024Q4,2025Q1
+OPP-10051,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Social Media,Closed Lost,10812.39,2025-05-25,2025-03-01,73,Enterprise,No,Price,False,85,2025-03,2025-05,2025Q1,2025Q2
+OPP-10667,Deal for Quantum Labs,Quantum Labs,Bob Williams,North America,Social Media,Closed Lost,1353.26,2024-11-09,2024-07-17,104,Enterprise,No,No Need,False,115,2024-07,2024-11,2024Q3,2024Q4
+OPP-10518,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Cold Call,Closed Lost,1693.98,2024-07-28,2024-06-05,53,Pro,No,Features,False,53,2024-06,2024-07,2024Q2,2024Q3
+OPP-10924,Deal for Zenith Global,Zenith Global,Bob Williams,APAC,Event,Closed Lost,8171.84,2025-06-30,2025-02-23,118,Enterprise,No,Internal Prioritization,False,127,2025-02,2025-06,2025Q1,2025Q2
+OPP-10636,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Cold Call,Closed Lost,5282.17,2025-03-25,2024-12-27,78,Pro,No,Timing,False,88,2024-12,2025-03,2024Q4,2025Q1
+OPP-10264,Deal for InnovateCo,InnovateCo,Eve Davis,North America,Referral,Closed Lost,1858.69,2024-10-01,2024-06-26,82,Basic,No,Price,False,97,2024-06,2024-10,2024Q2,2024Q4
+OPP-10539,Deal for InnovateCo,InnovateCo,Charlie Brown,North America,Social Media,Closed Lost,2745.12,2025-04-04,2025-01-04,81,Basic,Yes,Budget,False,90,2025-01,2025-04,2025Q1,2025Q2
+OPP-10714,Deal for SynergyCorp,SynergyCorp,Alice Johnson,EMEA,Event,Closed Lost,2288.51,2025-07-29,2025-04-05,115,Pro,No,Budget,False,115,2025-04,2025-07,2025Q2,2025Q3
+OPP-10956,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Social Media,Closed Lost,5126.62,2025-09-19,2025-05-03,127,Pro,Yes,Timing,False,139,2025-05,2025-09,2025Q2,2025Q3
+OPP-10950,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,North America,Referral,Closed Lost,1651.18,2025-02-06,2024-11-14,84,Basic,No,Timing,False,84,2024-11,2025-02,2024Q4,2025Q1
+OPP-10877,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,North America,Event,Closed Lost,4083.4,2024-12-27,2024-10-24,44,Basic,No,Features,False,64,2024-10,2024-12,2024Q4,2024Q4
+OPP-10449,Deal for BrightSpark,BrightSpark,Bob Williams,North America,Website,Closed Lost,3146.79,2025-01-22,2024-10-03,93,Basic,No,Internal Prioritization,False,111,2024-10,2025-01,2024Q4,2025Q1
+OPP-10018,Deal for Catalyst Group,Catalyst Group,Bob Williams,North America,Website,Closed Lost,6270.07,2025-01-08,2024-11-04,65,Enterprise,Yes,Competitor,False,65,2024-11,2025-01,2024Q4,2025Q1
+OPP-10895,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,North America,Event,Closed Lost,2684.2,2025-01-03,2024-10-19,60,Pro,Yes,Competitor,False,76,2024-10,2025-01,2024Q4,2025Q1
+OPP-10485,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Cold Call,Closed Lost,6483.05,2025-02-26,2024-10-15,134,Enterprise,No,Features,False,134,2024-10,2025-02,2024Q4,2025Q1
+OPP-10570,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Referral,Closed Lost,2881.44,2025-07-04,2025-04-20,57,Basic,No,Features,False,75,2025-04,2025-07,2025Q2,2025Q3
+OPP-10367,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Cold Call,Closed Lost,708.62,2025-04-07,2025-01-13,75,Basic,No,Budget,False,84,2025-01,2025-04,2025Q1,2025Q2
+OPP-10083,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Referral,Closed Lost,5324.84,2025-01-31,2024-12-15,47,Basic,No,Price,False,47,2024-12,2025-01,2024Q4,2025Q1
+OPP-10061,Deal for Horizon Digital,Horizon Digital,Alice Johnson,EMEA,Referral,Closed Lost,894.52,2024-10-19,2024-06-11,115,Basic,Yes,Timing,False,130,2024-06,2024-10,2024Q2,2024Q4
+OPP-10439,Deal for Quantum Labs,Quantum Labs,Charlie Brown,APAC,Cold Call,Closed Lost,15948.83,2025-04-02,2025-02-14,42,Enterprise,No,Budget,True,47,2025-02,2025-04,2025Q1,2025Q2
+OPP-10272,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Social Media,Closed Lost,6194.0,2024-12-04,2024-07-21,116,Pro,No,Price,False,136,2024-07,2024-12,2024Q3,2024Q4
+OPP-10285,Deal for InnovateCo,InnovateCo,Charlie Brown,APAC,Social Media,Closed Lost,1343.9,2025-03-18,2024-12-16,84,Pro,Yes,Internal Prioritization,False,92,2024-12,2025-03,2024Q4,2025Q1
+OPP-10360,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Cold Call,Closed Lost,11264.63,2025-02-12,2024-12-08,48,Pro,No,Features,False,66,2024-12,2025-02,2024Q4,2025Q1
+OPP-10354,Deal for BrightSpark,BrightSpark,Charlie Brown,EMEA,Partner,Closed Lost,7889.78,2025-03-12,2024-11-23,90,Enterprise,No,Features,False,109,2024-11,2025-03,2024Q4,2025Q1
+OPP-10991,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Partner,Closed Lost,3864.69,2025-03-02,2025-01-14,41,Pro,Yes,Competitor,False,47,2025-01,2025-03,2025Q1,2025Q1
+OPP-10278,Deal for Prime Ventures,Prime Ventures,Alice Johnson,APAC,Social Media,Closed Lost,7808.31,2025-08-17,2025-03-23,147,Pro,Yes,Internal Prioritization,False,147,2025-03,2025-08,2025Q1,2025Q3
+OPP-10012,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,EMEA,Social Media,Closed Lost,3297.85,2025-05-22,2025-01-19,111,Enterprise,No,Timing,False,123,2025-01,2025-05,2025Q1,2025Q2
+OPP-10182,Deal for Velocity Systems,Velocity Systems,Eve Davis,APAC,Social Media,Closed Lost,9573.79,2025-06-26,2024-12-27,171,Enterprise,No,Internal Prioritization,False,181,2024-12,2025-06,2024Q4,2025Q2
+OPP-10368,Deal for InnovateCo,InnovateCo,Diana Miller,North America,Referral,Closed Lost,4090.69,2025-06-30,2025-02-03,139,Basic,Yes,Timing,False,147,2025-02,2025-06,2025Q1,2025Q2
+OPP-10494,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Partner,Closed Lost,5913.59,2025-06-14,2025-04-03,66,Enterprise,Yes,Features,False,72,2025-04,2025-06,2025Q2,2025Q2
+OPP-10799,Deal for Veridian Corp,Veridian Corp,Alice Johnson,North America,Cold Call,Closed Lost,5340.27,2025-01-11,2024-08-21,124,Basic,Yes,Internal Prioritization,False,143,2024-08,2025-01,2024Q3,2025Q1
+OPP-10223,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,APAC,Referral,Closed Lost,2478.76,2025-02-14,2024-10-02,130,Basic,No,Internal Prioritization,False,135,2024-10,2025-02,2024Q4,2025Q1
+OPP-10575,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,North America,Social Media,Closed Lost,3657.05,2025-01-14,2024-12-06,39,Basic,No,Competitor,False,39,2024-12,2025-01,2024Q4,2025Q1
+OPP-10703,Deal for BrightSpark,BrightSpark,Alice Johnson,APAC,Website,Closed Lost,1675.55,2025-06-26,2025-02-05,141,Enterprise,No,Internal Prioritization,False,141,2025-02,2025-06,2025Q1,2025Q2
+OPP-10587,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,North America,Social Media,Closed Lost,4415.93,2025-05-29,2025-01-07,142,Basic,Yes,Budget,False,142,2025-01,2025-05,2025Q1,2025Q2
+OPP-10547,Deal for BrightSpark,BrightSpark,Diana Miller,North America,Referral,Closed Lost,14819.45,2025-08-08,2025-05-31,60,Enterprise,Yes,Timing,False,69,2025-05,2025-08,2025Q2,2025Q3
+OPP-10675,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Social Media,Closed Lost,8304.52,2025-04-05,2024-12-23,103,Pro,Yes,Competitor,False,103,2024-12,2025-04,2024Q4,2025Q2
+OPP-10755,Deal for OmniCorp,OmniCorp,Diana Miller,EMEA,Partner,Closed Lost,7869.63,2025-01-11,2024-10-10,86,Pro,No,Features,False,93,2024-10,2025-01,2024Q4,2025Q1
+OPP-10176,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,APAC,Website,Closed Lost,4646.42,2025-08-06,2025-05-06,92,Pro,No,Budget,False,92,2025-05,2025-08,2025Q2,2025Q3
+OPP-10669,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,APAC,Event,Closed Lost,981.4,2024-08-31,2024-06-01,74,Basic,Yes,Price,False,91,2024-06,2024-08,2024Q2,2024Q3
+OPP-10631,Deal for Zenith Global,Zenith Global,Charlie Brown,North America,Referral,Closed Lost,10896.02,2025-04-20,2025-02-08,71,Pro,Yes,Features,False,71,2025-02,2025-04,2025Q1,2025Q2
+OPP-10589,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,North America,Website,Closed Lost,4469.77,2025-03-20,2024-11-25,115,Pro,Yes,Features,False,115,2024-11,2025-03,2024Q4,2025Q1
+OPP-10522,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,North America,Social Media,Closed Lost,2182.57,2025-02-16,2024-11-03,105,Basic,Yes,Timing,False,105,2024-11,2025-02,2024Q4,2025Q1
+OPP-10393,Deal for InnovateCo,InnovateCo,Diana Miller,EMEA,Social Media,Closed Lost,8580.2,2024-11-08,2024-07-12,119,Pro,No,Competitor,False,119,2024-07,2024-11,2024Q3,2024Q4
+OPP-10163,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,EMEA,Social Media,Closed Lost,8047.73,2025-03-06,2024-10-28,129,Enterprise,Yes,Features,False,129,2024-10,2025-03,2024Q4,2025Q1
+OPP-10248,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,APAC,Cold Call,Closed Lost,14909.18,2025-02-16,2024-10-10,129,Enterprise,No,No Need,False,129,2024-10,2025-02,2024Q4,2025Q1
+OPP-10638,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,EMEA,Event,Closed Lost,3852.3,2024-11-27,2024-08-22,97,Basic,Yes,Price,False,97,2024-08,2024-11,2024Q3,2024Q4
+OPP-10889,Deal for OmniCorp,OmniCorp,Eve Davis,EMEA,Event,Closed Lost,1929.75,2024-09-26,2024-07-28,60,Enterprise,Yes,Price,False,60,2024-07,2024-09,2024Q3,2024Q3
+OPP-10673,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Cold Call,Closed Lost,8998.09,2024-09-28,2024-06-09,102,Enterprise,Yes,No Need,False,111,2024-06,2024-09,2024Q2,2024Q3
+OPP-10375,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Social Media,Closed Lost,2381.11,2024-10-02,2024-06-28,89,Basic,Yes,Internal Prioritization,False,96,2024-06,2024-10,2024Q2,2024Q4
+OPP-10412,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,North America,Referral,Closed Lost,6671.78,2025-08-21,2025-05-23,71,Pro,Yes,Price,False,90,2025-05,2025-08,2025Q2,2025Q3
+OPP-10074,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,North America,Website,Closed Lost,1444.56,2025-09-01,2025-04-27,108,Basic,No,Timing,False,127,2025-04,2025-09,2025Q2,2025Q3
+OPP-10113,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,APAC,Social Media,Closed Lost,4748.33,2025-01-13,2024-11-16,42,Enterprise,Yes,Features,False,58,2024-11,2025-01,2024Q4,2025Q1
+OPP-10572,Deal for Horizon Digital,Horizon Digital,Bob Williams,North America,Partner,Closed Won,6526.27,2025-06-25,2025-02-25,110,Pro,Yes,NaN,False,120,2025-02,2025-06,2025Q1,2025Q2
+OPP-10643,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Partner,Closed Lost,4373.83,2024-12-28,2024-08-13,117,Basic,Yes,Timing,False,137,2024-08,2024-12,2024Q3,2024Q4
+OPP-10390,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Event,Closed Lost,10176.86,2025-02-12,2024-10-21,114,Enterprise,No,Internal Prioritization,False,114,2024-10,2025-02,2024Q4,2025Q1
+OPP-10104,Deal for BrightSpark,BrightSpark,Bob Williams,EMEA,Partner,Closed Lost,14536.09,2025-04-04,2024-12-29,96,Enterprise,No,Features,False,96,2024-12,2025-04,2024Q4,2025Q2
+OPP-10114,Deal for Velocity Systems,Velocity Systems,Diana Miller,APAC,Partner,Closed Lost,8423.5,2025-01-22,2024-12-09,37,Pro,Yes,Price,False,44,2024-12,2025-01,2024Q4,2025Q1
+OPP-10417,Deal for InnovateCo,InnovateCo,Charlie Brown,EMEA,Cold Call,Closed Lost,4413.46,2024-10-18,2024-06-10,117,Enterprise,Yes,Competitor,False,130,2024-06,2024-10,2024Q2,2024Q4
+OPP-10712,Deal for SynergyCorp,SynergyCorp,Alice Johnson,EMEA,Referral,Closed Lost,7712.07,2024-09-25,2024-08-23,33,Pro,No,Internal Prioritization,False,33,2024-08,2024-09,2024Q3,2024Q3
+OPP-10457,Deal for Veridian Corp,Veridian Corp,Charlie Brown,APAC,Website,Closed Won,1841.48,2025-02-26,2024-12-09,69,Basic,Yes,NaN,False,79,2024-12,2025-02,2024Q4,2025Q1
+OPP-10409,Deal for GlobalTech,GlobalTech,Eve Davis,North America,Partner,Closed Lost,1969.42,2024-09-07,2024-06-24,75,Pro,No,Competitor,False,75,2024-06,2024-09,2024Q2,2024Q3
+OPP-10092,Deal for SynergyCorp,SynergyCorp,Diana Miller,EMEA,Social Media,Closed Lost,7815.71,2025-05-27,2024-12-05,166,Pro,Yes,Price,False,173,2024-12,2025-05,2024Q4,2025Q2
+OPP-10953,Deal for Zenith Global,Zenith Global,Bob Williams,EMEA,Cold Call,Closed Lost,2895.44,2025-05-09,2025-02-22,63,Pro,Yes,Timing,False,76,2025-02,2025-05,2025Q1,2025Q2
+OPP-10089,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Partner,Closed Lost,6273.15,2025-04-25,2025-02-10,64,Pro,Yes,No Need,False,74,2025-02,2025-04,2025Q1,2025Q2
+OPP-10336,Deal for Prime Ventures,Prime Ventures,Eve Davis,North America,Social Media,Closed Lost,11394.3,2025-05-10,2025-01-21,89,Enterprise,Yes,Price,False,109,2025-01,2025-05,2025Q1,2025Q2
+OPP-10993,Deal for Velocity Systems,Velocity Systems,Bob Williams,North America,Social Media,Closed Lost,3063.04,2025-07-06,2025-04-24,73,Pro,Yes,Features,False,73,2025-04,2025-07,2025Q2,2025Q3
+OPP-10925,Deal for SynergyCorp,SynergyCorp,Eve Davis,North America,Social Media,Closed Lost,10880.28,2024-08-04,2024-06-10,48,Pro,No,Features,False,55,2024-06,2024-08,2024Q2,2024Q3
+OPP-10937,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Event,Closed Lost,9649.79,2024-09-19,2024-08-16,14,Enterprise,No,Internal Prioritization,False,34,2024-08,2024-09,2024Q3,2024Q3
+OPP-10900,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Website,Closed Lost,4407.1,2025-04-18,2024-11-29,122,Basic,No,Competitor,False,140,2024-11,2025-04,2024Q4,2025Q2
+OPP-10597,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Cold Call,Closed Lost,13714.68,2024-12-05,2024-09-03,85,Enterprise,No,Competitor,False,93,2024-09,2024-12,2024Q3,2024Q4
+OPP-10615,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Website,Closed Lost,9785.54,2025-01-21,2024-10-13,100,Pro,No,No Need,False,100,2024-10,2025-01,2024Q4,2025Q1
+OPP-10094,Deal for SynergyCorp,SynergyCorp,Alice Johnson,EMEA,Partner,Closed Lost,9318.9,2025-03-21,2025-02-08,41,Enterprise,No,Price,False,41,2025-02,2025-03,2025Q1,2025Q1
+OPP-10011,Deal for GlobalTech,GlobalTech,Eve Davis,North America,Website,Closed Lost,2311.5,2025-06-20,2025-04-30,51,Basic,Yes,No Need,False,51,2025-04,2025-06,2025Q2,2025Q2
+OPP-10396,Deal for Apex Solutions,Apex Solutions,Bob Williams,North America,Event,Closed Lost,8257.68,2025-08-19,2025-05-26,80,Enterprise,No,Internal Prioritization,False,85,2025-05,2025-08,2025Q2,2025Q3
+OPP-10535,Deal for Zenith Global,Zenith Global,Diana Miller,APAC,Cold Call,Closed Lost,9271.62,2024-12-04,2024-10-17,48,Pro,Yes,Competitor,False,48,2024-10,2024-12,2024Q4,2024Q4
+OPP-10043,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Website,Closed Lost,8589.79,2025-08-09,2025-03-19,136,Pro,No,No Need,False,143,2025-03,2025-08,2025Q1,2025Q3
+OPP-10042,Deal for OmniCorp,OmniCorp,Eve Davis,APAC,Referral,Closed Lost,6249.54,2025-05-26,2025-04-17,39,Pro,Yes,Price,False,39,2025-04,2025-05,2025Q2,2025Q2
+OPP-10329,Deal for Apex Solutions,Apex Solutions,Bob Williams,EMEA,Partner,Closed Lost,3414.38,2025-01-04,2024-11-20,37,Basic,Yes,Price,False,45,2024-11,2025-01,2024Q4,2025Q1
+OPP-10167,Deal for OmniCorp,OmniCorp,Charlie Brown,EMEA,Event,Closed Lost,1473.34,2025-01-29,2024-12-19,28,Pro,Yes,Features,False,41,2024-12,2025-01,2024Q4,2025Q1
+OPP-10499,Deal for Horizon Digital,Horizon Digital,Bob Williams,North America,Website,Closed Lost,2901.75,2025-03-12,2024-12-24,78,Basic,No,Internal Prioritization,False,78,2024-12,2025-03,2024Q4,2025Q1
+OPP-10880,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Cold Call,Closed Lost,5486.64,2024-11-14,2024-09-04,60,Enterprise,No,Price,False,71,2024-09,2024-11,2024Q3,2024Q4
+OPP-10601,Deal for Velocity Systems,Velocity Systems,Eve Davis,APAC,Event,Closed Lost,691.8,2025-02-24,2024-11-26,70,Basic,Yes,Competitor,False,90,2024-11,2025-02,2024Q4,2025Q1
+OPP-10760,Deal for InnovateCo,InnovateCo,Eve Davis,North America,Event,Closed Lost,14440.15,2024-10-26,2024-06-02,141,Enterprise,Yes,No Need,False,146,2024-06,2024-10,2024Q2,2024Q4
+OPP-10100,Deal for Apex Solutions,Apex Solutions,Charlie Brown,North America,Event,Closed Lost,10778.02,2025-05-05,2025-03-11,39,Enterprise,No,Timing,False,55,2025-03,2025-05,2025Q1,2025Q2
+OPP-10426,Deal for Veridian Corp,Veridian Corp,Diana Miller,North America,Referral,Closed Lost,10562.89,2025-03-16,2024-12-02,87,Enterprise,No,No Need,False,104,2024-12,2025-03,2024Q4,2025Q1
+OPP-10178,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,APAC,Partner,Closed Lost,1244.07,2025-05-21,2025-04-10,31,Basic,No,Internal Prioritization,False,41,2025-04,2025-05,2025Q2,2025Q2
+OPP-10444,Deal for Horizon Digital,Horizon Digital,Alice Johnson,EMEA,Event,Closed Lost,2110.79,2025-07-22,2025-04-29,72,Pro,No,Price,False,84,2025-04,2025-07,2025Q2,2025Q3
+OPP-10416,Deal for Catalyst Group,Catalyst Group,Eve Davis,North America,Cold Call,Closed Lost,8946.69,2025-01-19,2024-08-22,142,Enterprise,Yes,No Need,False,150,2024-08,2025-01,2024Q3,2025Q1
+OPP-10765,Deal for Apex Solutions,Apex Solutions,Eve Davis,North America,Social Media,Closed Lost,2183.2,2025-06-30,2025-05-15,46,Pro,Yes,Internal Prioritization,False,46,2025-05,2025-06,2025Q2,2025Q2
+OPP-10886,Deal for Catalyst Group,Catalyst Group,Diana Miller,North America,Partner,Closed Lost,1200.36,2025-08-27,2025-05-05,96,Basic,Yes,Price,False,114,2025-05,2025-08,2025Q2,2025Q3
+OPP-10662,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Event,Closed Lost,4926.5,2024-12-14,2024-11-13,31,Enterprise,Yes,Features,False,31,2024-11,2024-12,2024Q4,2024Q4
+OPP-10177,Deal for Veridian Corp,Veridian Corp,Charlie Brown,North America,Social Media,Closed Lost,7226.7,2025-08-17,2025-04-11,111,Enterprise,Yes,Timing,False,128,2025-04,2025-08,2025Q2,2025Q3
+OPP-10395,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Referral,Closed Won,13894.98,2024-11-08,2024-07-13,106,Enterprise,Yes,NaN,False,118,2024-07,2024-11,2024Q3,2024Q4
+OPP-10680,Deal for Quantum Labs,Quantum Labs,Charlie Brown,EMEA,Cold Call,Closed Lost,11249.46,2025-07-05,2025-04-03,81,Enterprise,Yes,Internal Prioritization,False,93,2025-04,2025-07,2025Q2,2025Q3
+OPP-10797,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,EMEA,Referral,Closed Lost,7353.72,2024-11-09,2024-09-19,51,Pro,No,No Need,False,51,2024-09,2024-11,2024Q3,2024Q4
+OPP-10965,Deal for SynergyCorp,SynergyCorp,Eve Davis,EMEA,Referral,Closed Lost,685.77,2025-02-19,2024-11-23,83,Basic,Yes,Budget,False,88,2024-11,2025-02,2024Q4,2025Q1
+OPP-10688,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,EMEA,Partner,Closed Lost,3515.74,2025-05-23,2025-02-20,75,Basic,No,Budget,False,92,2025-02,2025-05,2025Q1,2025Q2
+OPP-10383,Deal for GlobalTech,GlobalTech,Alice Johnson,APAC,Cold Call,Closed Lost,6173.62,2025-05-31,2025-03-24,54,Pro,Yes,No Need,False,68,2025-03,2025-05,2025Q1,2025Q2
+OPP-10961,Deal for OmniCorp,OmniCorp,Bob Williams,North America,Cold Call,Closed Lost,9843.98,2024-10-02,2024-06-21,103,Pro,Yes,Competitor,False,103,2024-06,2024-10,2024Q2,2024Q4
+OPP-10616,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Partner,Closed Lost,3518.99,2025-05-05,2025-03-01,52,Enterprise,No,Price,False,65,2025-03,2025-05,2025Q1,2025Q2
+OPP-10257,Deal for SynergyCorp,SynergyCorp,Charlie Brown,EMEA,Social Media,Closed Lost,10737.98,2024-12-23,2024-08-25,105,Enterprise,No,Competitor,False,120,2024-08,2024-12,2024Q3,2024Q4
+OPP-10335,Deal for Prime Ventures,Prime Ventures,Alice Johnson,APAC,Event,Closed Lost,2973.16,2025-03-12,2025-02-05,20,Enterprise,Yes,No Need,False,35,2025-02,2025-03,2025Q1,2025Q1
+OPP-10015,Deal for Veridian Corp,Veridian Corp,Charlie Brown,APAC,Referral,Closed Lost,4476.69,2024-12-20,2024-10-18,54,Enterprise,No,Features,False,63,2024-10,2024-12,2024Q4,2024Q4
+OPP-10633,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,North America,Event,Closed Lost,9039.99,2024-09-20,2024-06-02,110,Enterprise,Yes,Timing,False,110,2024-06,2024-09,2024Q2,2024Q3
+OPP-10324,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Cold Call,Closed Lost,3769.41,2025-04-14,2025-01-02,102,Basic,Yes,Competitor,False,102,2025-01,2025-04,2025Q1,2025Q2
+OPP-10762,Deal for Apex Solutions,Apex Solutions,Charlie Brown,North America,Cold Call,Closed Lost,6741.75,2025-03-09,2024-12-16,72,Enterprise,Yes,No Need,False,83,2024-12,2025-03,2024Q4,2025Q1
+OPP-10222,Deal for Elite Dynamics,Elite Dynamics,Charlie Brown,EMEA,Cold Call,Closed Lost,10004.74,2025-06-22,2024-09-18,135,Pro,Yes,Internal Prioritization,False,277,2024-09,2025-06,2024Q3,2025Q2
+OPP-10179,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Referral,Closed Lost,2315.64,2025-06-07,2025-01-15,125,Basic,Yes,No Need,False,143,2025-01,2025-06,2025Q1,2025Q2
+OPP-10988,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,EMEA,Website,Closed Lost,3893.62,2025-07-30,2025-05-07,84,Enterprise,No,Price,False,84,2025-05,2025-07,2025Q2,2025Q3
+OPP-10022,Deal for Apex Solutions,Apex Solutions,Diana Miller,APAC,Social Media,Closed Lost,2638.01,2025-09-10,2025-05-07,119,Basic,No,Features,False,126,2025-05,2025-09,2025Q2,2025Q3
+OPP-10356,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,APAC,Cold Call,Closed Lost,2319.99,2025-07-30,2025-03-04,148,Basic,Yes,Competitor,False,148,2025-03,2025-07,2025Q1,2025Q3
+OPP-10670,Deal for Apex Solutions,Apex Solutions,Eve Davis,North America,Event,Closed Lost,3015.34,2025-01-21,2024-12-21,31,Basic,No,Features,False,31,2024-12,2025-01,2024Q4,2025Q1
+OPP-10865,Deal for OmniCorp,OmniCorp,Eve Davis,EMEA,Event,Closed Lost,2280.48,2025-07-08,2025-02-09,144,Pro,No,Competitor,False,149,2025-02,2025-07,2025Q1,2025Q3
+OPP-10340,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,North America,Referral,Closed Lost,8260.41,2025-06-24,2025-05-21,34,Enterprise,No,Timing,False,34,2025-05,2025-06,2025Q2,2025Q2
+OPP-10431,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,APAC,Event,Closed Lost,11715.87,2025-04-13,2025-03-04,32,Enterprise,No,Features,False,40,2025-03,2025-04,2025Q1,2025Q2
+OPP-10829,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,EMEA,Event,Closed Lost,792.53,2025-06-24,2025-03-24,81,Basic,Yes,No Need,False,92,2025-03,2025-06,2025Q1,2025Q2
+OPP-10837,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Event,Closed Lost,1208.67,2025-08-15,2025-04-06,112,Pro,No,Internal Prioritization,False,131,2025-04,2025-08,2025Q2,2025Q3
+OPP-10203,Deal for Prime Ventures,Prime Ventures,Eve Davis,APAC,Social Media,Closed Lost,3568.2,2024-12-11,2024-10-17,42,Basic,No,Competitor,False,55,2024-10,2024-12,2024Q4,2024Q4
+OPP-10634,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,North America,Cold Call,Closed Lost,8540.22,2024-11-11,2024-09-01,53,Enterprise,No,Features,False,71,2024-09,2024-11,2024Q3,2024Q4
+OPP-10093,Deal for Velocity Systems,Velocity Systems,Charlie Brown,APAC,Website,Closed Lost,15434.97,2025-08-11,2025-05-08,95,Enterprise,No,Features,False,95,2025-05,2025-08,2025Q2,2025Q3
+OPP-10966,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,EMEA,Referral,Closed Lost,1986.39,2024-09-09,2024-07-24,47,Basic,Yes,Competitor,False,47,2024-07,2024-09,2024Q3,2024Q3
+OPP-10068,Deal for Horizon Digital,Horizon Digital,Eve Davis,North America,Partner,Closed Lost,1719.38,2025-07-09,2025-04-26,74,Enterprise,No,Price,False,74,2025-04,2025-07,2025Q2,2025Q3
+OPP-10626,Deal for Veridian Corp,Veridian Corp,Alice Johnson,North America,Website,Closed Lost,8623.47,2025-03-13,2025-01-27,33,Pro,Yes,Competitor,False,45,2025-01,2025-03,2025Q1,2025Q1
+OPP-10284,Deal for Velocity Systems,Velocity Systems,Alice Johnson,EMEA,Partner,Closed Lost,4077.91,2025-09-08,2025-05-22,109,Enterprise,Yes,Competitor,False,109,2025-05,2025-09,2025Q2,2025Q3
+OPP-10808,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,APAC,Website,Closed Lost,9963.28,2024-12-13,2024-09-05,85,Pro,Yes,Budget,False,99,2024-09,2024-12,2024Q3,2024Q4
+OPP-10434,Deal for GlobalTech,GlobalTech,Bob Williams,North America,Social Media,Closed Lost,2092.43,2025-01-16,2024-11-14,63,Basic,No,No Need,False,63,2024-11,2025-01,2024Q4,2025Q1
+OPP-10153,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Cold Call,Closed Won,5048.66,2025-01-17,2024-10-19,71,Pro,Yes,NaN,False,90,2024-10,2025-01,2024Q4,2025Q1
+OPP-10075,Deal for Veridian Corp,Veridian Corp,Eve Davis,EMEA,Social Media,Closed Lost,4896.23,2025-08-05,2025-04-22,105,Pro,Yes,Price,False,105,2025-04,2025-08,2025Q2,2025Q3
+OPP-10734,Deal for SynergyCorp,SynergyCorp,Alice Johnson,APAC,Cold Call,Closed Lost,5225.48,2025-02-10,2024-12-15,38,Enterprise,Yes,Features,False,57,2024-12,2025-02,2024Q4,2025Q1
+OPP-10446,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Website,Closed Won,12407.75,2025-01-30,2024-11-18,66,Enterprise,No,NaN,False,73,2024-11,2025-01,2024Q4,2025Q1
+OPP-10188,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Partner,Closed Lost,2450.84,2025-06-03,2025-05-02,19,Pro,Yes,Competitor,False,32,2025-05,2025-06,2025Q2,2025Q2
+OPP-10271,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,EMEA,Referral,Closed Lost,10199.74,2024-08-18,2024-07-03,40,Enterprise,No,Features,False,46,2024-07,2024-08,2024Q3,2024Q3
+OPP-10236,Deal for Veridian Corp,Veridian Corp,Eve Davis,North America,Partner,Closed Lost,1459.51,2024-11-22,2024-08-08,106,Basic,Yes,Timing,False,106,2024-08,2024-11,2024Q3,2024Q4
+OPP-10487,Deal for Prime Ventures,Prime Ventures,Eve Davis,EMEA,Social Media,Closed Lost,5841.53,2025-06-03,2025-01-30,118,Basic,Yes,Competitor,False,124,2025-01,2025-06,2025Q1,2025Q2
+OPP-10117,Deal for BrightSpark,BrightSpark,Diana Miller,EMEA,Event,Closed Lost,3231.38,2025-03-03,2024-12-13,80,Basic,Yes,Timing,False,80,2024-12,2025-03,2024Q4,2025Q1
+OPP-10822,Deal for Horizon Digital,Horizon Digital,Charlie Brown,APAC,Partner,Closed Lost,4342.18,2025-03-09,2024-10-17,132,Basic,No,Internal Prioritization,False,143,2024-10,2025-03,2024Q4,2025Q1
+OPP-10512,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,APAC,Cold Call,Closed Lost,3834.1,2025-02-25,2025-01-04,52,Basic,Yes,Price,False,52,2025-01,2025-02,2025Q1,2025Q1
+OPP-10798,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,North America,Partner,Closed Lost,4543.99,2025-10-04,2025-05-08,149,Basic,Yes,Price,False,149,2025-05,2025-10,2025Q2,2025Q4
+OPP-10595,Deal for Veridian Corp,Veridian Corp,Alice Johnson,APAC,Referral,Closed Lost,10786.25,2025-06-19,2025-02-17,108,Enterprise,Yes,Price,False,122,2025-02,2025-06,2025Q1,2025Q2
+OPP-10126,Deal for OmniCorp,OmniCorp,Diana Miller,EMEA,Referral,Closed Lost,1577.94,2025-06-24,2025-03-24,79,Basic,No,Budget,False,92,2025-03,2025-06,2025Q1,2025Q2
+OPP-10116,Deal for Veridian Corp,Veridian Corp,Diana Miller,EMEA,Social Media,Closed Lost,3894.41,2024-10-30,2024-06-24,118,Basic,Yes,Budget,False,128,2024-06,2024-10,2024Q2,2024Q4
+OPP-10473,Deal for Velocity Systems,Velocity Systems,Eve Davis,APAC,Referral,Closed Lost,7631.0,2025-10-06,2025-05-31,128,Pro,Yes,Budget,False,128,2025-05,2025-10,2025Q2,2025Q4
+OPP-10697,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,APAC,Referral,Closed Lost,7676.22,2025-01-03,2024-08-20,116,Pro,No,Competitor,False,136,2024-08,2025-01,2024Q3,2025Q1
+OPP-10057,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,EMEA,Website,Closed Lost,4762.62,2025-04-02,2024-11-21,132,Basic,Yes,Timing,False,132,2024-11,2025-04,2024Q4,2025Q2
+OPP-10678,Deal for OmniCorp,OmniCorp,Charlie Brown,EMEA,Cold Call,Closed Won,2701.37,2024-12-03,2024-06-07,165,Pro,No,NaN,False,179,2024-06,2024-12,2024Q2,2024Q4
+OPP-10916,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,APAC,Partner,Closed Lost,8952.93,2025-07-01,2025-04-16,67,Pro,No,Timing,False,76,2025-04,2025-07,2025Q2,2025Q3
+OPP-10369,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Referral,Closed Lost,13437.78,2025-04-05,2024-11-27,129,Enterprise,No,Budget,False,129,2024-11,2025-04,2024Q4,2025Q2
+OPP-10268,Deal for Horizon Digital,Horizon Digital,Eve Davis,North America,Referral,Closed Lost,3940.53,2025-08-20,2025-05-26,86,Pro,Yes,Budget,False,86,2025-05,2025-08,2025Q2,2025Q3
+OPP-10046,Deal for BrightSpark,BrightSpark,Eve Davis,EMEA,Partner,Closed Lost,6910.28,2024-12-06,2024-09-05,73,Pro,No,Price,False,92,2024-09,2024-12,2024Q3,2024Q4
+OPP-10349,Deal for SynergyCorp,SynergyCorp,Diana Miller,North America,Cold Call,Closed Lost,8808.14,2025-07-06,2025-05-27,29,Enterprise,No,Timing,False,40,2025-05,2025-07,2025Q2,2025Q3
+OPP-10195,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Cold Call,Closed Lost,3659.08,2024-08-26,2024-06-14,73,Pro,No,Budget,False,73,2024-06,2024-08,2024Q2,2024Q3
+OPP-10892,Deal for GlobalTech,GlobalTech,Eve Davis,North America,Website,Closed Lost,8966.57,2024-11-30,2024-08-24,98,Enterprise,Yes,Budget,False,98,2024-08,2024-11,2024Q3,2024Q4
+OPP-10740,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Partner,Closed Lost,9413.43,2025-01-31,2024-11-17,69,Pro,Yes,Timing,False,75,2024-11,2025-01,2024Q4,2025Q1
+OPP-10263,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,EMEA,Social Media,Closed Lost,8074.44,2025-06-13,2025-04-10,45,Enterprise,No,Budget,False,64,2025-04,2025-06,2025Q2,2025Q2
+OPP-10443,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,APAC,Referral,Closed Lost,4381.17,2025-06-14,2024-08-05,117,Enterprise,No,Timing,False,313,2024-08,2025-06,2024Q3,2025Q2
+OPP-10679,Deal for Horizon Digital,Horizon Digital,Diana Miller,EMEA,Website,Closed Lost,9412.89,2025-07-19,2025-03-17,114,Pro,No,No Need,False,124,2025-03,2025-07,2025Q1,2025Q3
+OPP-10304,Deal for InnovateCo,InnovateCo,Eve Davis,APAC,Referral,Closed Lost,3250.94,2025-04-08,2024-11-27,112,Basic,Yes,Price,False,132,2024-11,2025-04,2024Q4,2025Q2
+OPP-10341,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Event,Closed Lost,1628.97,2025-09-05,2025-04-18,140,Basic,Yes,Internal Prioritization,False,140,2025-04,2025-09,2025Q2,2025Q3
+OPP-10602,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,North America,Social Media,Closed Lost,7671.51,2025-01-15,2024-09-30,88,Pro,No,Budget,False,107,2024-09,2025-01,2024Q3,2025Q1
+OPP-10971,Deal for BrightSpark,BrightSpark,Bob Williams,EMEA,Partner,Closed Lost,5537.13,2024-12-01,2024-08-06,117,Enterprise,Yes,Budget,False,117,2024-08,2024-12,2024Q3,2024Q4
+OPP-10149,Deal for Veridian Corp,Veridian Corp,Charlie Brown,APAC,Cold Call,Closed Lost,9626.77,2025-01-13,2024-08-26,134,Pro,No,Budget,False,140,2024-08,2025-01,2024Q3,2025Q1
+OPP-10124,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,North America,Social Media,Closed Lost,4976.11,2024-08-25,2024-06-08,63,Basic,No,No Need,False,78,2024-06,2024-08,2024Q2,2024Q3
+OPP-10790,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Referral,Closed Lost,651.0,2024-09-02,2024-06-06,80,Basic,No,Competitor,False,88,2024-06,2024-09,2024Q2,2024Q3
+OPP-10826,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,North America,Cold Call,Closed Lost,3928.24,2024-12-06,2024-08-11,109,Basic,Yes,No Need,False,117,2024-08,2024-12,2024Q3,2024Q4
+OPP-10050,Deal for SynergyCorp,SynergyCorp,Alice Johnson,APAC,Event,Closed Lost,2490.08,2025-04-02,2025-01-12,65,Basic,Yes,Budget,False,80,2025-01,2025-04,2025Q1,2025Q2
+OPP-10353,Deal for Horizon Digital,Horizon Digital,Diana Miller,APAC,Partner,Closed Lost,2013.89,2024-12-27,2024-10-29,54,Basic,No,Internal Prioritization,False,59,2024-10,2024-12,2024Q4,2024Q4
+OPP-10931,Deal for InnovateCo,InnovateCo,Eve Davis,EMEA,Social Media,Closed Lost,4178.26,2024-12-28,2024-09-26,76,Basic,No,Features,False,93,2024-09,2024-12,2024Q3,2024Q4
+OPP-10142,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,North America,Partner,Closed Lost,1933.53,2024-10-03,2024-07-03,92,Basic,No,Timing,False,92,2024-07,2024-10,2024Q3,2024Q4
+OPP-10470,Deal for Apex Solutions,Apex Solutions,Eve Davis,North America,Event,Closed Lost,14386.8,2024-10-24,2024-06-18,122,Enterprise,Yes,Features,False,128,2024-06,2024-10,2024Q2,2024Q4
+OPP-10399,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,North America,Website,Closed Lost,2583.46,2025-07-18,2025-04-02,107,Enterprise,Yes,Budget,False,107,2025-04,2025-07,2025Q2,2025Q3
+OPP-10629,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,EMEA,Partner,Closed Lost,2598.08,2025-03-11,2025-01-07,49,Enterprise,No,Timing,False,63,2025-01,2025-03,2025Q1,2025Q1
+OPP-10320,Deal for Zenith Global,Zenith Global,Bob Williams,North America,Website,Closed Lost,3974.16,2024-09-20,2024-08-04,47,Enterprise,Yes,Price,False,47,2024-08,2024-09,2024Q3,2024Q3
+OPP-10019,Deal for Velocity Systems,Velocity Systems,Charlie Brown,North America,Website,Closed Lost,7429.41,2025-05-11,2025-03-02,54,Pro,Yes,No Need,False,70,2025-03,2025-05,2025Q1,2025Q2
+OPP-10813,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Event,Closed Lost,2462.25,2024-08-14,2024-07-10,35,Basic,Yes,Competitor,False,35,2024-07,2024-08,2024Q3,2024Q3
+OPP-10833,Deal for Zenith Global,Zenith Global,Alice Johnson,North America,Partner,Closed Lost,2025.57,2024-11-17,2024-09-29,33,Enterprise,Yes,Timing,False,49,2024-09,2024-11,2024Q3,2024Q4
+OPP-10881,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,EMEA,Referral,Closed Won,6063.56,2025-05-01,2025-02-28,51,Pro,Yes,NaN,False,62,2025-02,2025-05,2025Q1,2025Q2
+OPP-10407,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,EMEA,Event,Closed Lost,5880.81,2024-12-28,2024-09-11,108,Pro,No,Features,False,108,2024-09,2024-12,2024Q3,2024Q4
+OPP-10537,Deal for Quantum Labs,Quantum Labs,Eve Davis,APAC,Event,Closed Lost,9827.48,2024-08-29,2024-07-13,31,Enterprise,Yes,Price,False,47,2024-07,2024-08,2024Q3,2024Q3
+OPP-10867,Deal for InnovateCo,InnovateCo,Charlie Brown,North America,Cold Call,Closed Lost,6245.13,2025-08-16,2025-04-23,115,Enterprise,No,Features,False,115,2025-04,2025-08,2025Q2,2025Q3
+OPP-10038,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,EMEA,Referral,Closed Lost,6271.01,2025-02-07,2024-10-30,100,Pro,Yes,Competitor,False,100,2024-10,2025-02,2024Q4,2025Q1
+OPP-10175,Deal for Velocity Systems,Velocity Systems,Eve Davis,EMEA,Referral,Closed Lost,1618.49,2025-06-26,2025-02-08,129,Pro,Yes,Timing,False,138,2025-02,2025-06,2025Q1,2025Q2
+OPP-10245,Deal for Velocity Systems,Velocity Systems,Bob Williams,APAC,Event,Closed Lost,2992.04,2024-10-24,2024-06-30,104,Pro,Yes,Price,False,116,2024-06,2024-10,2024Q2,2024Q4
+OPP-10832,Deal for OmniCorp,OmniCorp,Eve Davis,APAC,Partner,Closed Lost,1004.68,2024-10-31,2024-07-18,99,Basic,No,Competitor,False,105,2024-07,2024-10,2024Q3,2024Q4
+OPP-10737,Deal for Velocity Systems,Velocity Systems,Diana Miller,APAC,Cold Call,Closed Lost,4066.0,2025-07-26,2025-05-29,58,Basic,Yes,No Need,False,58,2025-05,2025-07,2025Q2,2025Q3
+OPP-10758,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Website,Closed Lost,3104.36,2024-12-03,2024-08-18,100,Basic,Yes,Timing,False,107,2024-08,2024-12,2024Q3,2024Q4
+OPP-10905,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,North America,Event,Closed Lost,13074.05,2024-12-16,2024-11-15,31,Enterprise,No,Features,False,31,2024-11,2024-12,2024Q4,2024Q4
+OPP-10154,Deal for SynergyCorp,SynergyCorp,Bob Williams,EMEA,Website,Closed Lost,2739.95,2024-10-23,2024-07-07,99,Enterprise,Yes,Budget,False,108,2024-07,2024-10,2024Q3,2024Q4
+OPP-10287,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,EMEA,Referral,Closed Lost,4822.11,2024-09-20,2024-06-16,96,Basic,No,Budget,False,96,2024-06,2024-09,2024Q2,2024Q3
+OPP-10613,Deal for OmniCorp,OmniCorp,Bob Williams,EMEA,Social Media,Closed Lost,3441.12,2025-05-21,2025-02-22,69,Enterprise,Yes,Price,False,88,2025-02,2025-05,2025Q1,2025Q2
+OPP-10569,Deal for Apex Solutions,Apex Solutions,Bob Williams,APAC,Social Media,Closed Lost,2151.9,2024-12-13,2024-08-28,92,Pro,No,No Need,False,107,2024-08,2024-12,2024Q3,2024Q4
+OPP-10968,Deal for GlobalTech,GlobalTech,Alice Johnson,North America,Social Media,Closed Lost,3482.18,2025-09-08,2025-05-02,129,Enterprise,No,Price,False,129,2025-05,2025-09,2025Q2,2025Q3
+OPP-10017,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Social Media,Closed Lost,9417.18,2025-05-17,2024-12-29,122,Pro,No,No Need,False,139,2024-12,2025-05,2024Q4,2025Q2
+OPP-10127,Deal for Apex Solutions,Apex Solutions,Bob Williams,North America,Social Media,Closed Lost,4605.24,2025-02-18,2024-11-28,76,Enterprise,No,Features,False,82,2024-11,2025-02,2024Q4,2025Q1
+OPP-10322,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,North America,Partner,Closed Lost,2003.57,2025-03-11,2024-12-05,77,Pro,No,Timing,False,96,2024-12,2025-03,2024Q4,2025Q1
+OPP-10255,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Cold Call,Closed Lost,3726.08,2025-04-03,2025-02-20,22,Pro,No,No Need,False,42,2025-02,2025-04,2025Q1,2025Q2
+OPP-10984,Deal for OmniCorp,OmniCorp,Alice Johnson,North America,Cold Call,Closed Lost,15833.08,2025-04-08,2025-03-07,32,Enterprise,No,Budget,True,32,2025-03,2025-04,2025Q1,2025Q2
+OPP-10969,Deal for SynergyCorp,SynergyCorp,Diana Miller,EMEA,Partner,Closed Lost,4957.51,2025-01-27,2024-09-06,130,Pro,No,Budget,False,143,2024-09,2025-01,2024Q3,2025Q1
+OPP-10190,Deal for BrightSpark,BrightSpark,Eve Davis,EMEA,Website,Closed Lost,2585.83,2025-06-04,2025-02-04,114,Enterprise,Yes,Features,False,120,2025-02,2025-06,2025Q1,2025Q2
+OPP-10115,Deal for Quantum Labs,Quantum Labs,Bob Williams,North America,Cold Call,Closed Lost,2707.56,2025-05-21,2025-03-02,66,Enterprise,No,Competitor,False,80,2025-03,2025-05,2025Q1,2025Q2
+OPP-10620,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Website,Closed Won,7194.15,2024-12-01,2024-07-02,138,Enterprise,No,NaN,False,152,2024-07,2024-12,2024Q3,2024Q4
+OPP-10606,Deal for Zenith Global,Zenith Global,Alice Johnson,North America,Partner,Closed Lost,1839.19,2025-05-20,2025-03-19,48,Pro,Yes,No Need,False,62,2025-03,2025-05,2025Q1,2025Q2
+OPP-10180,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,APAC,Social Media,Closed Lost,3065.66,2024-08-30,2024-07-22,26,Enterprise,Yes,Competitor,False,39,2024-07,2024-08,2024Q3,2024Q3
+OPP-10301,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,APAC,Website,Closed Lost,2383.03,2024-10-21,2024-07-05,97,Pro,No,Price,False,108,2024-07,2024-10,2024Q3,2024Q4
+OPP-10888,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,EMEA,Partner,Closed Lost,1270.09,2024-12-06,2024-10-21,38,Basic,Yes,Price,False,46,2024-10,2024-12,2024Q4,2024Q4
+OPP-10716,Deal for Quantum Labs,Quantum Labs,Bob Williams,APAC,Social Media,Closed Lost,7282.19,2025-06-21,2024-10-07,114,Pro,No,Features,False,257,2024-10,2025-06,2024Q4,2025Q2
+OPP-10849,Deal for GlobalTech,GlobalTech,Charlie Brown,EMEA,Website,Closed Lost,5173.13,2025-01-15,2024-08-24,144,Basic,Yes,No Need,False,144,2024-08,2025-01,2024Q3,2025Q1
+OPP-10689,Deal for Apex Solutions,Apex Solutions,Alice Johnson,APAC,Website,Closed Lost,3366.52,2025-04-14,2024-12-12,123,Pro,Yes,Internal Prioritization,False,123,2024-12,2025-04,2024Q4,2025Q2
+OPP-10665,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,EMEA,Partner,Closed Lost,2145.79,2025-05-01,2025-01-02,119,Pro,Yes,Timing,False,119,2025-01,2025-05,2025Q1,2025Q2
+OPP-10517,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,EMEA,Partner,Closed Lost,3873.54,2024-10-04,2024-08-05,55,Enterprise,No,Price,False,60,2024-08,2024-10,2024Q3,2024Q4
+OPP-10989,Deal for Zenith Global,Zenith Global,Bob Williams,North America,Event,Closed Lost,3803.59,2025-07-22,2025-04-25,88,Pro,Yes,Timing,False,88,2025-04,2025-07,2025Q2,2025Q3
+OPP-10045,Deal for SynergyCorp,SynergyCorp,Charlie Brown,EMEA,Social Media,Closed Lost,6685.98,2025-01-04,2024-08-22,118,Pro,No,Price,False,135,2024-08,2025-01,2024Q3,2025Q1
+OPP-10913,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,North America,Referral,Closed Lost,9724.78,2025-03-22,2024-10-27,126,Pro,Yes,Timing,False,146,2024-10,2025-03,2024Q4,2025Q1
+OPP-10157,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Website,Closed Lost,2503.61,2025-06-07,2025-04-01,108,Pro,No,Price,False,67,2025-04,2025-06,2025Q2,2025Q2
+OPP-10817,Deal for Catalyst Group,Catalyst Group,Bob Williams,North America,Referral,Closed Lost,1969.57,2025-03-12,2025-02-01,19,Pro,Yes,Timing,False,39,2025-02,2025-03,2025Q1,2025Q1
+OPP-10171,Deal for Horizon Digital,Horizon Digital,Diana Miller,APAC,Event,Closed Lost,1503.75,2025-06-23,2025-02-11,132,Basic,Yes,Timing,False,132,2025-02,2025-06,2025Q1,2025Q2
+OPP-10016,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Social Media,Closed Lost,4396.13,2024-08-04,2024-06-05,51,Basic,Yes,Internal Prioritization,False,60,2024-06,2024-08,2024Q2,2024Q3
+OPP-10511,Deal for Veridian Corp,Veridian Corp,Alice Johnson,EMEA,Social Media,Closed Lost,8023.24,2025-04-30,2025-02-08,81,Enterprise,Yes,Price,False,81,2025-02,2025-04,2025Q1,2025Q2
+OPP-10048,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,APAC,Cold Call,Closed Lost,4275.77,2025-04-01,2024-12-30,92,Basic,No,Internal Prioritization,False,92,2024-12,2025-04,2024Q4,2025Q2
+OPP-10976,Deal for Apex Solutions,Apex Solutions,Diana Miller,EMEA,Website,Closed Lost,2299.42,2024-11-03,2024-06-22,134,Basic,Yes,Internal Prioritization,False,134,2024-06,2024-11,2024Q2,2024Q4
+OPP-10844,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,APAC,Referral,Closed Lost,13762.07,2025-01-24,2024-11-17,62,Enterprise,No,Internal Prioritization,False,68,2024-11,2025-01,2024Q4,2025Q1
+OPP-10515,Deal for GlobalTech,GlobalTech,Eve Davis,EMEA,Cold Call,Closed Won,1846.39,2024-09-29,2024-06-04,112,Pro,No,NaN,False,117,2024-06,2024-09,2024Q2,2024Q3
+OPP-10827,Deal for Veridian Corp,Veridian Corp,Alice Johnson,EMEA,Partner,Closed Lost,4782.99,2024-09-17,2024-06-06,103,Enterprise,No,Internal Prioritization,False,103,2024-06,2024-09,2024Q2,2024Q3
+OPP-10480,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,APAC,Website,Closed Lost,15328.48,2025-05-29,2025-02-06,107,Enterprise,No,Features,False,112,2025-02,2025-05,2025Q1,2025Q2
+OPP-10283,Deal for OmniCorp,OmniCorp,Charlie Brown,North America,Cold Call,Closed Lost,5554.34,2024-12-19,2024-08-15,115,Enterprise,Yes,Competitor,False,126,2024-08,2024-12,2024Q3,2024Q4
+OPP-10722,Deal for Horizon Digital,Horizon Digital,Charlie Brown,North America,Event,Closed Lost,10828.35,2024-10-29,2024-09-12,41,Pro,No,Features,False,47,2024-09,2024-10,2024Q3,2024Q4
+OPP-10684,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Partner,Closed Lost,2797.6,2025-02-12,2024-12-31,25,Basic,Yes,Features,False,43,2024-12,2025-02,2024Q4,2025Q1
+OPP-10225,Deal for SynergyCorp,SynergyCorp,Diana Miller,APAC,Website,Closed Lost,1978.6,2025-06-12,2025-03-03,91,Enterprise,Yes,Price,False,101,2025-03,2025-06,2025Q1,2025Q2
+OPP-10026,Deal for GlobalTech,GlobalTech,Bob Williams,EMEA,Cold Call,Closed Lost,2004.0,2024-12-02,2024-10-25,38,Pro,Yes,No Need,False,38,2024-10,2024-12,2024Q4,2024Q4
+OPP-10786,Deal for Catalyst Group,Catalyst Group,Eve Davis,EMEA,Partner,Closed Lost,10814.14,2024-12-20,2024-10-22,59,Pro,Yes,Budget,False,59,2024-10,2024-12,2024Q4,2024Q4
+OPP-10437,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Website,Closed Lost,5058.02,2025-05-20,2025-01-03,124,Basic,No,Budget,False,137,2025-01,2025-05,2025Q1,2025Q2
+OPP-10975,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Referral,Closed Lost,5939.12,2024-12-02,2024-10-20,38,Pro,Yes,Competitor,False,43,2024-10,2024-12,2024Q4,2024Q4
+OPP-10364,Deal for Veridian Corp,Veridian Corp,Diana Miller,APAC,Website,Closed Lost,7446.7,2024-12-03,2024-10-11,42,Pro,Yes,Internal Prioritization,False,53,2024-10,2024-12,2024Q4,2024Q4
+OPP-10229,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Cold Call,Closed Won,4293.12,2025-05-02,2025-01-23,84,Enterprise,Yes,NaN,False,99,2025-01,2025-05,2025Q1,2025Q2
+OPP-10037,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,APAC,Referral,Closed Lost,9072.09,2025-02-01,2024-09-27,114,Pro,Yes,Timing,False,127,2024-09,2025-02,2024Q3,2025Q1
+OPP-10970,Deal for Velocity Systems,Velocity Systems,Diana Miller,North America,Cold Call,Closed Lost,8154.11,2024-08-07,2024-06-28,21,Enterprise,Yes,No Need,False,40,2024-06,2024-08,2024Q2,2024Q3
+OPP-10374,Deal for Veridian Corp,Veridian Corp,Bob Williams,North America,Cold Call,Closed Won,1594.01,2025-01-26,2024-07-23,168,Basic,No,NaN,False,187,2024-07,2025-01,2024Q3,2025Q1
+OPP-10469,Deal for Apex Solutions,Apex Solutions,Eve Davis,North America,Referral,Closed Lost,5558.14,2024-07-11,2024-06-10,31,Pro,Yes,Budget,False,31,2024-06,2024-07,2024Q2,2024Q3
+OPP-10972,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Website,Closed Lost,3806.68,2025-02-04,2024-10-25,102,Basic,Yes,Internal Prioritization,False,102,2024-10,2025-02,2024Q4,2025Q1
+OPP-10854,Deal for SynergyCorp,SynergyCorp,Diana Miller,APAC,Cold Call,Closed Lost,1781.72,2025-03-17,2024-11-15,109,Enterprise,Yes,Features,False,122,2024-11,2025-03,2024Q4,2025Q1
+OPP-10708,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Event,Closed Lost,2714.43,2025-04-15,2024-12-12,116,Pro,Yes,Timing,False,124,2024-12,2025-04,2024Q4,2025Q2
+OPP-10843,Deal for Catalyst Group,Catalyst Group,Diana Miller,North America,Website,Closed Lost,11674.15,2024-10-26,2024-08-24,63,Enterprise,No,Timing,False,63,2024-08,2024-10,2024Q3,2024Q4
+OPP-10194,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Cold Call,Closed Lost,8154.03,2025-04-01,2024-11-20,126,Pro,No,Internal Prioritization,False,132,2024-11,2025-04,2024Q4,2025Q2
+OPP-10858,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Website,Closed Lost,10792.27,2025-05-20,2025-01-17,118,Pro,Yes,Internal Prioritization,False,123,2025-01,2025-05,2025Q1,2025Q2
+OPP-10868,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Website,Closed Lost,2321.32,2025-02-06,2024-10-22,98,Enterprise,No,Timing,False,107,2024-10,2025-02,2024Q4,2025Q1
+OPP-10503,Deal for Quantum Labs,Quantum Labs,Alice Johnson,APAC,Cold Call,Closed Lost,4921.75,2024-10-12,2024-08-22,51,Basic,Yes,No Need,False,51,2024-08,2024-10,2024Q3,2024Q4
+OPP-10974,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,North America,Website,Closed Lost,4432.21,2025-05-27,2025-01-23,119,Basic,Yes,Internal Prioritization,False,124,2025-01,2025-05,2025Q1,2025Q2
+OPP-10834,Deal for InnovateCo,InnovateCo,Charlie Brown,APAC,Website,Closed Lost,5908.44,2025-01-10,2024-08-27,124,Enterprise,Yes,Competitor,False,136,2024-08,2025-01,2024Q3,2025Q1
+OPP-10579,Deal for Horizon Digital,Horizon Digital,Diana Miller,North America,Website,Closed Lost,2286.63,2024-10-30,2024-09-12,48,Pro,No,No Need,False,48,2024-09,2024-10,2024Q3,2024Q4
+OPP-10973,Deal for Zenith Global,Zenith Global,Eve Davis,North America,Cold Call,Closed Lost,4217.59,2025-01-06,2024-11-05,62,Pro,No,No Need,False,62,2024-11,2025-01,2024Q4,2025Q1
+OPP-10162,Deal for Apex Solutions,Apex Solutions,Eve Davis,APAC,Social Media,Closed Lost,4074.71,2024-08-27,2024-06-19,55,Enterprise,No,Competitor,False,69,2024-06,2024-08,2024Q2,2024Q3
+OPP-10706,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,APAC,Partner,Closed Lost,3510.83,2025-04-29,2025-03-22,29,Basic,Yes,Competitor,False,38,2025-03,2025-04,2025Q1,2025Q2
+OPP-10152,Deal for Horizon Digital,Horizon Digital,Alice Johnson,North America,Referral,Closed Lost,1190.41,2025-06-17,2025-01-22,146,Pro,No,Features,False,146,2025-01,2025-06,2025Q1,2025Q2
+OPP-10685,Deal for Veridian Corp,Veridian Corp,Bob Williams,EMEA,Event,Closed Lost,3065.22,2024-09-05,2024-07-28,24,Enterprise,No,No Need,False,39,2024-07,2024-09,2024Q3,2024Q3
+OPP-10704,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Website,Closed Lost,16296.55,2025-01-11,2024-11-18,35,Enterprise,Yes,Internal Prioritization,True,54,2024-11,2025-01,2024Q4,2025Q1
+OPP-10759,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,North America,Social Media,Closed Lost,2284.75,2025-01-20,2024-11-10,71,Basic,No,Competitor,False,71,2024-11,2025-01,2024Q4,2025Q1
+OPP-10111,Deal for Zenith Global,Zenith Global,Charlie Brown,North America,Website,Closed Lost,8029.68,2025-06-01,2025-01-26,112,Pro,Yes,Features,False,126,2025-01,2025-06,2025Q1,2025Q2
+OPP-10226,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Event,Closed Lost,1231.88,2025-01-24,2024-12-16,33,Pro,No,Competitor,False,39,2024-12,2025-01,2024Q4,2025Q1
+OPP-10692,Deal for Catalyst Group,Catalyst Group,Eve Davis,EMEA,Partner,Closed Lost,8405.55,2024-08-06,2024-06-21,46,Pro,Yes,Timing,False,46,2024-06,2024-08,2024Q2,2024Q3
+OPP-10103,Deal for Veridian Corp,Veridian Corp,Eve Davis,APAC,Referral,Closed Lost,8141.65,2025-02-10,2024-10-14,113,Enterprise,Yes,Price,False,119,2024-10,2025-02,2024Q4,2025Q1
+OPP-10421,Deal for BrightSpark,BrightSpark,Diana Miller,APAC,Social Media,Closed Lost,5521.7,2025-02-05,2024-12-27,40,Pro,Yes,Competitor,False,40,2024-12,2025-02,2024Q4,2025Q1
+OPP-10419,Deal for Horizon Digital,Horizon Digital,Eve Davis,North America,Partner,Closed Lost,3829.36,2024-10-24,2024-07-23,74,Basic,Yes,Budget,False,93,2024-07,2024-10,2024Q3,2024Q4
+OPP-10754,Deal for Fusion Innovations,Fusion Innovations,Diana Miller,North America,Social Media,Closed Lost,2073.85,2025-08-23,2025-05-23,92,Enterprise,Yes,Price,False,92,2025-05,2025-08,2025Q2,2025Q3
+OPP-10586,Deal for OmniCorp,OmniCorp,Diana Miller,North America,Cold Call,Closed Lost,3371.22,2025-05-20,2025-04-02,48,Enterprise,Yes,Competitor,False,48,2025-04,2025-05,2025Q2,2025Q2
+OPP-10784,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,EMEA,Referral,Closed Lost,3978.56,2025-05-21,2025-01-31,110,Basic,No,Features,False,110,2025-01,2025-05,2025Q1,2025Q2
+OPP-10672,Deal for Velocity Systems,Velocity Systems,Bob Williams,EMEA,Partner,Closed Won,2200.15,2024-10-02,2024-07-28,53,Pro,Yes,NaN,False,66,2024-07,2024-10,2024Q3,2024Q4
+OPP-10119,Deal for InnovateCo,InnovateCo,Alice Johnson,North America,Partner,Closed Lost,3449.43,2025-01-15,2024-09-14,111,Basic,No,Timing,False,123,2024-09,2025-01,2024Q3,2025Q1
+OPP-10053,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Social Media,Closed Lost,2941.86,2024-10-22,2024-06-05,128,Enterprise,Yes,No Need,False,139,2024-06,2024-10,2024Q2,2024Q4
+OPP-10151,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Cold Call,Closed Lost,5050.19,2025-02-08,2024-09-17,144,Pro,No,Budget,False,144,2024-09,2025-02,2024Q3,2025Q1
+OPP-10403,Deal for Zenith Global,Zenith Global,Charlie Brown,North America,Referral,Closed Lost,9365.83,2024-11-14,2024-08-03,98,Pro,Yes,Features,False,103,2024-08,2024-11,2024Q3,2024Q4
+OPP-10949,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Website,Closed Lost,1108.89,2025-01-03,2024-11-18,39,Basic,Yes,Budget,False,46,2024-11,2025-01,2024Q4,2025Q1
+OPP-10207,Deal for BrightSpark,BrightSpark,Charlie Brown,EMEA,Social Media,Closed Lost,7651.92,2025-06-09,2025-01-20,124,Pro,No,Budget,False,140,2025-01,2025-06,2025Q1,2025Q2
+OPP-10658,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,APAC,Event,Closed Lost,4042.91,2025-05-14,2025-03-18,47,Basic,Yes,Budget,False,57,2025-03,2025-05,2025Q1,2025Q2
+OPP-10847,Deal for Zenith Global,Zenith Global,Diana Miller,APAC,Referral,Closed Lost,7906.65,2025-03-21,2025-02-07,25,Pro,No,Price,False,42,2025-02,2025-03,2025Q1,2025Q1
+OPP-10835,Deal for Quantum Labs,Quantum Labs,Alice Johnson,APAC,Referral,Closed Lost,762.52,2024-12-29,2024-08-29,105,Basic,Yes,No Need,False,122,2024-08,2024-12,2024Q3,2024Q4
+OPP-10008,Deal for Quantum Labs,Quantum Labs,Alice Johnson,North America,Social Media,Closed Lost,9930.09,2025-07-22,2025-03-18,115,Pro,Yes,Budget,False,126,2025-03,2025-07,2025Q1,2025Q3
+OPP-10811,Deal for Zenith Global,Zenith Global,Eve Davis,EMEA,Website,Closed Lost,3392.67,2024-12-14,2024-09-19,86,Basic,Yes,Price,False,86,2024-09,2024-12,2024Q3,2024Q4
+OPP-10036,Deal for Quantum Labs,Quantum Labs,Bob Williams,EMEA,Social Media,Closed Lost,7986.59,2025-08-29,2025-05-21,100,Enterprise,No,Competitor,False,100,2025-05,2025-08,2025Q2,2025Q3
+OPP-10452,Deal for InnovateCo,InnovateCo,Alice Johnson,North America,Social Media,Closed Lost,3977.75,2024-12-21,2024-10-13,69,Basic,No,No Need,False,69,2024-10,2024-12,2024Q4,2024Q4
+OPP-10651,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Website,Closed Lost,2386.99,2024-08-18,2024-06-01,66,Basic,No,Internal Prioritization,False,78,2024-06,2024-08,2024Q2,2024Q3
+OPP-10253,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,APAC,Partner,Closed Won,5796.37,2025-07-07,2025-01-21,151,Pro,No,NaN,False,167,2025-01,2025-07,2025Q1,2025Q3
+OPP-10303,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,APAC,Cold Call,Closed Lost,1017.44,2025-06-04,2025-04-09,56,Basic,Yes,Internal Prioritization,False,56,2025-04,2025-06,2025Q2,2025Q2
+OPP-10750,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,APAC,Partner,Closed Lost,8974.36,2025-06-28,2025-05-17,42,Enterprise,Yes,No Need,False,42,2025-05,2025-06,2025Q2,2025Q2
+OPP-10571,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,North America,Cold Call,Closed Lost,9897.19,2025-04-02,2024-11-08,145,Enterprise,Yes,Features,False,145,2024-11,2025-04,2024Q4,2025Q2
+OPP-10623,Deal for Horizon Digital,Horizon Digital,Eve Davis,APAC,Website,Closed Lost,10313.3,2025-03-09,2025-01-01,56,Enterprise,Yes,Features,False,67,2025-01,2025-03,2025Q1,2025Q1
+OPP-10713,Deal for InnovateCo,InnovateCo,Diana Miller,North America,Partner,Closed Lost,1953.32,2024-11-10,2024-08-13,81,Pro,Yes,No Need,False,89,2024-08,2024-11,2024Q3,2024Q4
+OPP-10723,Deal for Velocity Systems,Velocity Systems,Diana Miller,North America,Social Media,Closed Lost,5686.86,2024-11-17,2024-10-03,36,Pro,No,Budget,False,45,2024-10,2024-11,2024Q4,2024Q4
+OPP-10262,Deal for Prime Ventures,Prime Ventures,Diana Miller,EMEA,Website,Closed Lost,7129.56,2025-04-06,2025-02-07,41,Pro,No,Competitor,False,58,2025-02,2025-04,2025Q1,2025Q2
+OPP-10610,Deal for Horizon Digital,Horizon Digital,Charlie Brown,North America,Cold Call,Closed Lost,2630.5,2025-02-05,2024-12-06,56,Pro,Yes,Internal Prioritization,False,61,2024-12,2025-02,2024Q4,2025Q1
+OPP-10297,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Cold Call,Closed Lost,3139.35,2025-06-16,2024-08-31,30,Pro,No,Timing,False,289,2024-08,2025-06,2024Q3,2025Q2
+OPP-10414,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Partner,Closed Lost,3817.03,2025-03-09,2025-02-05,13,Enterprise,No,Features,False,32,2025-02,2025-03,2025Q1,2025Q1
+OPP-10150,Deal for Quantum Labs,Quantum Labs,Charlie Brown,North America,Social Media,Closed Won,2400.27,2025-08-15,2025-05-31,57,Pro,No,NaN,False,76,2025-05,2025-08,2025Q2,2025Q3
+OPP-10792,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,EMEA,Partner,Closed Lost,11039.15,2024-09-19,2024-06-18,78,Enterprise,Yes,No Need,False,93,2024-06,2024-09,2024Q2,2024Q3
+OPP-10640,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Social Media,Closed Lost,1944.08,2024-08-26,2024-07-08,49,Enterprise,No,Price,False,49,2024-07,2024-08,2024Q3,2024Q3
+OPP-10893,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,APAC,Referral,Closed Lost,3732.33,2025-08-10,2025-04-06,126,Pro,No,Competitor,False,126,2025-04,2025-08,2025Q2,2025Q3
+OPP-10550,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,North America,Social Media,Closed Lost,3870.99,2025-02-28,2024-11-08,112,Pro,No,Price,False,112,2024-11,2025-02,2024Q4,2025Q1
+OPP-10801,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,North America,Event,Closed Lost,1901.66,2024-12-24,2024-08-18,122,Enterprise,No,Competitor,False,128,2024-08,2024-12,2024Q3,2024Q4
+OPP-10488,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Event,Closed Lost,6981.14,2025-08-29,2025-04-10,141,Pro,Yes,Timing,False,141,2025-04,2025-08,2025Q2,2025Q3
+OPP-10147,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Social Media,Closed Lost,8332.28,2025-01-19,2024-12-05,26,Pro,Yes,Internal Prioritization,False,45,2024-12,2025-01,2024Q4,2025Q1
+OPP-10146,Deal for BrightSpark,BrightSpark,Alice Johnson,APAC,Website,Closed Lost,575.9,2024-10-08,2024-08-25,24,Basic,No,Timing,False,44,2024-08,2024-10,2024Q3,2024Q4
+OPP-10896,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Website,Closed Lost,1957.09,2024-10-08,2024-06-22,108,Enterprise,No,Timing,False,108,2024-06,2024-10,2024Q2,2024Q4
+OPP-10935,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,APAC,Cold Call,Closed Lost,5758.22,2025-08-07,2025-04-03,107,Enterprise,Yes,Price,False,126,2025-04,2025-08,2025Q2,2025Q3
+OPP-10743,Deal for BrightSpark,BrightSpark,Charlie Brown,APAC,Social Media,Closed Lost,2121.48,2025-06-11,2024-09-25,36,Basic,No,Features,False,259,2024-09,2025-06,2024Q3,2025Q2
+OPP-10659,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,APAC,Social Media,Closed Lost,1805.6,2024-11-26,2024-10-05,39,Basic,Yes,Competitor,False,52,2024-10,2024-11,2024Q4,2024Q4
+OPP-10348,Deal for SynergyCorp,SynergyCorp,Bob Williams,APAC,Website,Closed Lost,3035.74,2025-03-04,2024-10-30,125,Basic,No,Timing,False,125,2024-10,2025-03,2024Q4,2025Q1
+OPP-10463,Deal for Catalyst Group,Catalyst Group,Eve Davis,EMEA,Social Media,Closed Lost,2720.69,2024-12-24,2024-11-16,24,Pro,Yes,No Need,False,38,2024-11,2024-12,2024Q4,2024Q4
+OPP-10325,Deal for Apex Solutions,Apex Solutions,Charlie Brown,APAC,Partner,Closed Lost,2281.16,2024-08-31,2024-06-27,65,Basic,No,Competitor,False,65,2024-06,2024-08,2024Q2,2024Q3
+OPP-10186,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Cold Call,Closed Lost,1823.45,2025-05-19,2025-04-18,12,Pro,Yes,Internal Prioritization,False,31,2025-04,2025-05,2025Q2,2025Q2
+OPP-10123,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Event,Closed Lost,11635.67,2024-12-16,2024-09-06,101,Enterprise,Yes,Features,False,101,2024-09,2024-12,2024Q3,2024Q4
+OPP-10857,Deal for Quantum Labs,Quantum Labs,Eve Davis,North America,Event,Closed Lost,10294.74,2025-06-08,2024-11-09,104,Pro,No,Competitor,False,211,2024-11,2025-06,2024Q4,2025Q2
+OPP-10608,Deal for BrightSpark,BrightSpark,Alice Johnson,APAC,Event,Closed Lost,3160.29,2025-05-13,2025-04-10,28,Basic,No,Internal Prioritization,False,33,2025-04,2025-05,2025Q2,2025Q2
+OPP-10143,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,North America,Cold Call,Closed Lost,7379.04,2025-04-02,2024-12-18,105,Pro,No,Price,False,105,2024-12,2025-04,2024Q4,2025Q2
+OPP-10963,Deal for GlobalTech,GlobalTech,Diana Miller,EMEA,Social Media,Closed Won,2558.2,2025-03-06,2024-09-10,168,Enterprise,Yes,NaN,False,177,2024-09,2025-03,2024Q3,2025Q1
+OPP-10197,Deal for Zenith Global,Zenith Global,Alice Johnson,North America,Cold Call,Closed Lost,2762.28,2025-07-31,2025-05-02,71,Basic,No,Price,False,90,2025-05,2025-07,2025Q2,2025Q3
+OPP-10609,Deal for Horizon Digital,Horizon Digital,Alice Johnson,APAC,Event,Closed Lost,4254.02,2025-03-22,2024-12-12,100,Basic,No,Features,False,100,2024-12,2025-03,2024Q4,2025Q1
+OPP-10279,Deal for BrightSpark,BrightSpark,Bob Williams,APAC,Social Media,Closed Lost,10589.29,2024-09-19,2024-08-01,34,Enterprise,Yes,Competitor,False,49,2024-08,2024-09,2024Q3,2024Q3
+OPP-10293,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,APAC,Website,Closed Lost,6897.72,2025-07-30,2025-04-25,90,Pro,No,Internal Prioritization,False,96,2025-04,2025-07,2025Q2,2025Q3
+OPP-10400,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,EMEA,Partner,Closed Lost,5348.65,2024-08-09,2024-06-24,31,Enterprise,No,Price,False,46,2024-06,2024-08,2024Q2,2024Q3
+OPP-10122,Deal for OmniCorp,OmniCorp,Diana Miller,EMEA,Partner,Closed Lost,6082.77,2025-08-10,2025-03-15,148,Enterprise,Yes,No Need,False,148,2025-03,2025-08,2025Q1,2025Q3
+OPP-10183,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Social Media,Closed Lost,4612.05,2025-08-15,2025-05-05,90,Enterprise,No,Price,False,102,2025-05,2025-08,2025Q2,2025Q3
+OPP-10202,Deal for Velocity Systems,Velocity Systems,Alice Johnson,APAC,Website,Closed Lost,2261.71,2025-08-23,2025-05-05,99,Basic,Yes,Price,False,110,2025-05,2025-08,2025Q2,2025Q3
+OPP-10438,Deal for Horizon Digital,Horizon Digital,Eve Davis,EMEA,Website,Closed Lost,1775.28,2025-07-27,2025-03-27,122,Basic,Yes,Timing,False,122,2025-03,2025-07,2025Q1,2025Q3
+OPP-10246,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Cold Call,Closed Lost,6137.62,2024-08-22,2024-07-15,38,Enterprise,No,Price,False,38,2024-07,2024-08,2024Q3,2024Q3
+OPP-10415,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,North America,Partner,Closed Lost,15914.77,2025-02-10,2024-09-27,119,Enterprise,No,Budget,True,136,2024-09,2025-02,2024Q3,2025Q1
+OPP-10780,Deal for OmniCorp,OmniCorp,Eve Davis,APAC,Website,Closed Lost,10497.48,2025-08-23,2025-05-24,91,Enterprise,No,Competitor,False,91,2025-05,2025-08,2025Q2,2025Q3
+OPP-10982,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,EMEA,Partner,Closed Lost,14619.22,2025-08-15,2025-03-30,128,Enterprise,Yes,Budget,False,138,2025-03,2025-08,2025Q1,2025Q3
+OPP-10910,Deal for Catalyst Group,Catalyst Group,Diana Miller,EMEA,Social Media,Closed Lost,872.21,2025-05-19,2024-12-20,150,Basic,Yes,Features,False,150,2024-12,2025-05,2024Q4,2025Q2
+OPP-10863,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,APAC,Website,Closed Lost,12881.78,2025-07-11,2025-03-07,106,Enterprise,Yes,Budget,False,126,2025-03,2025-07,2025Q1,2025Q3
+OPP-10891,Deal for SynergyCorp,SynergyCorp,Alice Johnson,APAC,Referral,Closed Lost,2682.15,2025-01-17,2024-09-21,113,Enterprise,No,Price,False,118,2024-09,2025-01,2024Q3,2025Q1
+OPP-10129,Deal for InnovateCo,InnovateCo,Eve Davis,EMEA,Website,Closed Lost,14413.0,2025-01-24,2024-10-19,97,Enterprise,No,Features,False,97,2024-10,2025-01,2024Q4,2025Q1
+OPP-10637,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,North America,Social Media,Closed Lost,8068.76,2024-10-26,2024-06-11,126,Pro,No,Timing,False,137,2024-06,2024-10,2024Q2,2024Q4
+OPP-10402,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,EMEA,Social Media,Closed Lost,7016.1,2025-07-13,2025-01-10,178,Pro,Yes,No Need,False,184,2025-01,2025-07,2025Q1,2025Q3
+OPP-10788,Deal for Astra Dynamics,Astra Dynamics,Bob Williams,EMEA,Website,Closed Lost,2411.68,2025-01-19,2024-10-20,91,Pro,Yes,Timing,False,91,2024-10,2025-01,2024Q4,2025Q1
+OPP-10774,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Cold Call,Closed Lost,1541.56,2025-02-17,2025-01-17,24,Enterprise,Yes,Budget,False,31,2025-01,2025-02,2025Q1,2025Q1
+OPP-10735,Deal for Zenith Global,Zenith Global,Diana Miller,EMEA,Partner,Closed Lost,8049.74,2025-04-20,2025-02-03,63,Enterprise,Yes,Internal Prioritization,False,76,2025-02,2025-04,2025Q1,2025Q2
+OPP-10917,Deal for Quantum Labs,Quantum Labs,Eve Davis,North America,Cold Call,Closed Lost,3420.75,2025-04-09,2024-11-17,143,Basic,No,Features,False,143,2024-11,2025-04,2024Q4,2025Q2
+OPP-10219,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Social Media,Closed Lost,7325.02,2025-08-03,2025-03-10,146,Pro,Yes,Budget,False,146,2025-03,2025-08,2025Q1,2025Q3
+OPP-10641,Deal for Apex Solutions,Apex Solutions,Charlie Brown,EMEA,Event,Closed Lost,5487.37,2025-07-17,2025-04-07,89,Enterprise,Yes,Competitor,False,101,2025-04,2025-07,2025Q2,2025Q3
+OPP-10919,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,North America,Cold Call,Closed Lost,5566.79,2025-09-25,2025-05-03,145,Basic,No,Budget,False,145,2025-05,2025-09,2025Q2,2025Q3
+OPP-10756,Deal for Catalyst Group,Catalyst Group,Alice Johnson,North America,Website,Closed Lost,1888.2,2024-10-20,2024-07-26,67,Pro,Yes,Timing,False,86,2024-07,2024-10,2024Q3,2024Q4
+OPP-10810,Deal for Catalyst Group,Catalyst Group,Eve Davis,North America,Event,Closed Won,15371.46,2025-05-05,2024-12-14,130,Enterprise,No,NaN,False,142,2024-12,2025-05,2024Q4,2025Q2
+OPP-10923,Deal for Zenith Global,Zenith Global,Alice Johnson,EMEA,Partner,Closed Lost,905.17,2024-09-04,2024-06-25,71,Basic,No,Price,False,71,2024-06,2024-09,2024Q2,2024Q3
+OPP-10624,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Social Media,Closed Lost,2960.61,2025-01-18,2024-09-27,106,Basic,Yes,No Need,False,113,2024-09,2025-01,2024Q3,2025Q1
+OPP-10842,Deal for InnovateCo,InnovateCo,Bob Williams,EMEA,Partner,Closed Lost,4725.65,2024-10-10,2024-08-08,53,Basic,No,Budget,False,63,2024-08,2024-10,2024Q3,2024Q4
+OPP-10764,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Cold Call,Closed Lost,958.16,2025-01-29,2024-12-27,23,Basic,No,Budget,False,33,2024-12,2025-01,2024Q4,2025Q1
+OPP-10386,Deal for Horizon Digital,Horizon Digital,Charlie Brown,EMEA,Social Media,Closed Lost,3211.84,2025-02-01,2024-12-29,16,Basic,No,Features,False,34,2024-12,2025-02,2024Q4,2025Q1
+OPP-10977,Deal for Velocity Systems,Velocity Systems,Charlie Brown,North America,Event,Closed Lost,2971.01,2025-06-19,2025-02-07,121,Basic,Yes,Internal Prioritization,False,132,2025-02,2025-06,2025Q1,2025Q2
+OPP-10509,Deal for Prime Ventures,Prime Ventures,Diana Miller,APAC,Social Media,Closed Lost,9781.88,2024-10-13,2024-08-13,61,Pro,Yes,Budget,False,61,2024-08,2024-10,2024Q3,2024Q4
+OPP-10267,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,North America,Website,Closed Lost,3101.32,2024-10-13,2024-08-01,66,Basic,No,Internal Prioritization,False,73,2024-08,2024-10,2024Q3,2024Q4
+OPP-10823,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,APAC,Partner,Closed Lost,4196.69,2025-09-28,2025-05-18,123,Enterprise,No,No Need,False,133,2025-05,2025-09,2025Q2,2025Q3
+OPP-10441,Deal for GlobalTech,GlobalTech,Charlie Brown,APAC,Referral,Closed Lost,3953.69,2025-08-09,2025-04-11,120,Basic,No,Timing,False,120,2025-04,2025-08,2025Q2,2025Q3
+OPP-10496,Deal for Velocity Systems,Velocity Systems,Diana Miller,North America,Partner,Closed Lost,6210.83,2025-04-01,2024-12-18,89,Enterprise,No,Internal Prioritization,False,104,2024-12,2025-04,2024Q4,2025Q2
+OPP-10112,Deal for Zenith Global,Zenith Global,Eve Davis,EMEA,Website,Closed Lost,2280.21,2025-02-04,2025-01-05,30,Pro,Yes,Competitor,False,30,2025-01,2025-02,2025Q1,2025Q1
+OPP-10691,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,North America,Event,Closed Lost,5374.5,2025-06-24,2025-03-03,113,Enterprise,Yes,Internal Prioritization,False,113,2025-03,2025-06,2025Q1,2025Q2
+OPP-10232,Deal for Horizon Digital,Horizon Digital,Alice Johnson,APAC,Social Media,Closed Lost,3506.25,2024-11-19,2024-07-09,121,Basic,No,Timing,False,133,2024-07,2024-11,2024Q3,2024Q4
+OPP-10873,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Referral,Closed Lost,4143.91,2024-12-20,2024-09-30,76,Enterprise,No,Timing,False,81,2024-09,2024-12,2024Q3,2024Q4
+OPP-10607,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Partner,Closed Won,1889.23,2025-01-03,2024-10-26,63,Basic,No,NaN,False,69,2024-10,2025-01,2024Q4,2025Q1
+OPP-10671,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Social Media,Closed Lost,5919.6,2025-05-28,2025-01-19,110,Enterprise,No,No Need,False,129,2025-01,2025-05,2025Q1,2025Q2
+OPP-10373,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,North America,Website,Closed Lost,10135.0,2025-06-23,2025-05-14,40,Enterprise,No,Price,False,40,2025-05,2025-06,2025Q2,2025Q2
+OPP-10986,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Event,Closed Lost,630.16,2025-03-31,2025-01-12,68,Basic,Yes,Timing,False,78,2025-01,2025-03,2025Q1,2025Q1
+OPP-10846,Deal for Apex Solutions,Apex Solutions,Alice Johnson,EMEA,Website,Closed Lost,7182.06,2025-04-15,2025-02-02,72,Pro,No,Competitor,False,72,2025-02,2025-04,2025Q1,2025Q2
+OPP-10233,Deal for SynergyCorp,SynergyCorp,Bob Williams,APAC,Partner,Closed Won,11359.46,2024-11-15,2024-08-21,80,Enterprise,Yes,NaN,False,86,2024-08,2024-11,2024Q3,2024Q4
+OPP-10789,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,APAC,Referral,Closed Lost,14992.54,2025-02-10,2024-11-08,83,Enterprise,Yes,Competitor,False,94,2024-11,2025-02,2024Q4,2025Q1
+OPP-10676,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,EMEA,Partner,Closed Lost,7648.57,2025-01-27,2024-10-03,99,Pro,Yes,Competitor,False,116,2024-10,2025-01,2024Q4,2025Q1
+OPP-10317,Deal for Horizon Digital,Horizon Digital,Bob Williams,North America,Social Media,Closed Lost,7146.08,2025-06-13,2025-01-15,149,Pro,No,No Need,False,149,2025-01,2025-06,2025Q1,2025Q2
+OPP-10648,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Referral,Closed Lost,2722.45,2024-09-17,2024-06-03,106,Basic,Yes,Features,False,106,2024-06,2024-09,2024Q2,2024Q3
+OPP-10410,Deal for InnovateCo,InnovateCo,Diana Miller,North America,Referral,Closed Lost,2013.29,2025-07-07,2025-05-05,44,Pro,Yes,Competitor,False,63,2025-05,2025-07,2025Q2,2025Q3
+OPP-10902,Deal for Horizon Digital,Horizon Digital,Alice Johnson,APAC,Social Media,Closed Lost,3807.95,2025-10-05,2025-05-23,124,Pro,Yes,Competitor,False,135,2025-05,2025-10,2025Q2,2025Q4
+OPP-10709,Deal for BrightSpark,BrightSpark,Alice Johnson,APAC,Cold Call,Closed Lost,6571.38,2024-10-28,2024-09-16,25,Pro,No,Competitor,False,42,2024-09,2024-10,2024Q3,2024Q4
+OPP-10358,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,North America,Referral,Closed Lost,5436.43,2024-12-03,2024-07-28,116,Enterprise,Yes,Competitor,False,128,2024-07,2024-12,2024Q3,2024Q4
+OPP-10258,Deal for Zenith Global,Zenith Global,Eve Davis,APAC,Event,Closed Lost,2148.51,2025-05-02,2024-12-03,150,Pro,Yes,Budget,False,150,2024-12,2025-05,2024Q4,2025Q2
+OPP-10744,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Cold Call,Closed Lost,1413.35,2024-11-08,2024-06-15,138,Basic,Yes,Features,False,146,2024-06,2024-11,2024Q2,2024Q4
+OPP-10627,Deal for Veridian Corp,Veridian Corp,Alice Johnson,APAC,Website,Closed Lost,5558.96,2025-07-06,2025-04-12,85,Basic,No,Competitor,False,85,2025-04,2025-07,2025Q2,2025Q3
+OPP-10632,Deal for Horizon Digital,Horizon Digital,Alice Johnson,APAC,Social Media,Closed Won,5747.91,2025-05-11,2025-02-18,62,Pro,Yes,NaN,False,82,2025-02,2025-05,2025Q1,2025Q2
+OPP-10282,Deal for Veridian Corp,Veridian Corp,Charlie Brown,North America,Cold Call,Closed Lost,9676.89,2024-10-30,2024-06-13,130,Enterprise,No,Price,False,139,2024-06,2024-10,2024Q2,2024Q4
+OPP-10376,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Cold Call,Closed Lost,12629.48,2025-03-16,2025-02-10,34,Enterprise,No,No Need,False,34,2025-02,2025-03,2025Q1,2025Q1
+OPP-10384,Deal for BrightSpark,BrightSpark,Eve Davis,APAC,Event,Closed Lost,14076.94,2025-01-18,2024-10-07,103,Enterprise,Yes,No Need,False,103,2024-10,2025-01,2024Q4,2025Q1
+OPP-10224,Deal for BrightSpark,BrightSpark,Charlie Brown,APAC,Referral,Closed Lost,8265.5,2024-10-30,2024-06-23,118,Pro,Yes,Features,False,129,2024-06,2024-10,2024Q2,2024Q4
+OPP-10958,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,North America,Referral,Closed Lost,6436.03,2025-05-22,2025-03-26,37,Enterprise,Yes,No Need,False,57,2025-03,2025-05,2025Q1,2025Q2
+OPP-10947,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,EMEA,Partner,Closed Lost,3197.5,2025-05-21,2025-02-15,95,Pro,No,Competitor,False,95,2025-02,2025-05,2025Q1,2025Q2
+OPP-10472,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,APAC,Referral,Closed Lost,12025.35,2025-09-29,2025-04-17,149,Enterprise,No,Competitor,False,165,2025-04,2025-09,2025Q2,2025Q3
+OPP-10347,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Social Media,Closed Lost,6940.58,2024-07-24,2024-06-23,24,Enterprise,Yes,Budget,False,31,2024-06,2024-07,2024Q2,2024Q3
+OPP-10505,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,APAC,Partner,Closed Lost,1908.5,2024-11-06,2024-09-19,30,Basic,No,Timing,False,48,2024-09,2024-11,2024Q3,2024Q4
+OPP-10639,Deal for InnovateCo,InnovateCo,Charlie Brown,North America,Referral,Closed Lost,2151.54,2024-12-08,2024-10-23,46,Enterprise,Yes,Internal Prioritization,False,46,2024-10,2024-12,2024Q4,2024Q4
+OPP-10992,Deal for Velocity Systems,Velocity Systems,Diana Miller,APAC,Partner,Closed Lost,679.07,2025-07-01,2025-02-25,118,Basic,No,Budget,False,126,2025-02,2025-07,2025Q1,2025Q3
+OPP-10932,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,North America,Event,Closed Lost,2998.35,2024-07-19,2024-06-08,26,Enterprise,Yes,No Need,False,41,2024-06,2024-07,2024Q2,2024Q3
+OPP-10909,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,North America,Cold Call,Closed Lost,1100.91,2025-04-21,2025-01-01,110,Basic,No,Price,False,110,2025-01,2025-04,2025Q1,2025Q2
+OPP-10619,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,North America,Social Media,Closed Lost,4696.38,2025-06-29,2025-02-09,130,Basic,Yes,No Need,False,140,2025-02,2025-06,2025Q1,2025Q2
+OPP-10859,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,EMEA,Partner,Closed Lost,4578.12,2025-06-30,2025-05-06,45,Basic,No,Price,False,55,2025-05,2025-06,2025Q2,2025Q2
+OPP-10807,Deal for Elite Dynamics,Elite Dynamics,Eve Davis,EMEA,Partner,Closed Lost,4192.04,2025-01-21,2024-12-09,43,Enterprise,No,Features,False,43,2024-12,2025-01,2024Q4,2025Q1
+OPP-10645,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Referral,Closed Lost,7422.41,2025-05-06,2025-02-11,84,Pro,No,Budget,False,84,2025-02,2025-05,2025Q1,2025Q2
+OPP-10850,Deal for Pioneer Systems,Pioneer Systems,Eve Davis,APAC,Website,Closed Lost,3320.53,2025-02-23,2024-10-28,98,Enterprise,No,Competitor,False,118,2024-10,2025-02,2024Q4,2025Q1
+OPP-10556,Deal for Quantum Labs,Quantum Labs,Eve Davis,North America,Cold Call,Closed Lost,3430.46,2024-12-28,2024-09-06,113,Pro,Yes,No Need,False,113,2024-09,2024-12,2024Q3,2024Q4
+OPP-10962,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,APAC,Partner,Closed Lost,4234.21,2024-12-24,2024-08-23,123,Basic,Yes,Timing,False,123,2024-08,2024-12,2024Q3,2024Q4
+OPP-10577,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,EMEA,Social Media,Closed Won,4257.09,2025-04-04,2024-10-02,173,Pro,No,NaN,False,184,2024-10,2025-04,2024Q4,2025Q2
+OPP-10795,Deal for GlobalTech,GlobalTech,Eve Davis,North America,Event,Closed Won,3396.83,2025-06-15,2024-12-06,172,Basic,Yes,NaN,False,191,2024-12,2025-06,2024Q4,2025Q2
+OPP-10085,Deal for Horizon Digital,Horizon Digital,Diana Miller,North America,Website,Closed Lost,6888.35,2025-05-20,2025-04-15,18,Pro,Yes,Budget,False,35,2025-04,2025-05,2025Q2,2025Q2
+OPP-10242,Deal for Prime Ventures,Prime Ventures,Diana Miller,APAC,Partner,Closed Lost,4427.07,2024-12-25,2024-09-13,103,Pro,Yes,Competitor,False,103,2024-09,2024-12,2024Q3,2024Q4
+OPP-10698,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,EMEA,Event,Closed Lost,9463.87,2025-06-23,2024-11-09,31,Enterprise,No,No Need,False,226,2024-11,2025-06,2024Q4,2025Q2
+OPP-10159,Deal for Astra Dynamics,Astra Dynamics,Alice Johnson,EMEA,Social Media,Closed Lost,1269.38,2025-06-05,2025-04-29,100,Pro,Yes,Budget,False,37,2025-04,2025-06,2025Q2,2025Q2
+OPP-10524,Deal for SynergyCorp,SynergyCorp,Eve Davis,APAC,Cold Call,Closed Lost,13301.45,2025-02-08,2025-01-01,38,Enterprise,No,No Need,False,38,2025-01,2025-02,2025Q1,2025Q1
+OPP-10035,Deal for Catalyst Group,Catalyst Group,Bob Williams,EMEA,Referral,Closed Lost,4681.15,2025-02-14,2024-11-14,72,Pro,No,No Need,False,92,2024-11,2025-02,2024Q4,2025Q1
+OPP-10540,Deal for OmniCorp,OmniCorp,Diana Miller,APAC,Cold Call,Closed Lost,3088.03,2025-03-20,2025-01-27,52,Pro,Yes,Timing,False,52,2025-01,2025-03,2025Q1,2025Q1
+OPP-10170,Deal for OmniCorp,OmniCorp,Alice Johnson,North America,Referral,Closed Won,10397.58,2024-10-15,2024-07-09,88,Enterprise,No,NaN,False,98,2024-07,2024-10,2024Q3,2024Q4
+OPP-10654,Deal for Zenith Global,Zenith Global,Diana Miller,EMEA,Referral,Closed Lost,3913.38,2025-01-08,2024-09-06,104,Enterprise,Yes,Competitor,False,124,2024-09,2025-01,2024Q3,2025Q1
+OPP-10894,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Event,Closed Lost,6311.01,2025-09-07,2025-04-04,151,Pro,No,Competitor,False,156,2025-04,2025-09,2025Q2,2025Q3
+OPP-10861,Deal for Velocity Systems,Velocity Systems,Eve Davis,APAC,Website,Closed Lost,5054.99,2025-06-28,2025-05-21,38,Basic,Yes,Internal Prioritization,False,38,2025-05,2025-06,2025Q2,2025Q2
+OPP-10851,Deal for Prime Ventures,Prime Ventures,Charlie Brown,APAC,Cold Call,Closed Lost,5581.69,2025-03-15,2025-01-18,56,Pro,No,Features,False,56,2025-01,2025-03,2025Q1,2025Q1
+OPP-10948,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,APAC,Partner,Closed Lost,7572.49,2025-09-13,2025-04-20,132,Pro,No,Price,False,146,2025-04,2025-09,2025Q2,2025Q3
+OPP-10733,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,APAC,Website,Closed Lost,943.0,2025-02-07,2024-12-21,48,Basic,Yes,Budget,False,48,2024-12,2025-02,2024Q4,2025Q1
+OPP-10095,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,EMEA,Partner,Closed Lost,5153.31,2025-07-04,2025-02-25,120,Basic,Yes,Timing,False,129,2025-02,2025-07,2025Q1,2025Q3
+OPP-10563,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Referral,Closed Lost,1490.3,2025-08-01,2025-04-18,105,Pro,Yes,Features,False,105,2025-04,2025-08,2025Q2,2025Q3
+OPP-10240,Deal for Astra Dynamics,Astra Dynamics,Eve Davis,APAC,Social Media,Closed Lost,6532.79,2025-01-06,2024-11-27,40,Enterprise,Yes,Competitor,False,40,2024-11,2025-01,2024Q4,2025Q1
+OPP-10742,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,APAC,Social Media,Closed Lost,11779.14,2024-12-08,2024-07-19,132,Enterprise,No,Competitor,False,142,2024-07,2024-12,2024Q3,2024Q4
+OPP-10574,Deal for OmniCorp,OmniCorp,Eve Davis,North America,Website,Closed Lost,3605.53,2025-04-10,2024-12-09,122,Basic,Yes,No Need,False,122,2024-12,2025-04,2024Q4,2025Q2
+OPP-10690,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Partner,Closed Lost,1736.88,2025-06-21,2025-03-19,94,Basic,Yes,Price,False,94,2025-03,2025-06,2025Q1,2025Q2
+OPP-10460,Deal for InnovateCo,InnovateCo,Eve Davis,North America,Event,Closed Lost,3319.24,2025-07-24,2025-05-01,69,Basic,Yes,Internal Prioritization,False,84,2025-05,2025-07,2025Q2,2025Q3
+OPP-10553,Deal for GlobalTech,GlobalTech,Diana Miller,EMEA,Referral,Closed Lost,5203.85,2025-01-13,2024-12-03,31,Basic,Yes,No Need,False,41,2024-12,2025-01,2024Q4,2025Q1
+OPP-10882,Deal for Velocity Systems,Velocity Systems,Eve Davis,EMEA,Referral,Closed Lost,4864.22,2025-09-04,2025-04-26,131,Basic,No,Timing,False,131,2025-04,2025-09,2025Q2,2025Q3
+OPP-10206,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Website,Closed Lost,2291.28,2024-09-09,2024-07-30,41,Basic,Yes,Competitor,False,41,2024-07,2024-09,2024Q3,2024Q3
+OPP-10392,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,North America,Referral,Closed Lost,7547.62,2025-02-28,2024-10-09,142,Pro,Yes,Internal Prioritization,False,142,2024-10,2025-02,2024Q4,2025Q1
+OPP-10794,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,North America,Partner,Closed Lost,1315.69,2025-06-23,2025-05-10,45,Pro,No,Features,False,44,2025-05,2025-06,2025Q2,2025Q2
+OPP-10397,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Referral,Closed Lost,1791.64,2024-10-05,2024-07-31,55,Basic,No,Budget,False,66,2024-07,2024-10,2024Q3,2024Q4
+OPP-10766,Deal for OmniCorp,OmniCorp,Eve Davis,APAC,Social Media,Closed Lost,3371.68,2025-08-29,2025-04-10,141,Basic,Yes,Price,False,141,2025-04,2025-08,2025Q2,2025Q3
+OPP-10852,Deal for InnovateCo,InnovateCo,Eve Davis,North America,Referral,Closed Lost,1162.62,2024-10-27,2024-07-01,118,Basic,No,Competitor,False,118,2024-07,2024-10,2024Q3,2024Q4
+OPP-10217,Deal for OmniCorp,OmniCorp,Diana Miller,APAC,Social Media,Closed Lost,12931.61,2025-07-17,2025-05-30,34,Enterprise,No,Internal Prioritization,False,48,2025-05,2025-07,2025Q2,2025Q3
+OPP-10004,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,North America,Social Media,Closed Lost,2488.46,2025-08-04,2025-04-24,91,Pro,Yes,Budget,False,102,2025-04,2025-08,2025Q2,2025Q3
+OPP-10768,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,APAC,Referral,Closed Lost,6663.97,2025-01-19,2024-10-06,95,Pro,Yes,Budget,False,105,2024-10,2025-01,2024Q4,2025Q1
+OPP-10642,Deal for Nexus Enterprises,Nexus Enterprises,Diana Miller,North America,Event,Closed Lost,15852.02,2024-12-30,2024-10-04,70,Enterprise,No,Competitor,True,87,2024-10,2024-12,2024Q4,2024Q4
+OPP-10901,Deal for Nexus Enterprises,Nexus Enterprises,Bob Williams,APAC,Website,Closed Lost,6007.14,2024-08-16,2024-06-12,65,Pro,Yes,Competitor,False,65,2024-06,2024-08,2024Q2,2024Q3
+OPP-10612,Deal for BrightSpark,BrightSpark,Charlie Brown,APAC,Cold Call,Closed Lost,7811.57,2025-03-02,2024-11-02,104,Enterprise,Yes,Timing,False,120,2024-11,2025-03,2024Q4,2025Q1
+OPP-10738,Deal for Catalyst Group,Catalyst Group,Diana Miller,APAC,Event,Closed Lost,587.16,2025-04-12,2025-01-11,91,Basic,Yes,Internal Prioritization,False,91,2025-01,2025-04,2025Q1,2025Q2
+OPP-10546,Deal for Catalyst Group,Catalyst Group,Alice Johnson,APAC,Referral,Closed Lost,3422.85,2025-06-29,2025-04-17,54,Basic,Yes,Competitor,False,73,2025-04,2025-06,2025Q2,2025Q2
+OPP-10725,Deal for Catalyst Group,Catalyst Group,Charlie Brown,EMEA,Website,Closed Lost,1988.55,2024-10-22,2024-07-07,100,Pro,No,Timing,False,107,2024-07,2024-10,2024Q3,2024Q4
+OPP-10683,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,EMEA,Referral,Closed Lost,3104.11,2024-10-17,2024-07-27,82,Basic,No,Internal Prioritization,False,82,2024-07,2024-10,2024Q3,2024Q4
+OPP-10098,Deal for Velocity Systems,Velocity Systems,Diana Miller,North America,Cold Call,Closed Lost,5730.17,2025-03-26,2024-11-24,107,Enterprise,Yes,Competitor,False,122,2024-11,2025-03,2024Q4,2025Q1
+OPP-10804,Deal for Velocity Systems,Velocity Systems,Eve Davis,EMEA,Referral,Closed Lost,6675.09,2024-09-04,2024-07-15,51,Pro,No,Price,False,51,2024-07,2024-09,2024Q3,2024Q3
+OPP-10727,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,North America,Website,Closed Lost,4767.45,2025-01-12,2024-11-30,43,Enterprise,No,Internal Prioritization,False,43,2024-11,2025-01,2024Q4,2025Q1
+OPP-10573,Deal for Horizon Digital,Horizon Digital,Alice Johnson,EMEA,Cold Call,Closed Won,675.46,2025-09-14,2025-03-22,156,Basic,No,NaN,False,176,2025-03,2025-09,2025Q1,2025Q3
+OPP-10406,Deal for Evergreen Tech,Evergreen Tech,Eve Davis,EMEA,Website,Closed Lost,3086.14,2025-06-23,2025-03-08,93,Pro,No,Features,False,107,2025-03,2025-06,2025Q1,2025Q2
+OPP-10502,Deal for Elevate Solutions,Elevate Solutions,Alice Johnson,APAC,Partner,Closed Lost,10306.53,2025-06-18,2025-02-06,127,Enterprise,Yes,Competitor,False,132,2025-02,2025-06,2025Q1,2025Q2
+OPP-10047,Deal for Quantum Labs,Quantum Labs,Charlie Brown,APAC,Website,Closed Won,3301.45,2024-11-23,2024-08-21,77,Enterprise,No,NaN,False,94,2024-08,2024-11,2024Q3,2024Q4
+OPP-10032,Deal for Elite Dynamics,Elite Dynamics,Diana Miller,EMEA,Social Media,Closed Lost,3582.87,2025-08-23,2025-05-13,94,Basic,Yes,Internal Prioritization,False,102,2025-05,2025-08,2025Q2,2025Q3
+OPP-10779,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,North America,Website,Closed Lost,7519.85,2024-12-16,2024-08-22,111,Pro,No,Price,False,116,2024-08,2024-12,2024Q3,2024Q4
+OPP-10839,Deal for GlobalTech,GlobalTech,Diana Miller,APAC,Event,Closed Lost,2107.02,2025-03-17,2025-01-25,37,Basic,No,Price,False,51,2025-01,2025-03,2025Q1,2025Q1
+OPP-10200,Deal for InnovateCo,InnovateCo,Bob Williams,North America,Social Media,Closed Lost,2059.75,2024-09-17,2024-06-03,87,Pro,No,Timing,False,106,2024-06,2024-09,2024Q2,2024Q3
+OPP-10134,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,APAC,Event,Closed Lost,1571.24,2025-05-19,2024-12-12,151,Pro,No,Price,False,158,2024-12,2025-05,2024Q4,2025Q2
+OPP-10027,Deal for BrightSpark,BrightSpark,Diana Miller,EMEA,Partner,Closed Lost,14453.97,2025-01-31,2024-09-14,125,Enterprise,Yes,Internal Prioritization,False,139,2024-09,2025-01,2024Q3,2025Q1
+OPP-10884,Deal for Zenith Global,Zenith Global,Alice Johnson,APAC,Partner,Closed Lost,539.73,2024-10-31,2024-07-22,101,Basic,No,Budget,False,101,2024-07,2024-10,2024Q3,2024Q4
+OPP-10230,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,North America,Cold Call,Closed Lost,3913.61,2025-02-22,2025-01-06,47,Basic,Yes,Budget,False,47,2025-01,2025-02,2025Q1,2025Q1
+OPP-10489,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,EMEA,Website,Closed Lost,2458.49,2024-08-27,2024-06-17,61,Pro,No,No Need,False,71,2024-06,2024-08,2024Q2,2024Q3
+OPP-10772,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,APAC,Website,Closed Lost,2592.09,2025-06-04,2025-05-03,32,Pro,Yes,Competitor,False,32,2025-05,2025-06,2025Q2,2025Q2
+OPP-10378,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Event,Closed Lost,9048.06,2024-10-13,2024-07-27,58,Enterprise,No,Timing,False,78,2024-07,2024-10,2024Q3,2024Q4
+OPP-10288,Deal for Quantum Labs,Quantum Labs,Eve Davis,North America,Event,Closed Lost,4299.8,2025-02-07,2024-10-02,110,Pro,No,Features,False,128,2024-10,2025-02,2024Q4,2025Q1
+OPP-10418,Deal for Veridian Corp,Veridian Corp,Eve Davis,APAC,Social Media,Closed Lost,4553.71,2024-12-21,2024-08-17,126,Basic,Yes,Price,False,126,2024-08,2024-12,2024Q3,2024Q4
+OPP-10674,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Social Media,Closed Lost,1906.55,2025-09-18,2025-05-19,105,Enterprise,No,Price,False,122,2025-05,2025-09,2025Q2,2025Q3
+OPP-10391,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,APAC,Event,Closed Lost,9804.82,2025-02-17,2024-10-01,139,Pro,No,No Need,False,139,2024-10,2025-02,2024Q4,2025Q1
+OPP-10592,Deal for Zenith Global,Zenith Global,Bob Williams,APAC,Referral,Closed Won,4176.29,2025-09-05,2025-03-24,146,Pro,Yes,NaN,False,165,2025-03,2025-09,2025Q1,2025Q3
+OPP-10498,Deal for Zenith Global,Zenith Global,Bob Williams,EMEA,Event,Closed Lost,11738.54,2024-11-13,2024-07-23,105,Enterprise,Yes,Competitor,False,113,2024-07,2024-11,2024Q3,2024Q4
+OPP-10138,Deal for Apex Solutions,Apex Solutions,Diana Miller,North America,Event,Closed Lost,9488.97,2025-06-09,2025-01-03,55,Enterprise,No,Internal Prioritization,False,157,2025-01,2025-06,2025Q1,2025Q2
+OPP-10062,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,APAC,Website,Closed Lost,2355.77,2024-11-27,2024-08-29,82,Basic,Yes,No Need,False,90,2024-08,2024-11,2024Q3,2024Q4
+OPP-10471,Deal for Quantum Labs,Quantum Labs,Alice Johnson,EMEA,Website,Closed Lost,4494.15,2024-08-21,2024-07-17,25,Basic,No,No Need,False,35,2024-07,2024-08,2024Q3,2024Q3
+OPP-10647,Deal for BrightSpark,BrightSpark,Charlie Brown,North America,Event,Closed Lost,5964.86,2024-12-03,2024-06-05,172,Pro,No,Price,False,181,2024-06,2024-12,2024Q2,2024Q4
+OPP-10128,Deal for Evergreen Tech,Evergreen Tech,Bob Williams,APAC,Event,Closed Lost,6998.12,2024-07-07,2024-06-05,32,Pro,Yes,Price,False,32,2024-06,2024-07,2024Q2,2024Q3
+OPP-10981,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Referral,Closed Lost,9515.56,2025-03-08,2024-12-13,75,Pro,No,Features,False,85,2024-12,2025-03,2024Q4,2025Q1
+OPP-10520,Deal for Quantum Labs,Quantum Labs,Diana Miller,North America,Cold Call,Closed Lost,2531.03,2024-10-24,2024-08-07,78,Basic,Yes,No Need,False,78,2024-08,2024-10,2024Q3,2024Q4
+OPP-10838,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,North America,Referral,Closed Lost,5308.55,2025-02-25,2024-10-04,132,Pro,No,Budget,False,144,2024-10,2025-02,2024Q4,2025Q1
+OPP-10967,Deal for Elite Dynamics,Elite Dynamics,Bob Williams,APAC,Cold Call,Closed Lost,1303.25,2024-10-23,2024-08-08,76,Pro,Yes,Competitor,False,76,2024-08,2024-10,2024Q3,2024Q4
+OPP-10064,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Cold Call,Closed Lost,2171.92,2025-04-21,2025-01-14,80,Enterprise,Yes,Competitor,False,97,2025-01,2025-04,2025Q1,2025Q2
+OPP-10812,Deal for Prime Ventures,Prime Ventures,Eve Davis,APAC,Social Media,Closed Lost,3384.08,2025-01-20,2024-12-16,21,Basic,No,Competitor,False,35,2024-12,2025-01,2024Q4,2025Q1
+OPP-10014,Deal for Apex Solutions,Apex Solutions,Charlie Brown,APAC,Social Media,Closed Lost,10745.84,2025-04-22,2025-03-06,47,Enterprise,Yes,Competitor,False,47,2025-03,2025-04,2025Q1,2025Q2
+OPP-10156,Deal for Prime Ventures,Prime Ventures,Charlie Brown,North America,Partner,Closed Lost,10647.54,2025-09-12,2025-05-04,131,Enterprise,Yes,Features,False,131,2025-05,2025-09,2025Q2,2025Q3
+OPP-10040,Deal for GlobalTech,GlobalTech,Eve Davis,EMEA,Website,Closed Lost,2910.36,2024-11-02,2024-08-16,78,Basic,Yes,No Need,False,78,2024-08,2024-11,2024Q3,2024Q4
+OPP-10492,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,APAC,Partner,Closed Lost,4555.15,2025-04-05,2024-11-07,149,Basic,No,Internal Prioritization,False,149,2024-11,2025-04,2024Q4,2025Q2
+OPP-10379,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Website,Closed Lost,2270.36,2024-10-20,2024-07-02,110,Basic,No,Competitor,False,110,2024-07,2024-10,2024Q3,2024Q4
+OPP-10187,Deal for Astra Dynamics,Astra Dynamics,Diana Miller,North America,Referral,Closed Lost,14337.22,2024-12-16,2024-07-28,141,Enterprise,Yes,Timing,False,141,2024-07,2024-12,2024Q3,2024Q4
+OPP-10763,Deal for Velocity Systems,Velocity Systems,Charlie Brown,EMEA,Cold Call,Closed Lost,3336.53,2025-05-27,2025-01-24,112,Enterprise,No,Budget,False,123,2025-01,2025-05,2025Q1,2025Q2
+OPP-10216,Deal for Horizon Digital,Horizon Digital,Charlie Brown,APAC,Referral,Closed Lost,8947.88,2025-03-03,2024-10-27,127,Enterprise,Yes,Competitor,False,127,2024-10,2025-03,2024Q4,2025Q1
+OPP-10791,Deal for Pioneer Systems,Pioneer Systems,Bob Williams,EMEA,Website,Closed Lost,4497.45,2025-07-18,2025-03-28,107,Basic,Yes,Competitor,False,112,2025-03,2025-07,2025Q1,2025Q3
+OPP-10052,Deal for SynergyCorp,SynergyCorp,Charlie Brown,North America,Website,Closed Lost,3458.06,2024-10-12,2024-08-25,28,Pro,Yes,Features,False,48,2024-08,2024-10,2024Q3,2024Q4
+OPP-10878,Deal for SynergyCorp,SynergyCorp,Diana Miller,EMEA,Referral,Closed Lost,3246.58,2025-01-03,2024-09-29,83,Enterprise,Yes,Internal Prioritization,False,96,2024-09,2025-01,2024Q3,2025Q1
+OPP-10337,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Website,Closed Lost,7032.46,2025-07-13,2025-04-20,77,Pro,Yes,Competitor,False,84,2025-04,2025-07,2025Q2,2025Q3
+OPP-10748,Deal for Catalyst Group,Catalyst Group,Eve Davis,North America,Partner,Closed Won,4719.4,2025-11-03,2025-05-04,163,Basic,No,NaN,False,183,2025-05,2025-11,2025Q2,2025Q4
+OPP-10719,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,APAC,Referral,Closed Lost,5533.25,2025-07-03,2025-04-25,60,Basic,Yes,No Need,False,69,2025-04,2025-07,2025Q2,2025Q3
+OPP-10724,Deal for Apex Solutions,Apex Solutions,Bob Williams,APAC,Cold Call,Closed Lost,6786.33,2025-03-23,2025-01-14,56,Pro,Yes,Internal Prioritization,False,68,2025-01,2025-03,2025Q1,2025Q1
+OPP-10295,Deal for Nexus Enterprises,Nexus Enterprises,Eve Davis,APAC,Partner,Closed Lost,2314.63,2024-10-16,2024-09-01,35,Basic,No,Price,False,45,2024-09,2024-10,2024Q3,2024Q4
+OPP-10701,Deal for Pioneer Systems,Pioneer Systems,Eve Davis,North America,Event,Closed Lost,3400.77,2024-11-26,2024-09-11,61,Basic,No,Internal Prioritization,False,76,2024-09,2024-11,2024Q3,2024Q4
+OPP-10251,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Referral,Closed Lost,4967.21,2025-02-10,2024-10-06,127,Basic,Yes,Internal Prioritization,False,127,2024-10,2025-02,2024Q4,2025Q1
+OPP-10726,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,EMEA,Website,Closed Lost,12021.01,2025-05-31,2025-02-09,111,Enterprise,Yes,Timing,False,111,2025-02,2025-05,2025Q1,2025Q2
+OPP-10461,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Referral,Closed Lost,6160.3,2025-07-27,2025-03-13,136,Enterprise,Yes,Competitor,False,136,2025-03,2025-07,2025Q1,2025Q3
+OPP-10455,Deal for Prime Ventures,Prime Ventures,Bob Williams,APAC,Event,Closed Lost,8113.29,2024-10-09,2024-07-04,97,Enterprise,No,Budget,False,97,2024-07,2024-10,2024Q3,2024Q4
+OPP-10815,Deal for Fusion Innovations,Fusion Innovations,Alice Johnson,EMEA,Event,Closed Won,2662.39,2025-07-11,2025-03-06,108,Basic,No,NaN,False,127,2025-03,2025-07,2025Q1,2025Q3
+OPP-10862,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,EMEA,Cold Call,Closed Lost,2777.51,2024-11-14,2024-08-31,75,Basic,No,Internal Prioritization,False,75,2024-08,2024-11,2024Q3,2024Q4
+OPP-10269,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,North America,Event,Closed Lost,9201.48,2024-11-22,2024-08-08,93,Enterprise,No,Internal Prioritization,False,106,2024-08,2024-11,2024Q3,2024Q4
+OPP-10201,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Referral,Closed Lost,521.44,2025-01-24,2024-11-23,45,Basic,No,Internal Prioritization,False,62,2024-11,2025-01,2024Q4,2025Q1
+OPP-10161,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Social Media,Closed Lost,8233.35,2025-03-27,2025-02-24,25,Enterprise,Yes,Features,False,31,2025-02,2025-03,2025Q1,2025Q1
+OPP-10555,Deal for Velocity Systems,Velocity Systems,Diana Miller,APAC,Partner,Closed Lost,1768.12,2024-12-11,2024-08-04,129,Basic,Yes,Features,False,129,2024-08,2024-12,2024Q3,2024Q4
+OPP-10729,Deal for Catalyst Group,Catalyst Group,Alice Johnson,EMEA,Social Media,Closed Lost,8533.96,2025-07-11,2025-02-23,133,Enterprise,No,Competitor,False,138,2025-02,2025-07,2025Q1,2025Q3
+OPP-10401,Deal for SynergyCorp,SynergyCorp,Charlie Brown,North America,Referral,Closed Lost,9048.41,2024-10-01,2024-07-30,63,Pro,No,Timing,False,63,2024-07,2024-10,2024Q3,2024Q4
+OPP-10702,Deal for Apex Solutions,Apex Solutions,Bob Williams,EMEA,Cold Call,Closed Lost,7678.47,2025-06-24,2025-01-26,149,Pro,Yes,Price,False,149,2025-01,2025-06,2025Q1,2025Q2
+OPP-10476,Deal for Quantum Labs,Quantum Labs,Alice Johnson,APAC,Referral,Closed Lost,9248.6,2025-04-11,2025-03-04,31,Enterprise,Yes,Features,False,38,2025-03,2025-04,2025Q1,2025Q2
+OPP-10821,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Partner,Closed Lost,6553.93,2025-07-05,2025-03-29,98,Enterprise,Yes,Timing,False,98,2025-03,2025-07,2025Q1,2025Q3
+OPP-10771,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,APAC,Website,Closed Lost,7512.29,2025-04-22,2025-02-18,63,Pro,No,No Need,False,63,2025-02,2025-04,2025Q1,2025Q2
+OPP-10105,Deal for Catalyst Group,Catalyst Group,Charlie Brown,North America,Event,Closed Lost,9499.0,2025-02-02,2024-12-10,54,Enterprise,No,Features,False,54,2024-12,2025-02,2024Q4,2025Q1
+OPP-10565,Deal for Horizon Digital,Horizon Digital,Eve Davis,North America,Website,Closed Lost,1792.82,2025-06-18,2025-04-23,40,Pro,Yes,No Need,False,56,2025-04,2025-06,2025Q2,2025Q2
+OPP-10389,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,North America,Referral,Closed Lost,1331.51,2025-01-26,2024-09-29,99,Basic,Yes,Price,False,119,2024-09,2025-01,2024Q3,2025Q1
+OPP-10001,Deal for Quantum Labs,Quantum Labs,Alice Johnson,North America,Event,Closed Lost,4492.7,2025-02-26,2024-11-20,98,Basic,No,Price,False,98,2024-11,2025-02,2024Q4,2025Q1
+OPP-10941,Deal for Elevate Solutions,Elevate Solutions,Bob Williams,APAC,Partner,Closed Lost,2099.81,2024-11-19,2024-09-22,41,Basic,No,Internal Prioritization,False,58,2024-09,2024-11,2024Q3,2024Q4
+OPP-10987,Deal for GlobalTech,GlobalTech,Alice Johnson,North America,Partner,Closed Lost,8447.78,2025-07-17,2025-04-28,61,Pro,No,Timing,False,80,2025-04,2025-07,2025Q2,2025Q3
+OPP-10561,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Cold Call,Closed Lost,7130.06,2024-08-27,2024-06-08,69,Enterprise,No,Internal Prioritization,False,80,2024-06,2024-08,2024Q2,2024Q3
+OPP-10080,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Social Media,Closed Lost,12007.27,2024-11-07,2024-07-22,96,Enterprise,Yes,Competitor,False,108,2024-07,2024-11,2024Q3,2024Q4
+OPP-10205,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,APAC,Referral,Closed Lost,2769.35,2024-12-08,2024-07-22,139,Pro,No,Competitor,False,139,2024-07,2024-12,2024Q3,2024Q4
+OPP-10034,Deal for Pioneer Systems,Pioneer Systems,Diana Miller,EMEA,Event,Closed Lost,5255.46,2025-06-13,2025-03-03,90,Enterprise,No,Timing,False,102,2025-03,2025-06,2025Q1,2025Q2
+OPP-10775,Deal for Horizon Digital,Horizon Digital,Eve Davis,APAC,Event,Closed Lost,10202.99,2025-01-14,2024-08-19,137,Enterprise,No,Price,False,148,2024-08,2025-01,2024Q3,2025Q1
+OPP-10508,Deal for Horizon Digital,Horizon Digital,Bob Williams,EMEA,Event,Closed Lost,4420.94,2024-08-27,2024-06-25,43,Basic,No,Price,False,63,2024-06,2024-08,2024Q2,2024Q3
+OPP-10427,Deal for Prime Ventures,Prime Ventures,Diana Miller,North America,Referral,Closed Lost,7908.25,2025-03-23,2025-02-06,45,Enterprise,Yes,Budget,False,45,2025-02,2025-03,2025Q1,2025Q1
+OPP-10454,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,North America,Website,Closed Lost,15151.17,2024-10-11,2024-08-16,56,Enterprise,No,Budget,False,56,2024-08,2024-10,2024Q3,2024Q4
+OPP-10366,Deal for Quantum Labs,Quantum Labs,Bob Williams,North America,Partner,Closed Lost,8321.39,2025-07-11,2025-02-13,148,Enterprise,Yes,Price,False,148,2025-02,2025-07,2025Q1,2025Q3
+OPP-10091,Deal for InnovateCo,InnovateCo,Bob Williams,APAC,Cold Call,Closed Lost,7759.81,2024-09-20,2024-07-05,77,Pro,No,Competitor,False,77,2024-07,2024-09,2024Q3,2024Q3
+OPP-10339,Deal for SynergyCorp,SynergyCorp,Bob Williams,APAC,Cold Call,Closed Lost,8685.66,2025-04-14,2024-12-30,98,Enterprise,Yes,Competitor,False,105,2024-12,2025-04,2024Q4,2025Q2
+OPP-10897,Deal for Velocity Systems,Velocity Systems,Eve Davis,North America,Referral,Closed Lost,1396.17,2025-06-17,2025-04-16,62,Basic,Yes,Internal Prioritization,False,62,2025-04,2025-06,2025Q2,2025Q2
+OPP-10564,Deal for Velocity Systems,Velocity Systems,Diana Miller,North America,Social Media,Closed Lost,15570.83,2025-07-12,2025-03-20,97,Enterprise,Yes,Price,False,114,2025-03,2025-07,2025Q1,2025Q3
+OPP-10345,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,EMEA,Referral,Closed Lost,1324.25,2025-08-05,2025-04-20,95,Pro,Yes,Features,False,107,2025-04,2025-08,2025Q2,2025Q3
+OPP-10776,Deal for GlobalTech,GlobalTech,Bob Williams,North America,Website,Closed Lost,7060.54,2025-03-02,2025-01-08,33,Enterprise,Yes,No Need,False,53,2025-01,2025-03,2025Q1,2025Q1
+OPP-10241,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,APAC,Partner,Closed Lost,1929.86,2024-08-26,2024-06-03,71,Basic,Yes,Timing,False,84,2024-06,2024-08,2024Q2,2024Q3
+OPP-10013,Deal for BrightSpark,BrightSpark,Eve Davis,APAC,Cold Call,Closed Lost,6505.2,2025-08-15,2025-03-26,133,Pro,Yes,Price,False,142,2025-03,2025-08,2025Q1,2025Q3
+OPP-10315,Deal for Veridian Corp,Veridian Corp,Eve Davis,EMEA,Partner,Closed Lost,4096.94,2025-02-22,2025-01-09,44,Enterprise,Yes,Timing,False,44,2025-01,2025-02,2025Q1,2025Q1
+OPP-10600,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,APAC,Event,Closed Lost,5627.61,2025-03-26,2024-12-19,97,Pro,No,Competitor,False,97,2024-12,2025-03,2024Q4,2025Q1
+OPP-10387,Deal for Pioneer Systems,Pioneer Systems,Eve Davis,North America,Social Media,Closed Lost,3305.01,2025-01-11,2024-10-21,75,Basic,No,Competitor,False,82,2024-10,2025-01,2024Q4,2025Q1
+OPP-10273,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Website,Closed Lost,9451.69,2025-04-12,2024-12-30,95,Enterprise,No,Competitor,False,103,2024-12,2025-04,2024Q4,2025Q2
+OPP-10166,Deal for Nexus Enterprises,Nexus Enterprises,Charlie Brown,EMEA,Social Media,Closed Lost,2926.7,2025-07-10,2025-05-25,28,Basic,Yes,Features,False,46,2025-05,2025-07,2025Q2,2025Q3
+OPP-10840,Deal for Evergreen Tech,Evergreen Tech,Alice Johnson,North America,Partner,Closed Lost,585.11,2025-01-10,2024-10-17,66,Basic,No,Internal Prioritization,False,85,2024-10,2025-01,2024Q4,2025Q1
+OPP-10997,Deal for GlobalTech,GlobalTech,Diana Miller,APAC,Website,Closed Lost,3854.94,2025-01-24,2024-10-17,99,Basic,No,No Need,False,99,2024-10,2025-01,2024Q4,2025Q1
+OPP-10646,Deal for InnovateCo,InnovateCo,Alice Johnson,North America,Referral,Closed Lost,1310.57,2025-05-30,2025-02-22,97,Pro,Yes,No Need,False,97,2025-02,2025-05,2025Q1,2025Q2
+OPP-10818,Deal for BrightSpark,BrightSpark,Charlie Brown,North America,Cold Call,Closed Lost,6350.45,2025-05-20,2025-04-17,33,Pro,Yes,Features,False,33,2025-04,2025-05,2025Q2,2025Q2
+OPP-10484,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,EMEA,Event,Closed Won,11456.98,2024-11-07,2024-09-07,55,Enterprise,Yes,NaN,False,61,2024-09,2024-11,2024Q3,2024Q4
+OPP-10985,Deal for Veridian Corp,Veridian Corp,Eve Davis,North America,Website,Closed Lost,12507.84,2025-03-19,2024-10-27,124,Enterprise,No,Competitor,False,143,2024-10,2025-03,2024Q4,2025Q1
+OPP-10504,Deal for Quantum Labs,Quantum Labs,Eve Davis,EMEA,Social Media,Closed Lost,3375.09,2024-10-16,2024-06-24,103,Enterprise,No,Internal Prioritization,False,114,2024-06,2024-10,2024Q2,2024Q4
+OPP-10831,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,EMEA,Website,Closed Lost,8748.05,2025-02-10,2024-11-24,67,Pro,No,Competitor,False,78,2024-11,2025-02,2024Q4,2025Q1
+OPP-10243,Deal for SynergyCorp,SynergyCorp,Alice Johnson,APAC,Referral,Closed Lost,1908.86,2025-08-20,2025-05-04,108,Pro,Yes,Budget,False,108,2025-05,2025-08,2025Q2,2025Q3
+OPP-10566,Deal for BrightSpark,BrightSpark,Alice Johnson,North America,Social Media,Closed Lost,9488.6,2025-03-30,2025-02-05,53,Pro,No,Competitor,False,53,2025-02,2025-03,2025Q1,2025Q1
+OPP-10875,Deal for Quantum Labs,Quantum Labs,Eve Davis,North America,Social Media,Closed Lost,3411.2,2024-11-22,2024-07-28,100,Basic,Yes,Competitor,False,117,2024-07,2024-11,2024Q3,2024Q4
+OPP-10562,Deal for BrightSpark,BrightSpark,Diana Miller,APAC,Referral,Closed Lost,5513.88,2025-06-07,2025-04-22,46,Pro,No,Timing,False,46,2025-04,2025-06,2025Q2,2025Q2
+OPP-10686,Deal for Quantum Labs,Quantum Labs,Charlie Brown,EMEA,Social Media,Closed Lost,8731.86,2024-12-20,2024-10-12,53,Pro,No,Budget,False,69,2024-10,2024-12,2024Q4,2024Q4
+OPP-10957,Deal for Elite Dynamics,Elite Dynamics,Alice Johnson,EMEA,Social Media,Closed Lost,13203.09,2025-05-02,2024-12-31,102,Enterprise,No,Price,False,122,2024-12,2025-05,2024Q4,2025Q2
+OPP-10189,Deal for Pioneer Systems,Pioneer Systems,Alice Johnson,North America,Referral,Closed Lost,7395.47,2025-03-20,2025-02-07,41,Pro,No,Features,False,41,2025-02,2025-03,2025Q1,2025Q1
+OPP-10782,Deal for Catalyst Group,Catalyst Group,Diana Miller,EMEA,Website,Closed Lost,2544.83,2024-12-04,2024-08-12,96,Basic,No,Features,False,114,2024-08,2024-12,2024Q3,2024Q4
+OPP-10699,Deal for Quantum Labs,Quantum Labs,Charlie Brown,EMEA,Cold Call,Closed Lost,2309.74,2025-07-30,2025-05-05,75,Basic,No,Internal Prioritization,False,86,2025-05,2025-07,2025Q2,2025Q3
+OPP-10475,Deal for Apex Solutions,Apex Solutions,Alice Johnson,North America,Social Media,Closed Lost,10693.3,2024-11-18,2024-09-13,48,Enterprise,No,Internal Prioritization,False,66,2024-09,2024-11,2024Q3,2024Q4
+OPP-10681,Deal for BrightSpark,BrightSpark,Diana Miller,EMEA,Website,Closed Lost,12536.82,2024-11-09,2024-08-30,53,Enterprise,No,Timing,False,71,2024-08,2024-11,2024Q3,2024Q4
+OPP-10510,Deal for Apex Solutions,Apex Solutions,Diana Miller,APAC,Cold Call,Closed Lost,6182.18,2025-01-19,2024-11-29,39,Pro,No,Timing,False,51,2024-11,2025-01,2024Q4,2025Q1
+OPP-10058,Deal for InnovateCo,InnovateCo,Alice Johnson,EMEA,Cold Call,Closed Lost,10602.76,2025-04-15,2025-03-02,30,Enterprise,No,Features,False,44,2025-03,2025-04,2025Q1,2025Q2
+OPP-10474,Deal for Astra Dynamics,Astra Dynamics,Charlie Brown,APAC,Event,Closed Lost,674.93,2025-06-25,2025-05-19,25,Basic,No,Features,False,37,2025-05,2025-06,2025Q2,2025Q2
+OPP-10560,Deal for Elevate Solutions,Elevate Solutions,Diana Miller,North America,Cold Call,Closed Lost,1812.41,2025-06-30,2025-05-27,131,Basic,No,No Need,False,34,2025-05,2025-06,2025Q2,2025Q2
+OPP-10856,Deal for Fusion Innovations,Fusion Innovations,Eve Davis,APAC,Partner,Closed Lost,4330.38,2025-05-20,2025-02-26,63,Basic,No,No Need,False,83,2025-02,2025-05,2025Q1,2025Q2
+OPP-10747,Deal for SynergyCorp,SynergyCorp,Alice Johnson,EMEA,Referral,Closed Lost,3555.86,2025-04-15,2025-03-11,35,Pro,Yes,Competitor,False,35,2025-03,2025-04,2025Q1,2025Q2
+OPP-10252,Deal for Catalyst Group,Catalyst Group,Charlie Brown,EMEA,Partner,Closed Lost,2925.53,2025-05-18,2025-04-14,14,Pro,No,Timing,False,34,2025-04,2025-05,2025Q2,2025Q2
+OPP-10021,Deal for BrightSpark,BrightSpark,Charlie Brown,APAC,Cold Call,Closed Lost,10320.79,2025-07-17,2025-05-07,71,Enterprise,Yes,No Need,False,71,2025-05,2025-07,2025Q2,2025Q3
+OPP-10313,Deal for Prime Ventures,Prime Ventures,Charlie Brown,EMEA,Event,Closed Lost,1342.35,2025-08-22,2025-05-07,93,Pro,Yes,Timing,False,107,2025-05,2025-08,2025Q2,2025Q3
+OPP-10459,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,North America,Social Media,Closed Lost,1485.65,2024-11-26,2024-09-06,81,Enterprise,No,No Need,False,81,2024-09,2024-11,2024Q3,2024Q4
+OPP-10160,Deal for Evergreen Tech,Evergreen Tech,Diana Miller,EMEA,Partner,Closed Lost,3193.8,2024-10-07,2024-08-23,45,Enterprise,No,Internal Prioritization,False,45,2024-08,2024-10,2024Q3,2024Q4
+OPP-10276,Deal for Fusion Innovations,Fusion Innovations,Charlie Brown,APAC,Website,Closed Lost,13729.16,2024-08-14,2024-06-18,57,Enterprise,Yes,Internal Prioritization,False,57,2024-06,2024-08,2024Q2,2024Q3
+OPP-10955,Deal for Quantum Labs,Quantum Labs,Bob Williams,APAC,Social Media,Closed Lost,16872.2,2025-06-04,2025-01-13,131,Enterprise,Yes,Features,True,142,2025-01,2025-06,2025Q1,2025Q2
+OPP-10191,Deal for Nexus Enterprises,Nexus Enterprises,Alice Johnson,APAC,Website,Closed Won,2641.34,2025-08-28,2025-04-22,116,Basic,No,NaN,False,128,2025-04,2025-08,2025Q2,2025Q3
+OPP-10385,Deal for Evergreen Tech,Evergreen Tech,Charlie Brown,APAC,Partner,Closed Lost,15397.29,2025-04-18,2025-01-26,68,Enterprise,No,Competitor,False,82,2025-01,2025-04,2025Q1,2025Q2
+OPP-10805,Deal for Velocity Systems,Velocity Systems,Eve Davis,EMEA,Partner,Closed Lost,13372.72,2024-11-02,2024-08-14,80,Enterprise,Yes,Price,False,80,2024-08,2024-11,2024Q3,2024Q4
+OPP-10413,Deal for Quantum Labs,Quantum Labs,Diana Miller,North America,Cold Call,Closed Lost,3621.27,2025-07-21,2025-03-19,124,Basic,Yes,Timing,False,124,2025-03,2025-07,2025Q1,2025Q3
+OPP-10491,Deal for OmniCorp,OmniCorp,Eve Davis,EMEA,Referral,Closed Lost,852.28,2025-01-28,2024-12-13,38,Basic,No,Internal Prioritization,False,46,2024-12,2025-01,2024Q4,2025Q1
+OPP-10343,Deal for GlobalTech,GlobalTech,Bob Williams,North America,Website,Closed Lost,1464.33,2025-05-13,2025-03-03,59,Pro,Yes,Features,False,71,2025-03,2025-05,2025Q1,2025Q2
+OPP-10769,Deal for BrightSpark,BrightSpark,Bob Williams,EMEA,Website,Closed Lost,10720.8,2025-08-14,2025-03-20,133,Pro,No,Features,False,147,2025-03,2025-08,2025Q1,2025Q3
+OPP-10308,Deal for InnovateCo,InnovateCo,Eve Davis,North America,Referral,Closed Lost,7663.72,2025-04-30,2025-02-03,79,Pro,No,Timing,False,86,2025-02,2025-04,2025Q1,2025Q2
+OPP-10661,Deal for Prime Ventures,Prime Ventures,Bob Williams,EMEA,Social Media,Closed Lost,3023.27,2025-01-30,2024-10-26,90,Enterprise,No,Budget,False,96,2024-10,2025-01,2024Q4,2025Q1
+OPP-10130,Deal for Pioneer Systems,Pioneer Systems,Charlie Brown,EMEA,Website,Closed Lost,4603.94,2025-01-08,2024-11-29,35,Pro,No,No Need,False,40,2024-11,2025-01,2024Q4,2025Q1
+OPP-10663,Deal for Horizon Digital,Horizon Digital,Bob Williams,EMEA,Cold Call,Closed Lost,3258.97,2024-10-18,2024-07-22,88,Basic,No,Timing,False,88,2024-07,2024-10,2024Q3,2024Q4
+OPP-10871,Deal for Catalyst Group,Catalyst Group,Diana Miller,APAC,Website,Closed Lost,6472.32,2025-03-14,2024-12-02,92,Pro,Yes,Budget,False,102,2024-12,2025-03,2024Q4,2025Q1
+OPP-10099,Deal for Velocity Systems,Velocity Systems,Diana Miller,EMEA,Event,Closed Lost,4763.9,2025-04-12,2025-01-26,60,Basic,Yes,Price,False,76,2025-01,2025-04,2025Q1,2025Q2
+OPP-10372,Deal for Catalyst Group,Catalyst Group,Charlie Brown,APAC,Social Media,Closed Lost,1672.71,2025-02-24,2024-12-02,70,Basic,Yes,Features,False,84,2024-12,2025-02,2024Q4,2025Q1
+OPP-10087,Deal for Prime Ventures,Prime Ventures,Bob Williams,North America,Website,Closed Lost,1760.64,2025-06-29,2025-04-20,70,Enterprise,No,Competitor,False,70,2025-04,2025-06,2025Q2,2025Q2
+OPP-10458,Deal for Elevate Solutions,Elevate Solutions,Eve Davis,APAC,Website,Closed Lost,1562.36,2025-04-21,2025-02-18,51,Pro,Yes,Competitor,False,62,2025-02,2025-04,2025Q1,2025Q2
+OPP-10330,Deal for Prime Ventures,Prime Ventures,Eve Davis,North America,Website,Closed Lost,4855.0,2025-09-23,2025-04-28,148,Enterprise,Yes,Competitor,False,148,2025-04,2025-09,2025Q2,2025Q3
+OPP-10214,Deal for Catalyst Group,Catalyst Group,Eve Davis,APAC,Referral,Closed Lost,4730.79,2025-08-03,2025-05-04,91,Pro,Yes,Timing,False,91,2025-05,2025-08,2025Q2,2025Q3
+OPP-10466,Deal for Zenith Global,Zenith Global,Diana Miller,EMEA,Social Media,Closed Lost,2675.84,2025-02-27,2025-01-08,50,Basic,Yes,Competitor,False,50,2025-01,2025-02,2025Q1,2025Q1
+OPP-10121,Deal for BrightSpark,BrightSpark,Alice Johnson,EMEA,Social Media,Closed Lost,11230.43,2025-04-18,2025-02-09,56,Enterprise,No,Internal Prioritization,False,68,2025-02,2025-04,2025Q1,2025Q2
+OPP-10614,Deal for Veridian Corp,Veridian Corp,Alice Johnson,North America,Cold Call,Closed Lost,9375.38,2025-03-27,2024-11-01,130,Enterprise,No,Timing,False,146,2024-11,2025-03,2024Q4,2025Q1
+OPP-10020,Deal for Fusion Innovations,Fusion Innovations,Bob Williams,EMEA,Website,Closed Lost,1782.06,2025-08-20,2025-03-23,150,Enterprise,No,Budget,False,150,2025-03,2025-08,2025Q1,2025Q3
+OPP-10700,Deal for Apex Solutions,Apex Solutions,Eve Davis,EMEA,Website,Closed Lost,12549.3,2025-07-16,2025-02-01,158,Enterprise,No,Internal Prioritization,False,165,2025-02,2025-07,2025Q1,2025Q3
+OPP-10071,Deal for Quantum Labs,Quantum Labs,Alice Johnson,North America,Referral,Closed Lost,8741.54,2025-05-25,2025-04-03,32,Pro,Yes,Features,False,52,2025-04,2025-05,2025Q2,2025Q2
+OPP-10106,Deal for OmniCorp,OmniCorp,Charlie Brown,APAC,Referral,Closed Lost,5430.48,2025-03-08,2024-10-31,111,Enterprise,No,Internal Prioritization,False,128,2024-10,2025-03,2024Q4,2025Q1
+OPP-10270,Deal for Apex Solutions,Apex Solutions,Charlie Brown,APAC,Cold Call,Closed Lost,8002.29,2025-02-16,2024-10-30,109,Pro,Yes,Internal Prioritization,False,109,2024-10,2025-02,2024Q4,2025Q1
+OPP-10860,Deal for Horizon Digital,Horizon Digital,Alice Johnson,North America,Referral,Closed Lost,3467.64,2025-04-18,2025-02-01,65,Enterprise,No,Price,False,76,2025-02,2025-04,2025Q1,2025Q2
+OPP-10435,Deal for GlobalTech,GlobalTech,Eve Davis,APAC,Referral,Closed Lost,8663.43,2024-11-02,2024-10-01,20,Pro,No,Competitor,False,32,2024-10,2024-11,2024Q4,2024Q4
+OPP-10102,Deal for Elevate Solutions,Elevate Solutions,Charlie Brown,APAC,Partner,Closed Lost,10181.62,2025-08-09,2025-03-31,113,Enterprise,No,Budget,False,131,2025-03,2025-08,2025Q1,2025Q3
