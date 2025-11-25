@@ -18,6 +18,17 @@ The outputs are intended to help sales and operations teams prioritize opportuni
 - Build a predictive model to estimate the probability of closing a deal
 - Provide actionable visualizations and recommendations
 
+## Dashboard
+
+### Executive Summary 
+![Summary](Assets/Executive_Summary.png)
+
+### Performance Analysis
+![PerformanceAnalysis](Assets/Performance_Analysis.png)
+
+### Pipeline Analysis
+![PipelineAnalysis](Assets/Pipeline_Analysis.png)
+
 
 ## Requirements
 - Python 3.8+
